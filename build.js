@@ -324,7 +324,11 @@ function homePage(posts) {
 
   const rooms = `<section class="wrap rooms" aria-labelledby="rooms-h">
   <h2 id="rooms-h" class="rule-h">Browse by section</h2>
-  <div class="rooms__grid">${site.sections.map((s) => `<a class="room room--${s.slug}" href="/${s.slug}/"><span class="room__name">${s.name}</span><span class="room__blurb">${esc(s.blurb)}</span></a>`).join("")}</div>
+  <div class="rooms__grid">${site.sections.map((s) => {
+    // Section photo: static/images/section-<slug>.jpg, or the stand-in named in site.config.json.
+    const img = [`section-${s.slug}.jpg`, s.image].filter(Boolean).find((f) => fs.existsSync(path.join(ROOT, "static/images", f)));
+    return `<a class="room room--${s.slug}${img ? " room--photo" : ""}" href="/${s.slug}/">${img ? `<img src="/images/${img}" alt="" loading="lazy">` : ""}<span class="room__name">${s.name}</span><span class="room__blurb">${esc(s.blurb)}</span></a>`;
+  }).join("")}</div>
 </section>`;
 
   const body = !lead

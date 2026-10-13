@@ -114,6 +114,11 @@ a:hover { color: var(--aubergine); }
 .room--hosting { background: #64284a; }
 .room--style { background: #e6d39b; color: #1e2b24; }
 .room:hover { color: inherit; filter: brightness(1.1); }
+.room--photo { position: relative; isolation: isolate; overflow: hidden; min-height: 300px; color: #f8f9f5; }
+.room--photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; transition: transform .5s ease; }
+.room--photo::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(to top, rgba(18, 24, 20, .85), rgba(18, 24, 20, .25) 60%, rgba(18, 24, 20, .05)); }
+.room--photo:hover { filter: none; color: #f8f9f5; }
+.room--photo:hover img { transform: scale(1.04); }
 .room__name { font: italic 500 2.2rem/1 var(--serif); }
 .room__blurb { font: 400 .95rem/1.45 var(--sans); opacity: .9; }
 .draft-banner { margin-top: 1.2rem; padding: .8rem 1rem; border: 1px solid var(--butter); background: color-mix(in srgb, var(--butter) 30%, var(--paper)); border-radius: 3px; font: 600 .92rem/1.4 var(--sans); }

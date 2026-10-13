@@ -12,17 +12,20 @@
     {
       "name": "Decor",
       "slug": "decor",
-      "blurb": "Decor, interiors, textiles and the small changes that make a room feel finished."
+      "blurb": "Decor, interiors, textiles and the small changes that make a room feel finished.",
+      "image": "lamp-corner.jpg"
     },
     {
       "name": "Hosting",
       "slug": "hosting",
-      "blurb": "Dinner parties, brunches, game nights and holiday tables, planned so you can enjoy them too."
+      "blurb": "Dinner parties, brunches, game nights and holiday tables, planned so you can enjoy them too.",
+      "image": "plum-tablescape.jpg"
     },
     {
       "name": "Style",
       "slug": "style",
-      "blurb": "Loungewear, hosting outfits and the cozy pieces that live between your closet and your couch."
+      "blurb": "Loungewear, hosting outfits and the cozy pieces that live between your closet and your couch.",
+      "image": "loungewear.jpg"
     }
   ],
   "cloudflareAnalyticsToken": "",
