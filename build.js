@@ -131,7 +131,6 @@ function loadPosts() {
         html, url: `/posts/${slug}/`,
       };
     })
-    .filter((p) => !p.draft && p.date <= new Date(Date.now() + 864e5))
     .sort((a, b) => b.date - a.date);
 }
 
@@ -193,8 +192,8 @@ const newsletter = `<section class="letter" aria-labelledby="letter-h">
 </section>`;
 
 const PREVIEW = {};
-function layout({ title, description, body, path: pagePath = "/", image = "", type = "website", jsonld = "" }) {
-  PREVIEW[pagePath] = { title: title || site.name, body };
+function layout({ title, description, body, path: pagePath = "/", image = "", type = "website", jsonld = "", noindex = false }) {
+  if (!noindex) PREVIEW[pagePath] = { title: title || site.name, body };
   if (image && image.startsWith("/")) image = SITE_URL + image;
   const fullTitle = title ? `${title} | ${site.name}` : `${site.name}: ${site.tagline}`;
   const canonical = SITE_URL + pagePath;
@@ -206,6 +205,7 @@ function layout({ title, description, body, path: pagePath = "/", image = "", ty
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(fullTitle)}</title>
 <meta name="description" content="${esc(description || site.description)}">
+${noindex ? '<meta name="robots" content="noindex, nofollow">' : ""}
 <link rel="canonical" href="${canonical}">
 <meta property="og:site_name" content="${esc(site.name)}">
 <meta property="og:title" content="${esc(title || site.name)}">
@@ -263,46 +263,73 @@ function mini(post) {
 }
 
 function homePage(posts) {
-  const [lead, ...rest] = posts;
-  const alsoNew = rest.slice(0, 3);
-  const shown = new Set([lead, ...alsoNew]);
-  const shelves = site.sections.map((s) => {
-    const all = posts.filter((p) => p.section.slug === s.slug);
-    const list = [...all.filter((p) => !shown.has(p)), ...all.filter((p) => shown.has(p))].slice(0, 3);
-    if (!list.length) return "";
-    return `<section class="shelf shelf--${s.slug}" aria-labelledby="shelf-${s.slug}">
-      <div class="shelf__head"><h2 id="shelf-${s.slug}">${s.name}</h2><p>${esc(s.blurb)}</p><a href="/${s.slug}/">All ${s.name.toLowerCase()} stories</a></div>
-      <div class="grid">${list.map(card).join("")}</div>
-    </section>`;
-  }).join("");
+  // "New this week": everything published in the last 7 days (at most 3), or the latest story.
+  const weekAgo = Date.now() - 7 * 864e5;
+  let fresh = posts.filter((p) => p.date.getTime() >= weekAgo).slice(0, 3);
+  const isWeek = fresh.length > 0;
+  if (!fresh.length) fresh = posts.slice(0, 1);
+  const [lead, ...alsoNew] = fresh;
+  const rest = posts.filter((p) => !fresh.includes(p));
+  const more = rest.slice(0, rest.length >= 3 ? Math.min(6, Math.floor(rest.length / 3) * 3) : rest.length);
+
+  const heroFile = ["hero.jpg", "about.jpg"].find((f) => fs.existsSync(path.join(ROOT, "static/images", f)));
+  const hero = `<section class="hero${heroFile ? "" : " hero--plain"}" aria-labelledby="hero-h">
+  ${heroFile ? `<img class="hero__img" src="/images/${heroFile}" alt="${esc(site.heroAlt || "A warm, lamp-lit living room styled for fall")}" fetchpriority="high">` : ""}
+  <div class="hero__inner wrap">
+    <p class="hero__kicker">Decor, hosting and cozy style</p>
+    <h1 id="hero-h" class="hero__name">${esc(site.name)}</h1>
+    <p class="hero__tag">${esc(site.tagline)}</p>
+    <div class="hero__actions">
+      ${lead ? `<a class="button button--light" href="${lead.url}">Read the newest story</a>` : ""}
+      <a class="button button--outline-light" href="#letter-h">Join the Sunday table</a>
+    </div>
+  </div>
+</section>`;
 
   const aboutImg = fs.existsSync(path.join(ROOT, "static/images/about.jpg"))
     ? `<img src="/images/about.jpg" alt="A sunlit entryway console with magazines, a lamp and eucalyptus" loading="lazy">`
     : `<div class="cover cover--sm cover--decor" aria-hidden="true"><span class="cover__motif">${motifs.decor}</span></div>`;
-
-  const body = !lead ? `<section class="wrap empty"><h1>First story coming soon</h1><p>Add a post to the posts folder and redeploy.</p></section>` : `
-<section class="front wrap">
-  <article class="lead">
-    <a class="lead__cover" href="${lead.url}">${cover(lead, "lg")}</a>
-    <div class="lead__text">
-      <a class="post__section post__section--${lead.section.slug}" href="/${lead.section.slug}/">${esc(lead.section.name)}</a>
-      <h1><a href="${lead.url}">${esc(lead.title)}</a></h1>
-      <p class="lead__dek">${esc(lead.subtitle || lead.description)}</p>
-      ${meta(lead)}
-    </div>
-  </article>
-  ${alsoNew.length ? `<aside class="rail" aria-labelledby="rail-h"><h2 id="rail-h">Also new this week</h2>${alsoNew.map(mini).join("")}<a class="rail__all" href="/archive/">Every story</a></aside>` : ""}
-</section>
-<section class="note wrap" aria-labelledby="note-h">
+  const about = `<section class="note wrap" aria-labelledby="note-h">
   <div class="note__img">${aboutImg}</div>
   <div class="note__text">
+    <p class="eyebrow">About the magazine</p>
     <h2 id="note-h">A magazine for the way you actually live at home</h2>
-    <p>New stories every Tuesday and Friday on decorating, hosting and cozy style, each with a short edit of finds that are well reviewed, good looking and fairly priced.</p>
+    <p>House &amp; Habit is about the places we live and the people we invite into them: rooms that feel finished, tables worth gathering around, and the cozy pieces in between.</p>
+    <p>New stories every Tuesday and Friday, each with a short edit of finds that are well reviewed, good looking and fairly priced.</p>
     <a href="/about/">Meet the editor</a>
   </div>
-</section>
-<div class="wrap">${shelves}</div>
-${newsletter}`;
+</section>`;
+
+  const featured = !lead ? "" : `<section class="featured wrap" aria-labelledby="featured-h">
+  <h2 id="featured-h" class="rule-h">${isWeek ? "New this week" : "The latest story"}</h2>
+  <div class="front${alsoNew.length ? "" : " front--solo"}">
+    <article class="lead">
+      <a class="lead__cover" href="${lead.url}">${cover(lead, "lg")}</a>
+      <div class="lead__text">
+        <a class="post__section post__section--${lead.section.slug}" href="/${lead.section.slug}/">${esc(lead.section.name)}</a>
+        <h3><a href="${lead.url}">${esc(lead.title)}</a></h3>
+        <p class="lead__dek">${esc(lead.subtitle || lead.description)}</p>
+        ${meta(lead)}
+      </div>
+    </article>
+    ${alsoNew.length ? `<aside class="rail" aria-label="Also new this week">${alsoNew.map(mini).join("")}</aside>` : ""}
+  </div>
+</section>`;
+
+  const moreHtml = !more.length ? "" : `<section class="wrap recent" aria-labelledby="more-h">
+  <h2 id="more-h" class="rule-h">More to read</h2>
+  <div class="grid">${more.map(card).join("")}</div>
+  <p class="more__all"><a class="button button--ghost" href="/archive/">See every story</a></p>
+</section>`;
+
+  const rooms = `<section class="wrap rooms" aria-labelledby="rooms-h">
+  <h2 id="rooms-h" class="rule-h">Browse by section</h2>
+  <div class="rooms__grid">${site.sections.map((s) => `<a class="room room--${s.slug}" href="/${s.slug}/"><span class="room__name">${s.name}</span><span class="room__blurb">${esc(s.blurb)}</span></a>`).join("")}</div>
+</section>`;
+
+  const body = !lead
+    ? `${hero}<section class="wrap empty"><h2>First story coming soon</h2></section>${newsletter}`
+    : `${hero}\n${about}\n${featured}\n${moreHtml}\n${rooms}\n${newsletter}`;
   write("index.html", layout({ path: "/", body, description: site.description }));
 }
 
@@ -329,8 +356,8 @@ function archivePage(posts) {
   write("archive/index.html", layout({ title: "All stories", path: "/archive/", body }));
 }
 
-function postPages(posts) {
-  posts.forEach((post, i) => {
+function postPages(posts, drafts = []) {
+  [...posts, ...drafts].forEach((post, i) => {
     const related = posts.filter((p) => p !== post && p.section.slug === post.section.slug).slice(0, 3);
     const more = related.length ? related : posts.filter((p) => p !== post).slice(0, 3);
     const pageUrl = SITE_URL + post.url;
@@ -345,7 +372,8 @@ function postPages(posts) {
       publisher: { "@type": "Organization", name: site.name }, mainEntityOfPage: pageUrl, ...(post.cover ? { image: post.cover } : {}),
     })}</script>`;
 
-    const body = `<article class="post">
+    const banner = post.draft ? `<div class="draft-banner wrap">Draft preview: only people with this link can see it. It is not on the home page, the section pages or Google yet.</div>` : "";
+    const body = `${banner}<article class="post">
   <header class="post__head wrap">
     <a class="post__section post__section--${post.section.slug}" href="/${post.section.slug}/">${esc(post.section.name)}</a>
     <h1>${esc(post.title)}</h1>
@@ -364,7 +392,7 @@ function postPages(posts) {
 </article>
 ${more.length ? `<section class="wrap recent" aria-labelledby="more-h"><h2 id="more-h" class="rule-h">Keep reading</h2><div class="grid">${more.map(card).join("")}</div></section>` : ""}
 ${newsletter}`;
-    write(`posts/${post.slug}/index.html`, layout({ title: post.title, description: post.description, path: post.url, body, image: post.cover, type: "article", jsonld }));
+    write(`posts/${post.slug}/index.html`, layout({ title: post.title, description: post.description, path: post.url, body, image: post.cover, type: "article", jsonld, noindex: post.draft }));
   });
 }
 
@@ -441,14 +469,17 @@ fs.rmSync(OUT, { recursive: true, force: true });
 fs.mkdirSync(OUT, { recursive: true });
 fs.cpSync(path.join(ROOT, "static"), OUT, { recursive: true });
 
-const posts = loadPosts();
+// Drafts (draft: true) get a private preview page but stay off every list, the sitemap and RSS.
+const allPosts = loadPosts();
+const drafts = allPosts.filter((p) => p.draft);
+const posts = allPosts.filter((p) => !p.draft && p.date <= new Date(Date.now() + 864e5));
 const pages = loadPages();
 homePage(posts);
 sectionPages(posts);
 archivePage(posts);
-postPages(posts);
+postPages(posts, drafts);
 staticPages(pages);
 feeds(posts, pages);
 
 buildPreview();
-console.log(`Built ${posts.length} post(s) and ${pages.length} page(s) into dist/`);
+console.log(`Built ${posts.length} post(s), ${drafts.length} draft preview(s) and ${pages.length} page(s) into dist/`);
