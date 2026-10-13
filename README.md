@@ -61,3 +61,20 @@ The site is ready for Cloudflare Web Analytics, which is free and uses no cookie
 4. Open `site.config.json` on GitHub, paste it between the quotes on the `cloudflareAnalyticsToken` line, and commit.
 
 Netlify rebuilds the site and every page starts counting. Your numbers (page views, top posts, where readers came from, countries) appear in the Cloudflare dashboard.
+
+### Google Analytics (GA4)
+
+1. Go to analytics.google.com, create an account and a property for House & Habit, then add a Web data stream with the address https://houseandhabit.netlify.app.
+2. Copy the Measurement ID (it starts with `G-`).
+3. Open `site.config.json` on GitHub, paste it between the quotes on the `googleAnalyticsId` line, and commit.
+
+Every page starts reporting within a day. Clicks on Amazon links are also counted as an `affiliate_click` event, so you can see which posts send readers to shop.
+
+## Get found on Google and Pinterest
+
+Each post already gets a meta description (the `description:` line), social preview tags, article structured data and a sitemap with dates and cover photos.
+
+1. Google Search Console: at search.google.com/search-console add a "URL prefix" property for https://houseandhabit.netlify.app, choose "HTML tag", and copy only the `content="..."` code into the `googleSiteVerification` line of `site.config.json`. Commit, press Verify, then submit `sitemap.xml` under Sitemaps.
+2. Pinterest: in Pinterest business settings, claim the website with the HTML tag option and paste the code into the `pinterestVerification` line.
+
+Write a description of 140 to 160 characters that uses the phrase people search for (for example "how to decorate with plaid").

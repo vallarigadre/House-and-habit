@@ -192,7 +192,7 @@ const newsletter = `<section class="letter" aria-labelledby="letter-h">
 </section>`;
 
 const PREVIEW = {};
-function layout({ title, description, body, path: pagePath = "/", image = "", type = "website", jsonld = "", noindex = false }) {
+function layout({ title, description, body, path: pagePath = "/", image = "", imageAlt = "", type = "website", jsonld = "", noindex = false, published = null, tags = [] }) {
   if (!noindex) PREVIEW[pagePath] = { title: title || site.name, body };
   if (image && image.startsWith("/")) image = SITE_URL + image;
   const fullTitle = title ? `${title} | ${site.name}` : `${site.name}: ${site.tagline}`;
@@ -213,7 +213,17 @@ ${noindex ? '<meta name="robots" content="noindex, nofollow">' : ""}
 <meta property="og:type" content="${type}">
 <meta property="og:url" content="${canonical}">
 ${image ? `<meta property="og:image" content="${esc(image)}">` : ""}
+${image && imageAlt ? `<meta property="og:image:alt" content="${esc(imageAlt)}">` : ""}
+<meta property="og:locale" content="en_US">
+${published ? `<meta property="article:published_time" content="${published.toISOString()}">\n<meta property="article:author" content="${esc(site.author)}">` : ""}
+${tags.map((t) => `<meta property="article:tag" content="${esc(t)}">`).join("\n")}
 <meta name="twitter:card" content="${image ? "summary_large_image" : "summary"}">
+<meta name="twitter:title" content="${esc(title || site.name)}">
+<meta name="twitter:description" content="${esc(description || site.description)}">
+${image ? `<meta name="twitter:image" content="${esc(image)}">` : ""}
+${noindex ? "" : '<meta name="robots" content="index, follow, max-image-preview:large">'}
+${site.googleSiteVerification ? `<meta name="google-site-verification" content="${esc(site.googleSiteVerification)}">` : ""}
+${site.pinterestVerification ? `<meta name="p:domain_verify" content="${esc(site.pinterestVerification)}">` : ""}
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="${esc(site.name)}" href="/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -221,6 +231,9 @@ ${image ? `<meta property="og:image" content="${esc(image)}">` : ""}
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
 ${jsonld}
+${/^G-[A-Z0-9]+$/.test(site.googleAnalyticsId || "") ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${site.googleAnalyticsId}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","${site.googleAnalyticsId}");
+document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a.shop-link");if(a)gtag("event","affiliate_click",{link_url:a.href,link_text:(a.textContent||"").trim().slice(0,100)});});</script>` : ""}
 ${site.cloudflareAnalyticsToken ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${esc(site.cloudflareAnalyticsToken)}"}'></script>` : ""}
 </head>
 <body>
@@ -365,15 +378,18 @@ function postPages(posts, drafts = []) {
     const related = posts.filter((p) => p !== post && p.section.slug === post.section.slug).slice(0, 3);
     const more = related.length ? related : posts.filter((p) => p !== post).slice(0, 3);
     const pageUrl = SITE_URL + post.url;
+    const coverAbs = post.cover ? (post.cover.startsWith("/") ? SITE_URL + post.cover : post.cover) : "";
     const pinText = post.pinDescription || post.description;
-    const pinHref = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&description=${encodeURIComponent((post.pinTitle || post.title) + ". " + pinText)}${post.cover ? "&media=" + encodeURIComponent(post.cover) : ""}`;
+    const pinHref = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&description=${encodeURIComponent((post.pinTitle || post.title) + ". " + pinText)}${coverAbs ? "&media=" + encodeURIComponent(coverAbs) : ""}`;
     const disclosure = post.hasShopLinks && !post.hasDisclosure
       ? `<p class="disclosure">This post contains affiliate links. As an Amazon Associate I earn from qualifying purchases, at no extra cost to you. <a href="/disclosure/">Read the disclosure</a>.</p>` : "";
 
     const jsonld = `<script type="application/ld+json">${JSON.stringify({
       "@context": "https://schema.org", "@type": "BlogPosting", headline: post.title, description: post.description,
-      datePublished: post.date.toISOString(), author: { "@type": "Person", name: site.author },
-      publisher: { "@type": "Organization", name: site.name }, mainEntityOfPage: pageUrl, ...(post.cover ? { image: post.cover } : {}),
+      datePublished: post.date.toISOString(), dateModified: post.date.toISOString(), author: { "@type": "Person", name: site.author, url: SITE_URL + "/about/" },
+      publisher: { "@type": "Organization", name: site.name, url: SITE_URL + "/", logo: { "@type": "ImageObject", url: SITE_URL + "/favicon.svg" } },
+      mainEntityOfPage: { "@type": "WebPage", "@id": pageUrl }, url: pageUrl, articleSection: post.section.name,
+      ...(post.tags.length ? { keywords: post.tags.join(", ") } : {}), ...(coverAbs ? { image: [coverAbs] } : {}),
     })}</script>`;
 
     const banner = post.draft ? `<div class="draft-banner wrap">Draft preview: only people with this link can see it. It is not on the home page, the section pages or Google yet.</div>` : "";
@@ -396,7 +412,7 @@ function postPages(posts, drafts = []) {
 </article>
 ${more.length ? `<section class="wrap recent" aria-labelledby="more-h"><h2 id="more-h" class="rule-h">Keep reading</h2><div class="grid">${more.map(card).join("")}</div></section>` : ""}
 ${newsletter}`;
-    write(`posts/${post.slug}/index.html`, layout({ title: post.title, description: post.description, path: post.url, body, image: post.cover, type: "article", jsonld, noindex: post.draft }));
+    write(`posts/${post.slug}/index.html`, layout({ title: post.title, description: post.description, path: post.url, body, image: post.cover, imageAlt: post.coverAlt, type: "article", jsonld, noindex: post.draft, published: post.date, tags: post.tags }));
   });
 }
 
@@ -412,8 +428,14 @@ function staticPages(pages) {
 function feeds(posts, pages) {
   const items = posts.slice(0, 30).map((p) => `<item><title>${esc(p.title)}</title><link>${SITE_URL}${p.url}</link><guid>${SITE_URL}${p.url}</guid><pubDate>${p.date.toUTCString()}</pubDate><category>${esc(p.section.name)}</category><description>${esc(p.description)}</description></item>`).join("");
   write("rss.xml", `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>${esc(site.name)}</title><link>${SITE_URL}/</link><description>${esc(site.description)}</description><language>en-us</language>${items}</channel></rss>`);
-  const urls = ["/", "/archive/", ...site.sections.map((s) => `/${s.slug}/`), ...pages.map((p) => `/${p.slug}/`), ...posts.map((p) => p.url)];
-  write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map((u) => `<url><loc>${SITE_URL}${u}</loc></url>`).join("")}</urlset>`);
+  const day = (d) => d.toISOString().slice(0, 10);
+  const latest = posts.length ? day(posts[0].date) : "";
+  const urls = [
+    ...["/", "/archive/", ...site.sections.map((s) => `/${s.slug}/`)].map((u) => ({ u, lastmod: latest })),
+    ...pages.map((p) => ({ u: `/${p.slug}/` })),
+    ...posts.map((p) => ({ u: p.url, lastmod: day(p.date), img: p.cover && fs.existsSync(path.join(ROOT, "static", p.cover)) ? SITE_URL + p.cover : "" })),
+  ];
+  write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">${urls.map(({ u, lastmod, img }) => `<url><loc>${SITE_URL}${u}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ""}${img ? `<image:image><image:loc>${esc(img)}</image:loc></image:image>` : ""}</url>`).join("")}</urlset>`);
   write("robots.txt", `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
 }
 

@@ -29,5 +29,8 @@
     }
   ],
   "cloudflareAnalyticsToken": "",
+  "googleAnalyticsId": "",
+  "googleSiteVerification": "",
+  "pinterestVerification": "",
   "heroAlt": "A warm living room with a chocolate brown sofa, cream throw and walnut coffee table in autumn light"
 }

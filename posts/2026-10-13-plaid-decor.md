@@ -2,7 +2,6 @@
 title: "Plaid is fall's favorite pattern: how to decorate with tartan in 2026"
 subtitle: "Forget the hunting lodge. This season's plaid is softer, smarter and surprisingly easy to live with."
 date: 2026-10-13
-draft: true
 category: Decor
 description: "Plaid is back for fall 2026. How to decorate with tartan the modern way: the new colorways, where to use it and how to mix it, room by room."
 tags: [plaid decor, tartan decor, fall decor 2026, cozy home, fall textiles, layered bedroom, autumn living room]
