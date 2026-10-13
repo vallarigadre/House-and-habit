@@ -1,0 +1,29 @@
+{
+  "name": "House & Habit",
+  "tagline": "Rooms worth lingering in, tables worth gathering around.",
+  "description": "A lifestyle and home magazine on decor, cozy living, hosting and everyday style, with shoppable picks for every season.",
+  "url": "https://houseandhabit.netlify.app",
+  "author": "Vallari Gadre",
+  "authorShort": "V",
+  "amazonTag": "creativedi03c-20",
+  "pinterest": "",
+  "instagram": "",
+  "sections": [
+    {
+      "name": "Decor",
+      "slug": "decor",
+      "blurb": "Decor, interiors, textiles and the small changes that make a room feel finished."
+    },
+    {
+      "name": "Hosting",
+      "slug": "hosting",
+      "blurb": "Dinner parties, brunches, game nights and holiday tables, planned so you can enjoy them too."
+    },
+    {
+      "name": "Style",
+      "slug": "style",
+      "blurb": "Loungewear, hosting outfits and the cozy pieces that live between your closet and your couch."
+    }
+  ],
+  "cloudflareAnalyticsToken": ""
+}

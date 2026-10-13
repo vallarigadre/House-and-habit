@@ -1,0 +1,14 @@
+{
+  "name": "house-and-habit",
+  "version": "1.0.0",
+  "description": "House & Habit blog",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node build.js && npx serve dist"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^12.0.2"
+  },
+  "private": true
+}
