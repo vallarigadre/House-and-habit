@@ -38,6 +38,8 @@ These are the hardworking pieces you will wear under and over everything else.
 
 **The fine-knit cardigan.** The [Amazon Essentials lightweight crewneck cardigan](https://link.amazon/B01Kew012) in mustard adds a pop of fall color. Button it all the way up and wear it as a sweater, or leave it open over a turtleneck.
 
+![A styled vignette of three layering basics on a wooden peg rail: an olive fine-knit turtleneck, an open navy and dark green plaid flannel shirt and a mustard crewneck cardigan, in soft morning light](/images/fall-capsule-under-50-2.jpg)
+
 ## Under $35: the cozy knits and staples
 
 This is the heart of the capsule: the sweaters you will reach for every day, plus a pair of jeans and one dress.
@@ -50,11 +52,13 @@ This is the heart of the capsule: the sweaters you will reach for every day, plu
 
 **The fuzzy cardigan.** The [Amazon Essentials fuzzy crewneck cardigan](https://link.amazon/B0hJ4vxhq) has a soft, textured knit and gold buttons, so it looks more expensive than it is. It comes in cream and in chocolate brown; when I looked, the cream was on sale for well under $20, and the brown was closer to $30.
 
+![Four cozy knits stacked on a wooden bench: a red cable knit crewneck, a burgundy turtleneck, an olive cable crewneck and a chocolate brown fuzzy cardigan with gold buttons, beside a mug of coffee, in warm window light](/images/fall-capsule-under-50-3.jpg)
+
 **The ivory wide-leg jeans.** The [Amazon Essentials high-waist wide-leg jeans](https://link.amazon/B02clTrFW) in ivory are the surprise star of the capsule. Winter white makes every sweater color look brighter, and the wide leg looks great with both boots and loafers.
 
 **The dinner dress.** The [Amazon Essentials fit and flare dress](https://link.amazon/B0g5CPJ8t) in a burgundy and blue floral has long sleeves and a twist at the waist. Add tall boots and a cardigan for a Friendsgiving or a dinner party.
 
-![A close-up of a red cable knit sweater and a burgundy turtleneck folded on a wooden bench beside ivory wide-leg jeans and a mug of coffee, in soft overcast daylight](/images/fall-capsule-under-50-2.jpg)
+![Ivory high-waist wide-leg jeans folded on a chair beside a long-sleeve burgundy and blue floral fit and flare dress on a hanger, in soft overcast daylight](/images/fall-capsule-under-50-4.jpg)
 
 ## Under $50: the jackets and boots
 
@@ -68,7 +72,7 @@ These are the pieces that finish an outfit, and the ones worth the biggest share
 
 **The combat boots.** For rainy days and long walks, the [Amazon Essentials lace-up combat boots](https://link.amazon/B05qJ1NgT) in olive are sturdy, comfortable and a little bit cool.
 
-![A styled vignette of chestnut tall boots and olive lace-up boots on a wooden floor beside a coat rack holding a cropped denim jacket with a corduroy collar and an eggshell puffer, in warm golden hour light](/images/fall-capsule-under-50-3.jpg)
+![A styled vignette of chestnut tall boots and olive lace-up boots on a wooden floor beside a coat rack holding a cropped denim jacket with a corduroy collar and an eggshell puffer, in warm golden hour light](/images/fall-capsule-under-50-5.jpg)
 
 ## 5 outfits from 13 pieces
 
@@ -79,6 +83,8 @@ Here is how the capsule turns into a week and more of outfits:
 3. **Working from home:** olive cable crewneck, fuzzy cardigan and your softest jeans. Comfortable enough for the couch, polished enough for a video call.
 4. **Dinner out:** burgundy turtleneck tucked into ivory jeans, cropped puffer on top and tall boots.
 5. **Friendsgiving or a dinner party:** the floral fit and flare dress, the mustard or cream cardigan and tall boots.
+
+![An outfit laid flat on a wooden floor: a red cable knit sweater, ivory wide-leg jeans, a cropped denim jacket with a brown corduroy collar and chestnut tall boots, in golden hour light](/images/fall-capsule-under-50-6.jpg)
 
 Mix the tops and layers and you will get many more. That is the whole point of a capsule.
 
@@ -92,7 +98,7 @@ Mix the tops and layers and you will get many more. That is the whole point of a
 - One jacket for mild days and one for cold days
 - One dressy pair of boots and one practical pair
 
-![An overhead flat lay of a fall capsule wardrobe on an oatmeal linen bedspread: folded sweaters in red, burgundy, olive and mustard, a plaid flannel shirt, ivory jeans and a brown fuzzy cardigan, in bright natural daylight](/images/fall-capsule-under-50-4.jpg)
+![An overhead flat lay of a fall capsule wardrobe on an oatmeal linen bedspread: folded sweaters in red, burgundy, olive and mustard, a plaid flannel shirt, ivory jeans and a brown fuzzy cardigan, in bright natural daylight](/images/fall-capsule-under-50-7.jpg)
 
 ## Shop the edit
 
