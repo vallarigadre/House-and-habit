@@ -2,7 +2,6 @@
 title: "A fall capsule wardrobe under $50: 13 pieces that mix into a whole season"
 subtitle: "Cozy knits, a good jacket and the right boots, every one of them under $50, chosen to work together."
 date: 2026-10-17
-draft: true
 category: Style
 description: "A fall capsule wardrobe under $50 a piece: cozy sweaters, cardigans, jackets, jeans and boots that mix into easy outfits all season."
 tags: [fall capsule wardrobe, fall outfits under 50, affordable fall fashion, cozy fall outfits, fall sweaters, budget style, cozy style]
