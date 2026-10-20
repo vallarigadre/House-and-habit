@@ -111,7 +111,3 @@ That is it. Your living room has just become the coziest room in the house.
 - [Kasa smart plug, 4 pack](https://link.amazon/B0gDCkJR4): lamps on at sunset, automatically.
 
 Prices change often, so check the current price on Amazon before you buy.
-
-## Sources
-
-- [Homes and Gardens: Lighting trends for 2026](https://www.homesandgardens.com/interior-design/lighting-trends-for-2026)

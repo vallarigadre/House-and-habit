@@ -99,7 +99,3 @@ Skip rings and bracelets while you are cooking. Put them on after the food is ou
 - [Caldo linen kitchen apron](https://link.amazon/B06EXxePs): for the final stretch at the stove.
 
 Prices change often, so check the current price and size chart on Amazon before you buy.
-
-## Sources
-
-- [The Zoe Report: What to wear when hosting](https://www.thezoereport.com/fashion/style-tips/what-to-wear-when-hosting)

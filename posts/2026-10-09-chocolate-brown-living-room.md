@@ -108,8 +108,3 @@ Prices change often, so check the current price on Amazon before you buy.
 ## Start with one swap
 
 Pick one thing this weekend: two pillow covers, a throw or a vase. Live with it for a week. Brown has a way of quietly making a room feel more settled, and most people find themselves reaching for a little more.
-
-## Sources
-
-- [1stDibs: Interior design trends 2026](https://www.1stdibs.com/blogs/the-study/interior-design-trends-2026)
-- [Homemakers: Fall decorating trends](https://www.homemakers.com/blog/inspiration/fall-decorating-trends.html)

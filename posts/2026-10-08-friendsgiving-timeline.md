@@ -123,8 +123,3 @@ Prices change often, so check the current price on Amazon before you buy.
 ## The only rule that matters
 
 Friendsgiving is about the people around the table, not a flawless menu. If the stuffing is a little dry or the rolls are store bought, nobody will remember. They will remember that you lit the candles, poured them a drink and made a toast. Plan ahead, hand out jobs and sit down with your friends.
-
-## Sources
-
-- [Peerspace: Friendsgiving ideas](https://ideas.peerspace.com/friendsgiving-ideas/)
-- [Swyft Home: Autumn and winter tablescape trends 2026](https://swyfthome.com/blogs/lifestyle/autumn-winter-tablescape-trends-2026)

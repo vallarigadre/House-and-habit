@@ -179,9 +179,3 @@ Prices change often, so check the current price on Amazon before you buy.
 The best Halloween parties for grown-ups are not about scaring anyone. They are about creating a little magic: candlelight, a beautiful table, something delicious in a pretty glass and friends lingering long after the last taper has burned down. Pick your mood, light everything you own and let the night take care of the rest.
 
 Happy haunting, and happy hosting.
-
-## Sources
-
-- [Elle Decor: The entertaining trends taking over in 2026 (via AOL)](https://www.aol.com/articles/entertaining-trends-taking-over-2026-150000990.html)
-- [Livingetc: How to curate a stylishly spooky Halloween tablescape](https://www.livingetc.com/news/how-to-curate-a-halloween-tablescape)
-- [Spacejoy: Halloween hosting guide, an elevated adult soiree](https://www.spacejoy.com/interior-designs-blog/halloween-hosting-guide-2025-elevated-adult-soiree)

@@ -100,7 +100,3 @@ Loungewear gets worn and washed constantly, so a little care goes a long way.
 - [Conair rechargeable fabric shaver](https://link.amazon/B08bPjgAq): banish pills in seconds.
 
 Prices change often, so check the current price and size chart on Amazon before you buy.
-
-## Sources
-
-- [Who What Wear: Emerging loungewear trends for fall](https://www.whowhatwear.com.au/comfortable-loungewear-for-fall)

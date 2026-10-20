@@ -148,10 +148,3 @@ For everything else, ask guests to bring a bottle of wine or a favorite cider, a
 The best thing about soup night is how little it asks of you. A few pots, a pile of bread, some candles and a crowd of people you love, crowded into the kitchen on a cold night. Make it once this fall and you may find it becomes a standing tradition. And when you are ready to scale up for the big holiday, my [Friendsgiving hosting timeline](/posts/friendsgiving-timeline/) will walk you through the day hour by hour.
 
 Prices change often, so check the current price on Amazon before you buy.
-
-**Sources**
-
-- [Plan your best parties yet with the help of these 2026 hosting trends (Better Homes & Gardens, via AOL)](https://www.aol.com/articles/plan-best-parties-yet-help-235500589.html)
-- [How to host a cozy soup swap (Simple Bites)](https://simplebites.net/how-to-host-a-cozy-soup-swap/)
-- [How to host a soup party (Le Chef's Wife)](https://lechefswife.com/how-to-host-a-soup-party/)
-- [Soup swaps are the latest party trend on TikTok (Her Campus)](https://www.hercampus.com/life/how-to-host-soup-swap-tiktok-party-trend/)

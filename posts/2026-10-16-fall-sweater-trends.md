@@ -125,9 +125,3 @@ The magic of a great sweater is how much it asks of you: almost nothing. Pull it
 Hosting soon? Pair your new favorite knit with the ideas in [What to wear when you're the host](/posts/what-to-wear-hosting/).
 
 Prices change often, so check the current price on Amazon before you buy.
-
-### Sources
-
-- [Fall 2026 knitwear trends, Coveteur](https://coveteur.com/fall-2026-knitwear-trends)
-- [These 7 sweater trends are set to dominate fall 2026, Grazia](https://graziamagazine.com/us/articles/these-7-sweater-trends-are-set-to-dominate-fall-2026/)
-- [The biggest fall 2026 fashion trends, according to the runways, Marie Claire](https://www.marieclaire.com/fashion/fall-fashion/fall-2026-fashion-trends/)

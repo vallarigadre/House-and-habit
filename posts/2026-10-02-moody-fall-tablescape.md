@@ -101,8 +101,3 @@ Prices change often, so check the current price on Amazon before you buy.
 ## Make it yours
 
 The best tables feel personal. Use your grandmother's candlesticks, a vintage platter or the wine glasses you have had since your first apartment. The formula is simple: a dark base, plenty of candlelight, something gold and something growing. Everything else is just you.
-
-## Sources
-
-- [Swyft Home: Autumn and winter tablescape trends 2026](https://swyfthome.com/blogs/lifestyle/autumn-winter-tablescape-trends-2026)
-- [Homemakers: Fall decorating trends](https://www.homemakers.com/blog/inspiration/fall-decorating-trends.html)

@@ -127,10 +127,3 @@ Plaid works because it feels familiar. It reminds us of school blazers, old flan
 If you are building a warm fall palette, plaid looks especially good next to cocoa and espresso. See how in [Chocolate brown is fall's coziest neutral](/posts/chocolate-brown-living-room/).
 
 Prices change often, so check the current price on Amazon before you buy.
-
-### Sources
-
-- [If fall were a pattern, it would be plaid, Homes & Gardens](https://www.homesandgardens.com/collection/decor/seasonal/plaid-home-decor-fall-2026)
-- [The tartan decor trend, Homes & Gardens](https://www.homesandgardens.com/interior-design/tartan-decor-trend)
-- [Fall winter 2026 home decor trends report, Trendalytics](https://blog.trendalytics.co/fall-winter-2026-home-decor-trends-report)
-- [Pre-fall 2026: plaid is the key pattern for the season, FashionUnited](https://fashionunited.com/news/fashion/prefall-2026-plaid-is-the-key-pattern-for-the-season/2025121969690)
