@@ -241,6 +241,7 @@ ${site.cloudflareAnalyticsToken ? `<script defer src="https://static.cloudflarei
 <header class="masthead">
   <div class="masthead__inner">
     <a class="wordmark" href="/">${esc(site.name)}</a>
+    ${pagePath === "/" ? "" : `<p class="masthead__tag">${esc(site.tagline)}</p>`}
     <nav class="nav" aria-label="Sections">${nav}<a href="/about/"${pagePath === "/about/" ? ' aria-current="page"' : ""}>About</a></nav>
   </div>
 </header>
