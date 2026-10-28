@@ -51,6 +51,24 @@ cover_alt: "Optional image description"
 
 Install Node.js, then in this folder run `npm install` and `npm start`.
 
+## Your private stats page
+
+Open https://houseandhabit.netlify.app/admin/ and sign in with your stats password. It shows:
+
+- Views and read-throughs for every post (a read-through means the reader scrolled at least 60% of the post).
+- Amazon clicks: which products, from which post, in the story or in the shop list.
+- Where readers came from: Pinterest, Instagram, Threads, Google, Direct and more.
+- Day-by-day views and clicks, devices and countries.
+
+Counts are anonymous, with no cookies. Once you sign in, that browser stops counting your own visits.
+
+To get credit for Instagram and Threads traffic (those apps often hide where a visit came from), add a tag to links you share there:
+`https://houseandhabit.netlify.app/posts/your-post/?utm_source=instagram` (or `threads`, `pinterest`, `newsletter`).
+
+To change the password: in Netlify, open Site configuration, Environment variables, add `STATS_PASSWORD` with your new password, and redeploy. Sales and earnings are in Amazon Associates under the `creativedi03c-20` tracking ID.
+
+How it works: `static/t.js` sends each event to `netlify/functions/t.mjs`, which stores it in Netlify Blobs. Every hour `compact-stats.mjs` rolls events into daily totals, and `/api/stats` (`stats.mjs`) serves them to `static/admin/index.html`.
+
 ## See how many people read each post
 
 The site is ready for Cloudflare Web Analytics, which is free and uses no cookies.
