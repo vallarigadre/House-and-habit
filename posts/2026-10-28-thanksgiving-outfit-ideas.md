@@ -2,7 +2,6 @@
 title: "What to wear to Thanksgiving: 6 comfortable, chic outfit ideas for 2026"
 subtitle: "Polished enough for the photos, forgiving enough for second helpings of pie."
 date: 2026-10-28
-draft: true
 category: Style
 description: "Six Thanksgiving outfit ideas for 2026 that are cozy, polished and dinner-friendly, from sweater dresses to pull-on trousers and plum knits."
 tags: [thanksgiving outfit ideas, what to wear to thanksgiving, thanksgiving outfits 2026, cozy fall outfits, holiday style, fall fashion trends 2026]
@@ -40,39 +39,39 @@ Before we get to the outfits, a few ground rules that make every one of them wor
 
 ### 1. The sweater dress and loafers
 
-This is the closest thing to wearing pajamas while looking completely put together. A ribbed midi sweater dress is warm, stretchy and flattering, and a slit keeps it from feeling stiff when you sit. The [ANRABESS ribbed turtleneck sweater dress](https://www.amazon.com/dp/B08NVZWB27?tag=creativedi03c-20) has that slim, long line and a side slit.
+This is the closest thing to wearing pajamas while looking completely put together. A ribbed midi sweater dress is warm, stretchy and flattering, and a slit keeps it from feeling stiff when you sit. The [ANRABESS ribbed turtleneck sweater dress](https://link.amazon/B0aG0eroI) has that slim, long line and a side slit.
 
-Add a polished loafer like the [Sam Edelman Loraine loafer](https://www.amazon.com/dp/B07NMJ6RDG?tag=creativedi03c-20), a classic that works with every outfit in this post, and finish with [PAVOI chunky gold hoops](https://www.amazon.com/dp/B07ML324GG?tag=creativedi03c-20). Three pieces, one decision, and you are out the door.
+Add a polished loafer like the [Sam Edelman Loraine loafer](https://link.amazon/B03WqUo0h), a classic that works with every outfit in this post, and finish with [PAVOI chunky gold hoops](https://link.amazon/B0cT7Vq5N). Three pieces, one decision, and you are out the door.
 
 ![A ribbed sweater dress, leather loafers and chunky gold hoop earrings laid out flat on a cream linen surface](/images/thanksgiving-outfit-ideas-2.jpg)
 
 ### 2. The pull-on trouser and cashmere
 
-If you prefer pants, a dressy pull-on trouser is the quiet hero of the holiday. It looks like tailoring and feels like loungewear. The [Amazon Essentials stretchy cropped wide-leg pull-on pants](https://www.amazon.com/dp/B09QN5W9MP?tag=creativedi03c-20) have an elastic waist and a cropped wide leg that shows off a loafer or a sleek boot.
+If you prefer pants, a dressy pull-on trouser is the quiet hero of the holiday. It looks like tailoring and feels like loungewear. The [Amazon Essentials stretchy cropped wide-leg pull-on pants](https://link.amazon/B0arFGAG2) have an elastic waist and a cropped wide leg that shows off a loafer or a sleek boot.
 
-Pair them with one really good knit. If there is a year to invest in cashmere, this is it, since it is the soft core of the season's minimalist trend. The [NAADAM 100% cashmere chunky crewneck](https://www.amazon.com/dp/B0GBYJN6XY?tag=creativedi03c-20) is the splurge in this edit, and the wine color is ideal for Thanksgiving. Tuck just the front into the trousers so the waist stays relaxed.
+Pair them with one really good knit. If there is a year to invest in cashmere, this is it, since it is the soft core of the season's minimalist trend. The [NAADAM 100% cashmere chunky crewneck](https://link.amazon/B01aCCOWi) is the splurge in this edit, and the wine color is ideal for Thanksgiving. Tuck just the front into the trousers so the waist stays relaxed.
 
 ### 3. The satin skirt and chunky knit
 
-This is the outfit for the guest who wants to look a little fashion without trying too hard. A satin midi skirt with an elastic waist is pure comfort, and the sheen makes it feel dressed up. Choose the [Skrtimory leopard satin midi skirt](https://www.amazon.com/dp/B0CNK4P8WS?tag=creativedi03c-20) and you are right on the season's animal print trend, while the busy pattern hides the occasional cranberry drip.
+This is the outfit for the guest who wants to look a little fashion without trying too hard. A satin midi skirt with an elastic waist is pure comfort, and the sheen makes it feel dressed up. Choose the [Skrtimory leopard satin midi skirt](https://link.amazon/B026TuVcz) and you are right on the season's animal print trend, while the busy pattern hides the occasional cranberry drip.
 
-Balance the shine with something chunky and cozy on top, like the [Trendy Queen oversized cable knit sweater](https://www.amazon.com/dp/B0D9RRHH2T?tag=creativedi03c-20). Soft knit plus slippery satin is one of those pairings that just works. Wear it with loafers in daylight or a heeled boot if dinner is at a restaurant.
+Balance the shine with something chunky and cozy on top, like the [Trendy Queen oversized cable knit sweater](https://link.amazon/B0iGeHK0l). Soft knit plus slippery satin is one of those pairings that just works. Wear it with loafers in daylight or a heeled boot if dinner is at a restaurant.
 
 ![A cream cable knit sweater and leopard satin midi skirt draped over a wooden dining chair beside a set Thanksgiving table](/images/thanksgiving-outfit-ideas-3.jpg)
 
 ### 4. Head-to-toe plum
 
-To try the season's favorite color, go tonal. Pick a purple sweater and pair it with trousers or a skirt in a darker or lighter shade of the same family, or simply with chocolate brown. The [SANGTREE crewneck pullover sweater](https://www.amazon.com/dp/B0H743L29N?tag=creativedi03c-20) comes in a purple shade and is an easy, affordable way to see if the trend is for you. With the pull-on trousers in black or brown, it reads rich and grown-up, and it looks gorgeous against an autumn table.
+To try the season's favorite color, go tonal. Pick a purple sweater and pair it with trousers or a skirt in a darker or lighter shade of the same family, or simply with chocolate brown. The [SANGTREE crewneck pullover sweater](https://link.amazon/B0cmtvTHi) comes in a purple shade and is an easy, affordable way to see if the trend is for you. With the pull-on trousers in black or brown, it reads rich and grown-up, and it looks gorgeous against an autumn table.
 
 ### 5. The suede layer for the after-dinner walk
 
 Many families have a tradition of a walk between dinner and dessert, or a backyard football game. That is where a good jacket earns its place. Suede was all over the fall runways, and the faux version gives you the look without the worry. The [Lmdudan faux suede notch lapel jacket](https://www.amazon.com/dp/B0H6MYCKY7?tag=creativedi03c-20) works over a sweater dress or with jeans and a knit.
 
-Carry a slouchy suede bag that matches the mood, like the [Herald small suede crescent hobo crossbody](https://www.amazon.com/dp/B0FJ1M55GN?tag=creativedi03c-20). It is big enough for your phone, keys and a lipstick, and small enough to keep on your shoulder while you carry in the pie.
+Carry a slouchy suede bag that matches the mood, like the [Herald small suede crescent hobo crossbody](https://link.amazon/B06H0f0ai). It is big enough for your phone, keys and a lipstick, and small enough to keep on your shoulder while you carry in the pie.
 
 ### 6. The one-statement outfit
 
-This is the season's everyday couture idea, scaled for a family table. Keep everything simple, say a black sweater dress or the cable knit and jeans, then add one unexpected romantic touch. A velvet hair bow is the easiest way to do it. The [Kodewiet large velvet hair bow clip with gold accent](https://www.amazon.com/dp/B09TGZ9DKS?tag=creativedi03c-20) pulls back your hair before you help in the kitchen and makes even a plain outfit look intentional in photos.
+This is the season's everyday couture idea, scaled for a family table. Keep everything simple, say a black sweater dress or the cable knit and jeans, then add one unexpected romantic touch. A velvet hair bow is the easiest way to do it. The [Kodewiet large velvet hair bow clip with gold accent](https://link.amazon/B0cpisc2A) pulls back your hair before you help in the kitchen and makes even a plain outfit look intentional in photos.
 
 ## The Thanksgiving guest checklist
 
@@ -89,17 +88,17 @@ A great outfit is only half of being a wonderful guest. Run through this list th
 
 ## Shop the edit
 
-- [ANRABESS ribbed turtleneck sweater dress](https://www.amazon.com/dp/B08NVZWB27?tag=creativedi03c-20): the all-in-one Thanksgiving outfit.
-- [Amazon Essentials stretchy cropped wide-leg pull-on pants](https://www.amazon.com/dp/B09QN5W9MP?tag=creativedi03c-20): tailoring that feels like loungewear.
-- [Skrtimory leopard satin midi skirt](https://www.amazon.com/dp/B0CNK4P8WS?tag=creativedi03c-20): elastic waist, on-trend print.
-- [Trendy Queen oversized cable knit sweater](https://www.amazon.com/dp/B0D9RRHH2T?tag=creativedi03c-20): the cozy partner for satin.
-- [SANGTREE crewneck pullover sweater](https://www.amazon.com/dp/B0H743L29N?tag=creativedi03c-20): an easy way into purple.
-- [NAADAM 100% cashmere chunky crewneck](https://www.amazon.com/dp/B0GBYJN6XY?tag=creativedi03c-20): the splurge you will wear for years.
+- [ANRABESS ribbed turtleneck sweater dress](https://link.amazon/B0aG0eroI): the all-in-one Thanksgiving outfit.
+- [Amazon Essentials stretchy cropped wide-leg pull-on pants](https://link.amazon/B0arFGAG2): tailoring that feels like loungewear.
+- [Skrtimory leopard satin midi skirt](https://link.amazon/B026TuVcz): elastic waist, on-trend print.
+- [Trendy Queen oversized cable knit sweater](https://link.amazon/B0iGeHK0l): the cozy partner for satin.
+- [SANGTREE crewneck pullover sweater](https://link.amazon/B0cmtvTHi): an easy way into purple.
+- [NAADAM 100% cashmere chunky crewneck](https://link.amazon/B01aCCOWi): the splurge you will wear for years.
 - [Lmdudan faux suede notch lapel jacket](https://www.amazon.com/dp/B0H6MYCKY7?tag=creativedi03c-20): for the after-dinner walk.
-- [Sam Edelman Loraine loafer](https://www.amazon.com/dp/B07NMJ6RDG?tag=creativedi03c-20): the shoe that goes with everything here.
-- [PAVOI chunky gold hoops](https://www.amazon.com/dp/B07ML324GG?tag=creativedi03c-20): instant polish.
-- [Herald small suede crescent hobo crossbody](https://www.amazon.com/dp/B0FJ1M55GN?tag=creativedi03c-20): just big enough.
-- [Kodewiet large velvet hair bow clip](https://www.amazon.com/dp/B09TGZ9DKS?tag=creativedi03c-20): the one romantic detail.
+- [Sam Edelman Loraine loafer](https://link.amazon/B03WqUo0h): the shoe that goes with everything here.
+- [PAVOI chunky gold hoops](https://link.amazon/B0cT7Vq5N): instant polish.
+- [Herald small suede crescent hobo crossbody](https://link.amazon/B06H0f0ai): just big enough.
+- [Kodewiet large velvet hair bow clip](https://link.amazon/B0cpisc2A): the one romantic detail.
 
 ## Comfortable, polished, done
 
