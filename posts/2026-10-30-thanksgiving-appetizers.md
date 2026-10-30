@@ -2,7 +2,6 @@
 title: "Thanksgiving Appetizers: an abundant charcuterie board and 8 make-ahead bites"
 subtitle: "One big autumn grazing board, eight easy bites you can make days ahead and a table that keeps everyone happy until the turkey lands."
 date: 2026-10-30
-draft: true
 category: Hosting
 description: "Thanksgiving appetizers made easy: an abundant fall charcuterie board with a shopping list and build order, plus 8 make-ahead bites and table setup tips."
 tags: [Thanksgiving appetizers, Thanksgiving charcuterie board, fall charcuterie board, make-ahead appetizers, Thanksgiving recipes, holiday entertaining, cheese board ideas, grazing board, Thanksgiving hosting, easy party appetizers]
@@ -30,7 +29,7 @@ The second rule is that nothing on this table should need you once guests arrive
 
 ## The abundant autumn charcuterie board
 
-This is the centerpiece, and abundance is the whole look. Use the biggest board you own, or push two together. A long board like the [Large Acacia Serving Board with Metal Handles, 36 x 12 Inch](https://www.amazon.com/dp/B0DT4RLRZC?tag=creativedi03c-20) runs down the middle of a coffee table or kitchen island and holds enough for a crowd of twelve. If you want a second, more elegant surface for the cheeses, the [Boska Holland Pro Cheese Board Marble](https://www.amazon.com/dp/B00GHE3PIM?tag=creativedi03c-20) is the splurge, and marble keeps soft cheeses cooler longer.
+This is the centerpiece, and abundance is the whole look. Use the biggest board you own, or push two together. A long board like the [Large Acacia Serving Board with Metal Handles, 36 x 12 Inch](https://link.amazon/B0cSFUSrM) runs down the middle of a coffee table or kitchen island and holds enough for a crowd of twelve. If you want a second, more elegant surface for the cheeses, the [Boska Holland Pro Cheese Board Marble](https://link.amazon/B0bKiTWxw) is the splurge, and marble keeps soft cheeses cooler longer.
 
 ### Shopping list for 10 to 12 guests
 
@@ -73,13 +72,13 @@ This is the centerpiece, and abundance is the whole look. Use the biggest board 
 
 ### Build order
 
-1. **Bowls first.** Place three or four small bowls on the board for the cranberry sauce, chutney, cornichons and nuts. Little ceramic cups like the [LE TAUCI Sauce Cups 2 oz, Set of 6](https://www.amazon.com/dp/B0D53YPCWC?tag=creativedi03c-20) are the right size and keep wet things from soaking the crackers.
+1. **Bowls first.** Place three or four small bowls on the board for the cranberry sauce, chutney, cornichons and nuts. Little ceramic cups like the [LE TAUCI Sauce Cups 2 oz, Set of 6](https://link.amazon/B0eDVJ7dF) are the right size and keep wet things from soaking the crackers.
 2. **Cheese next.** Spread the cheeses out so each sits in its own zone. Cut a few slices or wedges from each so guests know how to start. Set the brie whole with a knife beside it.
 3. **Then the meat.** Fold prosciutto into loose ribbons, fan the salami into rivers that curve between the cheeses, and stack sliced chorizo in a small pile.
 4. **Fruit in clusters.** Tuck grapes, figs and pears into the bigger gaps, keeping each fruit together rather than scattering it.
 5. **Crackers last.** Fan crackers and crostini along the edges and beside the soft cheeses. Keep backup crackers in the box to refill.
 6. **Fill every gap.** Pour nuts and dried apricots into the remaining spaces, then tuck in herbs and scatter pomegranate seeds over the top.
-7. **Finish.** Drizzle honey over the blue cheese, set out a small honey pot such as the [HAPPI STUDIO Honey Jar with Dipper](https://www.amazon.com/dp/B09BB238JB?tag=creativedi03c-20), and add cheese knives. The [YXChome 4 Cheese Knives Set](https://www.amazon.com/dp/B0791W84YJ?tag=creativedi03c-20) gives you a knife, fork, slicer and spreader, which covers every cheese on this board.
+7. **Finish.** Drizzle honey over the blue cheese, set out a small honey pot such as the [HAPPI STUDIO Honey Jar with Dipper](https://link.amazon/B01klkpTN), and add cheese knives. The [YXChome 4 Cheese Knives Set](https://link.amazon/B08TN5icG) gives you a knife, fork, slicer and spreader, which covers every cheese on this board.
 
 Take the cheese out of the fridge about an hour before guests arrive so it tastes like itself. You can build the board up to two hours ahead, cover it loosely with plastic wrap and leave the crackers off until the last minute.
 
@@ -101,7 +100,7 @@ Blend 8 ounces of feta with 4 ounces of cream cheese and a squeeze of lemon unti
 
 ### 3. Bacon-wrapped dates
 
-Stuff 20 pitted Medjool dates with a little goat cheese or an almond, wrap each in half a slice of bacon and secure with a pick. Bake at 400°F for 18 to 20 minutes, turning once. **Make ahead:** wrap them a day early, bake when you need them. Reusable metal skewers like these [Stainless Steel Cocktail Picks, 60 Pack](https://www.amazon.com/dp/B0GMN78JH2?tag=creativedi03c-20) go straight into the oven and look far nicer than toothpicks.
+Stuff 20 pitted Medjool dates with a little goat cheese or an almond, wrap each in half a slice of bacon and secure with a pick. Bake at 400°F for 18 to 20 minutes, turning once. **Make ahead:** wrap them a day early, bake when you need them. Reusable metal skewers like these [Stainless Steel Cocktail Picks, 60 Pack](https://link.amazon/B02W57j4u) go straight into the oven and look far nicer than toothpicks.
 
 ### 4. Pumpkin hummus
 
@@ -129,11 +128,11 @@ Once the food is ready, the setup is what makes it feel abundant. Pick a spot aw
 
 ![A Thanksgiving appetizer table on a dark wooden sideboard at golden hour with a long charcuterie board, a three tier stand of bites, small white plates, rust napkins, mini pumpkins and amber candles](/images/thanksgiving-appetizers-4.jpg)
 
-**Build height.** Put the big board flat in the center and add one tall piece behind it. A tiered stand like the [FINESSY 3 Tier Serving Tray](https://www.amazon.com/dp/B0CNDB4ZTQ?tag=creativedi03c-20) holds the brie bites, deviled eggs and dates in a small footprint and lifts the eye.
+**Build height.** Put the big board flat in the center and add one tall piece behind it. A tiered stand like the [FINESSY 3 Tier Serving Tray](https://link.amazon/B03u96syA) holds the brie bites, deviled eggs and dates in a small footprint and lifts the eye.
 
-**Label everything.** Small labels answer the questions guests always ask about nuts, pork and gluten. A set of [Food-Grade Slate Labels with Markers](https://www.amazon.com/dp/B078H313JC?tag=creativedi03c-20) lets you chalk the name of each cheese right on the board, and they wipe clean for the next party.
+**Label everything.** Small labels answer the questions guests always ask about nuts, pork and gluten. A set of [Food-Grade Slate Labels with Markers](https://link.amazon/B05B4bKLj) lets you chalk the name of each cheese right on the board, and they wipe clean for the next party.
 
-**Plates and napkins at the start.** Stack small plates at one end so guests pick one up before they reach the food. The [Enjamyo 8 Pieces Ceramic Appetizer Plates, 6 Inch](https://www.amazon.com/dp/B0DZHR7VY9?tag=creativedi03c-20) are just the right size for a few bites. Set a pile of cloth napkins beside them; the [LA Linen 10-Pack Poly Poplin Napkin in Rust](https://www.amazon.com/dp/B00E6OCUIQ?tag=creativedi03c-20) adds a warm fall color and goes straight into the wash.
+**Plates and napkins at the start.** Stack small plates at one end so guests pick one up before they reach the food. The [Enjamyo 8 Pieces Ceramic Appetizer Plates, 6 Inch](https://link.amazon/B01O1OCJS) are just the right size for a few bites. Set a pile of cloth napkins beside them; the [LA Linen 10-Pack Poly Poplin Napkin in Rust](https://link.amazon/B03LGDEH3) adds a warm fall color and goes straight into the wash.
 
 **Add the season.** Scatter a few small pumpkins, pears and a sprig or two of eucalyptus around the board, and add low candles. Keep flames well away from the napkins and the reach of anyone grabbing a cracker.
 
@@ -152,16 +151,16 @@ Once the food is ready, the setup is what makes it feel abundant. Pick a spot aw
 
 ## Shop the edit
 
-- [Large Acacia Serving Board with Metal Handles, 36 x 12 Inch](https://www.amazon.com/dp/B0DT4RLRZC?tag=creativedi03c-20): the long board that carries the whole spread.
-- [Boska Holland Pro Cheese Board Marble](https://www.amazon.com/dp/B00GHE3PIM?tag=creativedi03c-20): the splurge for a cool, elegant cheese course.
-- [YXChome 4 Cheese Knives Set](https://www.amazon.com/dp/B0791W84YJ?tag=creativedi03c-20): a knife, fork, slicer and spreader for every kind of cheese.
-- [LE TAUCI Sauce Cups 2 oz, Set of 6](https://www.amazon.com/dp/B0D53YPCWC?tag=creativedi03c-20): little bowls for chutney, cranberry sauce and nuts.
-- [HAPPI STUDIO Honey Jar with Dipper](https://www.amazon.com/dp/B09BB238JB?tag=creativedi03c-20): honey on the board, without the sticky bottle.
-- [Stainless Steel Cocktail Picks, 60 Pack](https://www.amazon.com/dp/B0GMN78JH2?tag=creativedi03c-20): reusable picks for dates, skewers and olives.
-- [FINESSY 3 Tier Serving Tray](https://www.amazon.com/dp/B0CNDB4ZTQ?tag=creativedi03c-20): height for small bites in a small footprint.
-- [Food-Grade Slate Labels with Markers](https://www.amazon.com/dp/B078H313JC?tag=creativedi03c-20): chalk the name of each cheese and bite.
-- [Enjamyo 8 Pieces Ceramic Appetizer Plates, 6 Inch](https://www.amazon.com/dp/B0DZHR7VY9?tag=creativedi03c-20): small plates sized for grazing.
-- [LA Linen 10-Pack Poly Poplin Napkin, Rust](https://www.amazon.com/dp/B00E6OCUIQ?tag=creativedi03c-20): washable cloth napkins in a warm fall shade.
+- [Large Acacia Serving Board with Metal Handles, 36 x 12 Inch](https://link.amazon/B0cSFUSrM): the long board that carries the whole spread.
+- [Boska Holland Pro Cheese Board Marble](https://link.amazon/B0bKiTWxw): the splurge for a cool, elegant cheese course.
+- [YXChome 4 Cheese Knives Set](https://link.amazon/B08TN5icG): a knife, fork, slicer and spreader for every kind of cheese.
+- [LE TAUCI Sauce Cups 2 oz, Set of 6](https://link.amazon/B0eDVJ7dF): little bowls for chutney, cranberry sauce and nuts.
+- [HAPPI STUDIO Honey Jar with Dipper](https://link.amazon/B01klkpTN): honey on the board, without the sticky bottle.
+- [Stainless Steel Cocktail Picks, 60 Pack](https://link.amazon/B02W57j4u): reusable picks for dates, skewers and olives.
+- [FINESSY 3 Tier Serving Tray](https://link.amazon/B03u96syA): height for small bites in a small footprint.
+- [Food-Grade Slate Labels with Markers](https://link.amazon/B05B4bKLj): chalk the name of each cheese and bite.
+- [Enjamyo 8 Pieces Ceramic Appetizer Plates, 6 Inch](https://link.amazon/B01O1OCJS): small plates sized for grazing.
+- [LA Linen 10-Pack Poly Poplin Napkin, Rust](https://link.amazon/B03LGDEH3): washable cloth napkins in a warm fall shade.
 
 ## The best part of Thanksgiving starts early
 
