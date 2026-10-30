@@ -1,47 +1,16 @@
-# Editor notes for V
-
-**Title options**
-1. Thanksgiving Appetizers: an abundant charcuterie board and 8 make-ahead bites (chosen)
-2. Thanksgiving Charcuterie Board: a full shopping list, build order and 8 easy appetizers
-3. Thanksgiving Appetizers You Can Make Ahead: the grazing board and bites that keep guests happy
-
-**Meta description:** Thanksgiving appetizers made easy: an abundant fall charcuterie board with a shopping list and build order, plus 8 make-ahead bites and table setup tips.
-
-**SEO tags:** Thanksgiving appetizers, Thanksgiving charcuterie board, fall charcuterie board, make-ahead appetizers, Thanksgiving recipes, holiday entertaining, cheese board ideas, grazing board, Thanksgiving hosting, easy party appetizers
-
-**Pinterest pin title:** Thanksgiving Appetizers: an abundant charcuterie board and 8 make-ahead bites
-
-**Pinterest pin description:** The easiest Thanksgiving appetizer spread: a big fall charcuterie board with a full shopping list and build order, 8 make-ahead bites and a styled appetizer table.
-
-**Products**
-
-| # | Product | ASIN | Category | Rate |
-|---|---|---|---|---|
-| 1 | Large Acacia Serving Board with Metal Handles, 36 x 12 Inch | B0DT4RLRZC | Kitchen | 4.5% |
-| 2 | Boska Holland Pro Cheese Board Marble (splurge) | B00GHE3PIM | Kitchen | 4.5% |
-| 3 | YXChome 4 Cheese Knives Set | B0791W84YJ | Kitchen | 4.5% |
-| 4 | LE TAUCI Sauce Cups 2 oz, Set of 6 | B0D53YPCWC | Kitchen | 4.5% |
-| 5 | HAPPI STUDIO Honey Jar with Dipper | B09BB238JB | Kitchen | 4.5% |
-| 6 | Stainless Steel Cocktail Picks, 60 Pack | B0GMN78JH2 | Kitchen | 4.5% |
-| 7 | FINESSY 3 Tier Serving Tray | B0CNDB4ZTQ | Kitchen | 4.5% |
-| 8 | Food-Grade Slate Labels with Markers | B078H313JC | Kitchen | 4.5% |
-| 9 | Enjamyo 8 Pieces Ceramic Appetizer Plates, 6 Inch | B0DZHR7VY9 | Kitchen | 4.5% |
-| 10 | LA Linen 10-Pack Poly Poplin Napkin, Rust | B00E6OCUIQ | Home | 3% |
-
-**Medium import:** import to Medium only after the post is live on the site, using Medium's import tool (Import a story, paste https://houseandhabit.netlify.app/posts/thanksgiving-appetizers/) so the canonical link points to House & Habit.
-
-**Trend reading for reference**
-- [Food Network: easy make-ahead Thanksgiving appetizers](https://www.foodnetwork.com/thanksgiving/thanksgiving-entertaining/easy-make-ahead-thanksgiving-appetizers)
-- [HGTV: 4 ways to make a Thanksgiving charcuterie board](https://hgtv.com/lifestyle/holidays/thanksgiving-charcuterie-board-ideas)
-- [Budget Bytes: how to make a Thanksgiving grazing board](https://www.budgetbytes.com/thanksgiving-grazing-board/)
-- [Once Upon a Chef: Thanksgiving appetizers](https://www.onceuponachef.com/recipes/thanksgiving-appetizers.html)
-- Pinterest Trends, US searches for "Thanksgiving appetizers" and "Thanksgiving charcuterie board" (checked 29 Oct 2026)
-
 ---
-
-# Thanksgiving Appetizers: an abundant charcuterie board and 8 make-ahead bites
-
-*One big autumn grazing board, eight easy bites you can make days ahead and a table that keeps everyone happy until the turkey lands.*
+title: "Thanksgiving Appetizers: an abundant charcuterie board and 8 make-ahead bites"
+subtitle: "One big autumn grazing board, eight easy bites you can make days ahead and a table that keeps everyone happy until the turkey lands."
+date: 2026-10-30
+draft: true
+category: Hosting
+description: "Thanksgiving appetizers made easy: an abundant fall charcuterie board with a shopping list and build order, plus 8 make-ahead bites and table setup tips."
+tags: [Thanksgiving appetizers, Thanksgiving charcuterie board, fall charcuterie board, make-ahead appetizers, Thanksgiving recipes, holiday entertaining, cheese board ideas, grazing board, Thanksgiving hosting, easy party appetizers]
+pin_title: "Thanksgiving Appetizers: an abundant charcuterie board and 8 make-ahead bites"
+pin_description: "The easiest Thanksgiving appetizer spread: a big fall charcuterie board with a full shopping list and build order, 8 make-ahead bites and a styled appetizer table."
+cover: "/images/thanksgiving-appetizers.jpg"
+cover_alt: "A long Thanksgiving charcuterie board on a rustic table at dusk with cheeses, prosciutto, salami, figs, grapes, pears and crackers, lit by amber votives and taper candles"
+---
 
 *This post contains affiliate links. As an Amazon Associate I earn from qualifying purchases, at no extra cost to you.*
 
@@ -114,10 +83,13 @@ This is the centerpiece, and abundance is the whole look. Use the biggest board 
 
 Take the cheese out of the fridge about an hour before guests arrive so it tastes like itself. You can build the board up to two hours ahead, cover it loosely with plastic wrap and leave the crackers off until the last minute.
 
+![An autumn charcuterie board mid-build on a light kitchen counter with cheddar, brie, folded prosciutto, salami, figs, red grapes, pear slices and small bowls of cranberry sauce, chutney and cornichons, with crackers stacked beside it](/images/thanksgiving-appetizers-2.jpg)
 
 ## 8 make-ahead Thanksgiving appetizers
 
 Set two or three of these around the board, or make all eight for a bigger crowd. Each one holds well, and most taste better after a night in the fridge.
+
+![An overhead spread of make-ahead Thanksgiving appetizers on oatmeal linen: cranberry brie bites, bacon-wrapped dates, whipped feta with pistachios, deviled eggs, antipasto skewers, pumpkin hummus, candied pecans and sausage stuffing balls](/images/thanksgiving-appetizers-3.jpg)
 
 ### 1. Cranberry brie bites
 
@@ -151,10 +123,11 @@ Halve a dozen hard-boiled eggs, mash the yolks with mayonnaise, Dijon, a splash 
 
 Mix one pound of breakfast sausage with three cups of dry stuffing cubes, one cup of shredded cheddar, one egg, chopped sage and enough broth to bind. Roll into balls and bake at 375°F for 20 to 25 minutes. Serve with cranberry sauce for dipping. **Make ahead:** roll and freeze up to two weeks ahead, bake from frozen with a few extra minutes.
 
-
 ## How to style the appetizer table
 
 Once the food is ready, the setup is what makes it feel abundant. Pick a spot away from the kitchen, like a console, sideboard or the coffee table, so guests have a reason to move.
+
+![A Thanksgiving appetizer table on a dark wooden sideboard at golden hour with a long charcuterie board, a three tier stand of bites, small white plates, rust napkins, mini pumpkins and amber candles](/images/thanksgiving-appetizers-4.jpg)
 
 **Build height.** Put the big board flat in the center and add one tall piece behind it. A tiered stand like the [FINESSY 3 Tier Serving Tray](https://www.amazon.com/dp/B0CNDB4ZTQ?tag=creativedi03c-20) holds the brie bites, deviled eggs and dates in a small footprint and lifts the eye.
 
@@ -165,7 +138,6 @@ Once the food is ready, the setup is what makes it feel abundant. Pick a spot aw
 **Add the season.** Scatter a few small pumpkins, pears and a sprig or two of eucalyptus around the board, and add low candles. Keep flames well away from the napkins and the reach of anyone grabbing a cracker.
 
 **Set a small trash bowl.** One tiny bowl for pits, picks and fig stems keeps the board looking fresh for hours.
-
 
 ## Your make-ahead appetizer timeline
 
