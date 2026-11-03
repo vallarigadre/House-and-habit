@@ -2,7 +2,6 @@
 title: "Thanksgiving Side Dishes: 10 make-ahead sides and a full dinner menu"
 subtitle: "Ten sides you can cook days in advance, one complete menu, a printed menu card and a three-day timeline that keeps your oven free."
 date: 2026-11-03
-draft: true
 category: Hosting
 description: "Thanksgiving side dishes you can make ahead: 10 easy recipes, a full dinner menu, a printed menu card and a three-day cook-ahead timeline."
 tags: [Thanksgiving side dishes, Thanksgiving menu, make-ahead Thanksgiving sides, Thanksgiving recipes, Thanksgiving dinner, Thanksgiving timeline, Thanksgiving casseroles, holiday entertaining, Thanksgiving hosting]
@@ -26,13 +25,13 @@ Good news for the host: nearly all of these dishes improve with a head start. Th
 
 ## The 10 make-ahead Thanksgiving side dishes
 
-Each recipe serves 8 to 10 as part of a full spread. Assemble casseroles in a dish that can go straight from fridge to oven. A white [HVH ceramic baking dish set](https://www.amazon.com/dp/B099DZFMHP?tag=creativedi03c-20) looks good enough to go to the table, and a [Pyrex Basics 3-pack with lids](https://www.amazon.com/dp/B0C63QPK4C?tag=creativedi03c-20) stacks neatly in a crowded fridge. Let cold glass sit out for 30 minutes before it goes into the oven, and reheat every dish until it is steaming hot, 165°F in the center.
+Each recipe serves 8 to 10 as part of a full spread. Assemble casseroles in a dish that can go straight from fridge to oven. A white [HVH ceramic baking dish set](https://link.amazon/B03lbgyro) looks good enough to go to the table, and a [Pyrex Basics 3-pack with lids](https://link.amazon/B09IvjUWz) stacks neatly in a crowded fridge. Let cold glass sit out for 30 minutes before it goes into the oven, and reheat every dish until it is steaming hot, 165°F in the center.
 
 ### 1. Make-ahead mashed potatoes
 
 **You need:** 5 pounds Yukon Gold potatoes, 1 stick butter, 8 ounces cream cheese, 1 cup warm whole milk, salt.
 
-Boil the peeled potatoes until tender, then press them through an [OXO potato ricer](https://www.amazon.com/dp/B00004OCJQ?tag=creativedi03c-20) for the smoothest texture. Beat in the butter, cream cheese and milk, then salt well. Chill up to one day. Reheat in a [Crockpot Casserole Crock](https://www.amazon.com/dp/B00H70KMTA?tag=creativedi03c-20) on low for about 2 to 3 hours with a splash of milk, stirring twice, and it stays warm through seconds.
+Boil the peeled potatoes until tender, then press them through an [OXO potato ricer](https://link.amazon/B0dbpZMek) for the smoothest texture. Beat in the butter, cream cheese and milk, then salt well. Chill up to one day. Reheat in a [Crockpot Casserole Crock](https://link.amazon/B046ePW3T) on low for about 2 to 3 hours with a splash of milk, stirring twice, and it stays warm through seconds.
 
 ### 2. Sausage and sage stuffing
 
@@ -88,7 +87,7 @@ Simmer everything for 10 minutes, until most berries have burst. Remove the cinn
 
 **You need:** 6 tablespoons butter, 1/2 cup flour, 6 cups turkey or chicken stock, 1 teaspoon soy sauce, thyme.
 
-Cook the butter and flour until nutty and golden, then whisk in the stock and simmer until glossy. Add the soy sauce for depth. Refrigerate up to three days and reheat on the stove, whisking in pan drippings on the day. Keep it warm and pour from a [ceramic gravy boat with saucer](https://www.amazon.com/dp/B0HHF9LX8T?tag=creativedi03c-20), so the tablecloth survives dinner.
+Cook the butter and flour until nutty and golden, then whisk in the stock and simmer until glossy. Add the soy sauce for depth. Refrigerate up to three days and reheat on the stove, whisking in pan drippings on the day. Keep it warm and pour from a [ceramic gravy boat with saucer](https://link.amazon/B00FT47js), so the tablecloth survives dinner.
 
 ## The full Thanksgiving dinner menu
 
@@ -106,7 +105,7 @@ Here is how those sides become one balanced dinner for 8 to 10, including a roas
 
 ### Make the printed menu card
 
-A printed menu card takes ten minutes and makes the table feel like a dinner party. Type the menu above in a simple serif font, centered, with your family name and the date at the top. Print on heavy cream cardstock, trim to about 4 by 6 inches and stand one at the center of the table in a [brass place card holder](https://www.amazon.com/dp/B0B49XDP8Z?tag=creativedi03c-20), or one at every other setting. Mark vegetarian dishes and those with nuts for your guests.
+A printed menu card takes ten minutes and makes the table feel like a dinner party. Type the menu above in a simple serif font, centered, with your family name and the date at the top. Print on heavy cream cardstock, trim to about 4 by 6 inches and stand one at the center of the table in a [brass place card holder](https://link.amazon/B09kmDQYA), or one at every other setting. Mark vegetarian dishes and those with nuts for your guests.
 
 ![A cream Thanksgiving menu card in a small brass holder on a set table with rust napkins, gold flatware, amber glasses, white pumpkins and taper candles in golden hour light](/images/thanksgiving-side-dishes-4.jpg)
 
@@ -156,23 +155,23 @@ With this many dishes, the sideboard needs a plan. Run the food in the order peo
 
 ![A candlelit Thanksgiving side dish buffet on a dark wood sideboard with casseroles on a warming tray, an enamel Dutch oven, a slow cooker of mashed potatoes and a gravy boat](/images/thanksgiving-side-dishes-5.jpg)
 
-Keep hot dishes hot with an [electric warming tray](https://www.amazon.com/dp/B0CQ8PLC88?tag=creativedi03c-20) down the center of the buffet. A [Lodge Essential enamel Dutch oven](https://www.amazon.com/dp/B096KYM7GQ?tag=creativedi03c-20) keeps stuffing or corn pudding warm with its lid on.
+Keep hot dishes hot with an [electric warming tray](https://link.amazon/B06VYF9Rb) down the center of the buffet. A [Lodge Essential enamel Dutch oven](https://link.amazon/B03keRBxY) keeps stuffing or corn pudding warm with its lid on.
 
-Use a large [Sweese porcelain platter](https://www.amazon.com/dp/B099NDZN7Y?tag=creativedi03c-20) for the sprouts, a matching [gold serving utensil set](https://www.amazon.com/dp/B0H366NQMH?tag=creativedi03c-20) so every dish has its own spoon and [FINGERCRAFT rust cloth napkins](https://www.amazon.com/dp/B08BHQKSC5?tag=creativedi03c-20) to tie it all into a warm, fall palette. Add height with a cake stand, and tuck small pumpkins and rosemary between dishes.
+Use a large [Sweese porcelain platter](https://link.amazon/B0deq10Zc) for the sprouts, a matching [gold serving utensil set](https://link.amazon/B04816PTo) so every dish has its own spoon and [FINGERCRAFT rust cloth napkins](https://link.amazon/B0bBekMjh) to tie it all into a warm, fall palette. Add height with a cake stand, and tuck small pumpkins and rosemary between dishes.
 
 ## Shop the edit
 
-- [HVH ceramic baking dish set of 3, white](https://www.amazon.com/dp/B099DZFMHP?tag=creativedi03c-20)
-- [Pyrex Basics 3-pack glass baking dishes with lids](https://www.amazon.com/dp/B0C63QPK4C?tag=creativedi03c-20)
-- [OXO Good Grips stainless steel potato ricer](https://www.amazon.com/dp/B00004OCJQ?tag=creativedi03c-20)
-- [Crockpot 3.5-quart Casserole Crock slow cooker](https://www.amazon.com/dp/B00H70KMTA?tag=creativedi03c-20)
-- [Ceramic gravy boat with saucer, 17 ounce](https://www.amazon.com/dp/B0HHF9LX8T?tag=creativedi03c-20)
-- [HNGSON brass place card holders](https://www.amazon.com/dp/B0B49XDP8Z?tag=creativedi03c-20)
-- [Taifuan electric warming tray](https://www.amazon.com/dp/B0CQ8PLC88?tag=creativedi03c-20)
-- [Lodge Essential enamel cast iron Dutch oven, 6 quart](https://www.amazon.com/dp/B096KYM7GQ?tag=creativedi03c-20)
-- [Sweese 14.5 inch porcelain serving platter](https://www.amazon.com/dp/B099NDZN7Y?tag=creativedi03c-20)
-- [12-piece gold serving utensil set](https://www.amazon.com/dp/B0H366NQMH?tag=creativedi03c-20)
-- [FINGERCRAFT cotton linen napkins, set of 12, rust](https://www.amazon.com/dp/B08BHQKSC5?tag=creativedi03c-20)
+- [HVH ceramic baking dish set of 3, white](https://link.amazon/B03lbgyro)
+- [Pyrex Basics 3-pack glass baking dishes with lids](https://link.amazon/B09IvjUWz)
+- [OXO Good Grips stainless steel potato ricer](https://link.amazon/B0dbpZMek)
+- [Crockpot 3.5-quart Casserole Crock slow cooker](https://link.amazon/B046ePW3T)
+- [Ceramic gravy boat with saucer, 17 ounce](https://link.amazon/B00FT47js)
+- [HNGSON brass place card holders](https://link.amazon/B09kmDQYA)
+- [Taifuan electric warming tray](https://link.amazon/B06VYF9Rb)
+- [Lodge Essential enamel cast iron Dutch oven, 6 quart](https://link.amazon/B03keRBxY)
+- [Sweese 14.5 inch porcelain serving platter](https://link.amazon/B0deq10Zc)
+- [12-piece gold serving utensil set](https://link.amazon/B04816PTo)
+- [FINGERCRAFT cotton linen napkins, set of 12, rust](https://link.amazon/B0bBekMjh)
 
 ## One last thing
 
