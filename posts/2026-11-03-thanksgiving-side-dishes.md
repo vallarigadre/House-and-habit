@@ -1,51 +1,18 @@
-# Editor notes for V
-
-**Title options**
-
-1. Thanksgiving Side Dishes: 10 make-ahead sides and a full dinner menu (chosen)
-2. Thanksgiving Side Dishes You Can Make Ahead: 10 recipes and a three-day timeline
-3. Thanksgiving Menu Made Easy: 10 make-ahead side dishes and a printed menu card
-
-**Meta description:** Thanksgiving side dishes you can make ahead: 10 easy recipes, a full dinner menu, a printed menu card and a three-day cook-ahead timeline.
-
-**SEO tags:** Thanksgiving side dishes, Thanksgiving menu, make-ahead Thanksgiving sides, Thanksgiving recipes, Thanksgiving dinner, Thanksgiving timeline, Thanksgiving casseroles, holiday entertaining, Thanksgiving hosting
-
-**Pinterest pin title:** Thanksgiving Side Dishes: 10 make-ahead sides and a full dinner menu
-
-**Pinterest pin description:** Ten make-ahead Thanksgiving side dishes with short how-tos, a complete dinner menu, a printed menu card idea and a three-day cook-ahead timeline for a calm kitchen.
-
-**Products** (categories are my best match from the listing; Amazon decides the rate that actually applies)
-
-| Product | ASIN | Category | Rate |
-|---|---|---|---|
-| HVH ceramic baking dish set of 3 | B099DZFMHP | Kitchen | 4.5% |
-| Pyrex Basics 3-pack with lids | B0C63QPK4C | Kitchen | 4.5% |
-| OXO potato ricer | B00004OCJQ | Kitchen | 4.5% |
-| Crockpot 3.5-quart Casserole Crock | B00H70KMTA | Kitchen | 4.5% |
-| Ceramic gravy boat with saucer | B0HHF9LX8T | Kitchen | 4.5% |
-| HNGSON brass place card holders | B0B49XDP8Z | Home | 3% |
-| Taifuan electric warming tray | B0CQ8PLC88 | Kitchen | 4.5% |
-| Lodge Essential 6-quart Dutch oven | B096KYM7GQ | Kitchen | 4.5% |
-| Sweese 14.5 inch porcelain platter | B099NDZN7Y | Kitchen | 4.5% |
-| 12-piece gold serving utensil set | B0H366NQMH | Kitchen | 4.5% |
-| FINGERCRAFT rust napkins, set of 12 | B08BHQKSC5 | Home | 3% |
-
-**Medium:** import to Medium only after the post is live on the site, using Medium's import tool, so the canonical link points to House & Habit.
-
-**Trend articles read**
-
-- [Kitchn: make-ahead Thanksgiving sides](https://www.thekitchn.com/make-ahead-thanksgiving-side-dishes-237729)
-- [AP via Washington Times: the new stars of Thanksgiving dinner](https://m.washingtontimes.com/news/2025/nov/14/new-stars-thanksgiving-dinner-side-dishes/)
-- [Serious Eats via AOL: 8 classic sides you can prep in advance](https://www.aol.com/articles/thanksgiving-easier-8-classic-sides-193000231.html)
-- [Marley Spoon: a Thanksgiving cooking timeline](https://marleyspoon.com/blog/a-thanksgiving-cooking-timeline)
-
+---
+title: "Thanksgiving Side Dishes: 10 make-ahead sides and a full dinner menu"
+subtitle: "Ten sides you can cook days in advance, one complete menu, a printed menu card and a three-day timeline that keeps your oven free."
+date: 2026-11-03
+draft: true
+category: Hosting
+description: "Thanksgiving side dishes you can make ahead: 10 easy recipes, a full dinner menu, a printed menu card and a three-day cook-ahead timeline."
+tags: [Thanksgiving side dishes, Thanksgiving menu, make-ahead Thanksgiving sides, Thanksgiving recipes, Thanksgiving dinner, Thanksgiving timeline, Thanksgiving casseroles, holiday entertaining, Thanksgiving hosting]
+pin_title: "Thanksgiving Side Dishes: 10 make-ahead sides and a full dinner menu"
+pin_description: "Ten make-ahead Thanksgiving side dishes with short how-tos, a complete dinner menu, a printed menu card idea and a three-day cook-ahead timeline for a calm kitchen."
+cover: "/images/thanksgiving-side-dishes.jpg"
+cover_alt: "A long Thanksgiving table filled with side dishes: stuffing, potato gratin, green bean casserole, sweet potato casserole, corn pudding, Brussels sprouts, kale salad, gravy and cranberry sauce"
 ---
 
-# Thanksgiving Side Dishes: 10 make-ahead sides and a full dinner menu
-
-*Ten sides you can cook days in advance, one complete menu, a printed menu card and a three-day timeline that keeps your oven free.*
-
-This post contains affiliate links. As an Amazon Associate I earn from qualifying purchases, at no extra cost to you.
+*This post contains affiliate links. As an Amazon Associate I earn from qualifying purchases, at no extra cost to you.*
 
 Ask anyone what they actually love about Thanksgiving dinner and the answer is rarely the turkey. It is the corner of the plate where the stuffing meets the gravy, the crisp edge of the gratin, the spoonful of cranberry that wakes everything up. The sides are the meal. They are also the reason the oven is booked solid at 3 pm.
 
@@ -103,6 +70,8 @@ Stir everything together and bake at 350°F for 35 minutes, pulling it while the
 
 Trim and halve the sprouts and slice the shallots up to two days ahead. Whisk the miso, syrup and vinegar and refrigerate. Roast the sprouts and shallots at 425°F for 25 minutes in the last stretch before dinner, then toss them with the glaze.
 
+![A white porcelain platter piled with caramelized miso glazed Brussels sprouts and crispy shallots, with a kale, apple and pomegranate salad blurred behind it](/images/thanksgiving-side-dishes-3.jpg)
+
 ### 8. Kale and apple salad with pomegranate
 
 **You need:** 2 bunches lacinato kale, 2 crisp apples, 1 cup pomegranate seeds, 1/2 cup toasted pecans, shaved Parmesan. For the dressing: 1/2 cup olive oil, 3 tablespoons cider vinegar, 1 tablespoon Dijon, 1 tablespoon honey.
@@ -139,9 +108,13 @@ Here is how those sides become one balanced dinner for 8 to 10, including a roas
 
 A printed menu card takes ten minutes and makes the table feel like a dinner party. Type the menu above in a simple serif font, centered, with your family name and the date at the top. Print on heavy cream cardstock, trim to about 4 by 6 inches and stand one at the center of the table in a [brass place card holder](https://www.amazon.com/dp/B0B49XDP8Z?tag=creativedi03c-20), or one at every other setting. Mark vegetarian dishes and those with nuts for your guests.
 
+![A cream Thanksgiving menu card in a small brass holder on a set table with rust napkins, gold flatware, amber glasses, white pumpkins and taper candles in golden hour light](/images/thanksgiving-side-dishes-4.jpg)
+
 ## The cook-ahead timeline
 
 Print this and tape it inside a cabinet door.
+
+![An overhead cook-ahead counter with a dish of sausage and sage stuffing surrounded by lidded glass casseroles, bread cubes, fresh sage, butter, celery and onions](/images/thanksgiving-side-dishes-2.jpg)
 
 **One week out**
 
@@ -180,6 +153,8 @@ Print this and tape it inside a cabinet door.
 ## How to set up the side dish table
 
 With this many dishes, the sideboard needs a plan. Run the food in the order people want to eat it: plates, turkey, potatoes and stuffing, vegetables, sweet dishes, then gravy and cranberry at the end, so nobody has to balance them on a loaded plate.
+
+![A candlelit Thanksgiving side dish buffet on a dark wood sideboard with casseroles on a warming tray, an enamel Dutch oven, a slow cooker of mashed potatoes and a gravy boat](/images/thanksgiving-side-dishes-5.jpg)
 
 Keep hot dishes hot with an [electric warming tray](https://www.amazon.com/dp/B0CQ8PLC88?tag=creativedi03c-20) down the center of the buffet. A [Lodge Essential enamel Dutch oven](https://www.amazon.com/dp/B096KYM7GQ?tag=creativedi03c-20) keeps stuffing or corn pudding warm with its lid on.
 
