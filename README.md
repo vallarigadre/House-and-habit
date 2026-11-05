@@ -65,9 +65,9 @@ Counts are anonymous, with no cookies. Once you sign in, that browser stops coun
 To get credit for Instagram and Threads traffic (those apps often hide where a visit came from), add a tag to links you share there:
 `https://houseandhabit.blog/posts/your-post/?utm_source=instagram` (or `threads`, `pinterest`, `newsletter`).
 
-To change the password: in Netlify, open Site configuration, Environment variables, add `STATS_PASSWORD` with your new password, and redeploy. Sales and earnings are in Amazon Associates under the `creativedi03c-20` tracking ID.
+To change the password: in Cloudflare, open Workers & Pages, the house-and-habit project, Settings, Variables and Secrets, add `STATS_PASSWORD` with your new password, and redeploy. Sales and earnings are in Amazon Associates under the `creativedi03c-20` tracking ID.
 
-How it works: `static/t.js` sends each event to `netlify/functions/t.mjs`, which stores it in Netlify Blobs. Every hour `compact-stats.mjs` rolls events into daily totals, and `/api/stats` (`stats.mjs`) serves them to `static/admin/index.html`.
+How it works (Cloudflare): `static/t.js` sends each event to `functions/api/t.js`, which saves it in the D1 database named house-and-habit (see `wrangler.toml`). `/api/stats` (`functions/api/stats.js`) reads it for `static/admin/index.html`. Stats from before the move to Cloudflare (29 Oct to 5 Nov 2026) stayed on Netlify. The `netlify/` folder is only used if the site goes back to Netlify.
 
 ## See how many people read each post
 
