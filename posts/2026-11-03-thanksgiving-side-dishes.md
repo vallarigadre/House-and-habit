@@ -93,7 +93,7 @@ Cook the butter and flour until nutty and golden, then whisk in the stock and si
 
 Here is how those sides become one balanced dinner for 8 to 10, including a roast turkey at the center. For a smaller crowd, drop the gratin or the corn pudding.
 
-**To start:** your favorite appetizers (the [Thanksgiving appetizer board](https://houseandhabit.netlify.app/posts/thanksgiving-appetizers/) has the plan)
+**To start:** your favorite appetizers (the [Thanksgiving appetizer board](/posts/thanksgiving-appetizers/) has the plan)
 
 **The main:** Herb butter roast turkey with make-ahead turkey gravy
 
@@ -175,6 +175,6 @@ Use a large [Sweese porcelain platter](https://link.amazon/B0deq10Zc) for the sp
 
 ## One last thing
 
-The best Thanksgiving hosts are the ones who actually sit down. Do a little each day and trust the timeline. If you are hosting friends earlier in the season, the same approach works on a smaller scale: start with [our one-day Friendsgiving timeline](https://houseandhabit.netlify.app/posts/friendsgiving-timeline/).
+The best Thanksgiving hosts are the ones who actually sit down. Do a little each day and trust the timeline. If you are hosting friends earlier in the season, the same approach works on a smaller scale: start with [our one-day Friendsgiving timeline](/posts/friendsgiving-timeline/).
 
 Prices change often, so check the current price on Amazon before you buy.

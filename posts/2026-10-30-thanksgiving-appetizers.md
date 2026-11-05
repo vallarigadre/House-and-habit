@@ -164,6 +164,6 @@ Once the food is ready, the setup is what makes it feel abundant. Pick a spot aw
 
 ## The best part of Thanksgiving starts early
 
-The appetizer hour is when Thanksgiving feels most relaxed: the cooking is mostly done, everyone has a drink and the house smells like dinner. Give it a generous board and a few good bites, and you get to enjoy it too. If you are hosting a smaller crowd of friends this year, pair this spread with our [Friendsgiving without the stress: a one-day hosting timeline](https://houseandhabit.netlify.app/posts/friendsgiving-timeline/) for the rest of the day.
+The appetizer hour is when Thanksgiving feels most relaxed: the cooking is mostly done, everyone has a drink and the house smells like dinner. Give it a generous board and a few good bites, and you get to enjoy it too. If you are hosting a smaller crowd of friends this year, pair this spread with our [Friendsgiving without the stress: a one-day hosting timeline](/posts/friendsgiving-timeline/) for the rest of the day.
 
 Prices change often, so check the current price on Amazon before you buy.

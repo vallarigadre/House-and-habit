@@ -7,7 +7,7 @@ A lifestyle magazine on decor, hosting and cozy style, built as a fast static si
 1. **Create a GitHub repository.** Sign in at github.com, click New repository, name it `house-and-habit`, and create it.
 2. **Upload the files.** On the new repo page, click "uploading an existing file", drag in everything from this folder (including the `posts`, `pages` and `static` folders), and commit.
 3. **Connect Netlify.** In Netlify, choose Add new site, then Import an existing project, pick GitHub and the `house-and-habit` repo. Netlify reads `netlify.toml`, so the build settings fill themselves in. Click Deploy.
-4. **Name the site.** In Site configuration, choose Change site name and enter `houseandhabit`. Your site is then at https://houseandhabit.netlify.app. If that name is taken, pick another and update `url` in `site.config.json` to match.
+4. **Name the site.** In Site configuration, choose Change site name and enter `houseandhabit`. Your site is then at https://houseandhabit.blog. If that name is taken, pick another and update `url` in `site.config.json` to match.
 5. **Turn on the newsletter form.** In Netlify, open Forms and click Enable form detection, then redeploy once. Sign-ups appear under Forms, newsletter.
 6. **Tell Amazon.** In Amazon Associates, go to Account settings, Edit your website list, and add the new site URL.
 
@@ -53,7 +53,7 @@ Install Node.js, then in this folder run `npm install` and `npm start`.
 
 ## Your private stats page
 
-Open https://houseandhabit.netlify.app/admin/ and sign in with your stats password. It shows:
+Open https://houseandhabit.blog/admin/ and sign in with your stats password. It shows:
 
 - Views and read-throughs for every post (a read-through means the reader scrolled at least 60% of the post).
 - Amazon clicks: which products, from which post, in the story or in the shop list.
@@ -63,7 +63,7 @@ Open https://houseandhabit.netlify.app/admin/ and sign in with your stats passwo
 Counts are anonymous, with no cookies. Once you sign in, that browser stops counting your own visits.
 
 To get credit for Instagram and Threads traffic (those apps often hide where a visit came from), add a tag to links you share there:
-`https://houseandhabit.netlify.app/posts/your-post/?utm_source=instagram` (or `threads`, `pinterest`, `newsletter`).
+`https://houseandhabit.blog/posts/your-post/?utm_source=instagram` (or `threads`, `pinterest`, `newsletter`).
 
 To change the password: in Netlify, open Site configuration, Environment variables, add `STATS_PASSWORD` with your new password, and redeploy. Sales and earnings are in Amazon Associates under the `creativedi03c-20` tracking ID.
 
@@ -74,7 +74,7 @@ How it works: `static/t.js` sends each event to `netlify/functions/t.mjs`, which
 The site is ready for Cloudflare Web Analytics, which is free and uses no cookies.
 
 1. Create a free account at cloudflare.com and open Web Analytics.
-2. Add a site, enter your Netlify address (for example houseandhabit.netlify.app), and choose the JavaScript snippet option.
+2. Add a site, enter your Netlify address (for example houseandhabit.blog), and choose the JavaScript snippet option.
 3. Copy the token from the snippet. It is the long code after `"token":`.
 4. Open `site.config.json` on GitHub, paste it between the quotes on the `cloudflareAnalyticsToken` line, and commit.
 
@@ -82,7 +82,7 @@ Netlify rebuilds the site and every page starts counting. Your numbers (page vie
 
 ### Google Analytics (GA4)
 
-1. Go to analytics.google.com, create an account and a property for House & Habit, then add a Web data stream with the address https://houseandhabit.netlify.app.
+1. Go to analytics.google.com, create an account and a property for House & Habit, then add a Web data stream with the address https://houseandhabit.blog.
 2. Copy the Measurement ID (it starts with `G-`).
 3. Open `site.config.json` on GitHub, paste it between the quotes on the `googleAnalyticsId` line, and commit.
 
@@ -92,7 +92,7 @@ Every page starts reporting within a day. Clicks on Amazon links are also counte
 
 Each post already gets a meta description (the `description:` line), social preview tags, article structured data and a sitemap with dates and cover photos.
 
-1. Google Search Console: at search.google.com/search-console add a "URL prefix" property for https://houseandhabit.netlify.app, choose "HTML tag", and copy only the `content="..."` code into the `googleSiteVerification` line of `site.config.json`. Commit, press Verify, then submit `sitemap.xml` under Sitemaps.
+1. Google Search Console: at search.google.com/search-console add a "URL prefix" property for https://houseandhabit.blog, choose "HTML tag", and copy only the `content="..."` code into the `googleSiteVerification` line of `site.config.json`. Commit, press Verify, then submit `sitemap.xml` under Sitemaps.
 2. Pinterest: in Pinterest business settings, claim the website with the HTML tag option and paste the code into the `pinterestVerification` line.
 
 Write a description of 140 to 160 characters that uses the phrase people search for (for example "how to decorate with plaid").
