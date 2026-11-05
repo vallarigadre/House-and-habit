@@ -1,0 +1,8 @@
+name = "house-and-habit"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "house-and-habit"
+database_id = "0ad6c337-d125-4b61-a699-621ace68c1f7"

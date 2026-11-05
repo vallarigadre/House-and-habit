@@ -1,6 +1,6 @@
 // House & Habit: static site builder.
 // Reads posts/*.md and pages/*.md, writes a complete site to dist/.
-// Run locally with `npm run build`. Netlify runs the same command on every deploy.
+// Run locally with `npm run build`. The host (Cloudflare Pages, or Netlify before the move) runs the same command on every deploy.
 
 const fs = require("fs");
 const CSS_VERSION = require("crypto").createHash("md5").update(require("fs").readFileSync(require("path").join(__dirname, "static/style.css"))).digest("hex").slice(0, 10);
@@ -183,8 +183,8 @@ const newsletter = `<section class="letter" aria-labelledby="letter-h">
   <div class="letter__inner">
     <h2 id="letter-h">The Sunday table</h2>
     <p>One short letter a week: the newest posts, a seasonal idea worth stealing, and the few finds we actually loved.</p>
-    <form name="newsletter" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" class="letter__form">
-      <input type="hidden" name="form-name" value="newsletter">
+    ${process.env.CF_PAGES ? `<form name="newsletter" method="POST" action="/api/subscribe" class="letter__form">` : `<form name="newsletter" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" class="letter__form">
+      <input type="hidden" name="form-name" value="newsletter">`}
       <p class="hp"><label>Company <input name="company"></label></p>
       <label for="email" class="sr">Email address</label>
       <input id="email" type="email" name="email" placeholder="you@example.com" required autocomplete="email">
