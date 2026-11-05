@@ -19,3 +19,11 @@
   [headers.values]
     X-Robots-Tag = "noindex, nofollow"
     Cache-Control = "no-store"
+
+# The site moved to Cloudflare Pages at houseandhabit.blog on 5 Nov 2026.
+# This Netlify copy now only redirects old links (old pins, Medium posts) to the new address.
+[[redirects]]
+  from = "/*"
+  to = "https://houseandhabit.blog/:splat"
+  status = 301
+  force = true
