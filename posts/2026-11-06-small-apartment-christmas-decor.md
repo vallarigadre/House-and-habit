@@ -2,7 +2,6 @@
 title: "Small Apartment Christmas Decor: 15 festive ideas that fit any floor plan"
 subtitle: "Fifteen recreatable setups for the tree, walls, surfaces, bedroom and entry, all renter-friendly and easy to pack away."
 date: 2026-11-06
-draft: true
 category: Decor
 description: "Small apartment Christmas decor: 15 renter-friendly setups for the tree, walls, windows, surfaces, bedroom and entry, plus storage tips."
 tags: [small apartment Christmas decor, apartment Christmas ideas, renter friendly Christmas decor, small space Christmas tree, Christmas decor without a mantel, holiday decorating, tabletop Christmas tree, Christmas storage]
@@ -26,35 +25,35 @@ This year's trend reports favor exactly what small homes do well. Ideal Home's 2
 
 ### 1. The tabletop tree on a console
 
-A [2 ft pre-lit tabletop tree with a burlap base](https://www.amazon.com/dp/B0C7G53216?tag=creativedi03c-20) goes on a console, side table or stool. Raise it on a stack of two or three books, then wrap the base in a square of linen. At eye level it reads bigger than it is, and it costs you zero floor space.
+A [2 ft pre-lit tabletop tree with a burlap base](https://link.amazon/B05wPuGdY) goes on a console, side table or stool. Raise it on a stack of two or three books, then wrap the base in a square of linen. At eye level it reads bigger than it is, and it costs you zero floor space.
 
 ### 2. The slim tree in a corner
 
-If you want a tree you can stand next to, go tall and narrow. The [Decoway 6 ft slim tree with 200 warm white LEDs](https://www.amazon.com/dp/B09152DQJY?tag=creativedi03c-20) is designed for apartments. Tuck it into the corner beside a sofa or behind a door that stays open. Hang ornaments only on the two sides you can see, and put a basket around the stand instead of a wide skirt.
+If you want a tree you can stand next to, go tall and narrow. The [Decoway 6 ft slim tree with 200 warm white LEDs](https://link.amazon/B06Xdcs0z) is designed for apartments. Tuck it into the corner beside a sofa or behind a door that stays open. Hang ornaments only on the two sides you can see, and put a basket around the stand instead of a wide skirt.
 
 ![A slim Christmas tree with warm white lights in an apartment corner beside a sofa, its stand tucked into a woven basket](/images/small-apartment-christmas-decor-2.jpg)
 
 ### 3. The ladder tree
 
-Lean a blanket ladder against the wall. Drape [cedar garland](https://www.amazon.com/dp/B0FFHDJZSC?tag=creativedi03c-20) down the rungs, wind in [warm white fairy lights](https://www.amazon.com/dp/B0B9BLPTMB?tag=creativedi03c-20), and hang small ornaments on ribbon from each rung. Keep the widest rung at the bottom so it reads as a tree.
+Lean a blanket ladder against the wall. Drape [cedar garland](https://link.amazon/B0e5xMKjL) down the rungs, wind in [warm white fairy lights](https://link.amazon/B079zjmmk), and hang small ornaments on ribbon from each rung. Keep the widest rung at the bottom so it reads as a tree.
 
 ### 4. The wall tree
 
-Use five or six [Command clear hooks](https://www.amazon.com/dp/B076ZZ9D2V?tag=creativedi03c-20) to map a triangle on a bare wall, then run garland or fairy lights from hook to hook in a zigzag. Add a star at the top and hang a few light ornaments. Check the weight limit on the package, and keep this one featherlight.
+Use five or six [Command clear hooks](https://link.amazon/B0fKKbOjy) to map a triangle on a bare wall, then run garland or fairy lights from hook to hook in a zigzag. Add a star at the top and hang a few light ornaments. Check the weight limit on the package, and keep this one featherlight.
 
 ## Walls and windows: 3 ideas with no mantel needed
 
 ### 5. The stocking wall
 
-No fireplace, no problem. Put a row of clear hooks at about shoulder height on the wall behind a bench, console or sofa. Hang [velvet stockings with gold tassels](https://www.amazon.com/dp/B09J4LWZH6?tag=creativedi03c-20) in a straight line, then swag cedar garland just above them. The wall now does the work of a mantel.
+No fireplace, no problem. Put a row of clear hooks at about shoulder height on the wall behind a bench, console or sofa. Hang [velvet stockings with gold tassels](https://link.amazon/B0bv9eBMS) in a straight line, then swag cedar garland just above them. The wall now does the work of a mantel.
 
 ### 6. The window ledge
 
-Windows are your free real estate. Set [ivory window candles with a remote and timer](https://www.amazon.com/dp/B0C45GRDJ3?tag=creativedi03c-20) along the sill, one per pane, with small clippings of cedar in between. Set the timer for dusk and your apartment glows from the street too. For extra drama, add a [black tension rod](https://www.amazon.com/dp/B0D9D1CL14?tag=creativedi03c-20) inside the frame and hang small ornaments from it on ribbon.
+Windows are your free real estate. Set [ivory window candles with a remote and timer](https://link.amazon/B0hjUTqbm) along the sill, one per pane, with small clippings of cedar in between. Set the timer for dusk and your apartment glows from the street too. For extra drama, add a [black tension rod](https://link.amazon/B0gpbuOtb) inside the frame and hang small ornaments from it on ribbon.
 
 ### 7. The door bow
 
-Skip the bulky wreath. Hook an [adjustable over-the-door hanger](https://www.amazon.com/dp/B07F897P1G?tag=creativedi03c-20) on your door, then tie an oversized bow from [burgundy wired velvet ribbon](https://www.amazon.com/dp/B0H9LN4CW8?tag=creativedi03c-20). Bows are one of this year's big trends, and they sit nearly flat. If you do love a wreath, the same hanger holds a small boxwood one. Check building rules before decorating a shared hallway.
+Skip the bulky wreath. Hook an [adjustable over-the-door hanger](https://link.amazon/B0j0PfABp) on your door, then tie an oversized bow from [burgundy wired velvet ribbon](https://link.amazon/B0gMgnsj0). Bows are one of this year's big trends, and they sit nearly flat. If you do love a wreath, the same hanger holds a small boxwood one. Check building rules before decorating a shared hallway.
 
 ![An apartment door with an oversized burgundy velvet bow on an over-the-door hanger](/images/small-apartment-christmas-decor-3.jpg)
 
@@ -74,7 +73,7 @@ Fill a pitcher or crock with cedar clippings, then set a bowl of clementines and
 
 ### 11. The coffee table tray
 
-Corral everything on one [round marble tray](https://www.amazon.com/dp/B0F59NJY15?tag=creativedi03c-20): a candle, a small bowl of pinecones and cinnamon sticks, and a few ornaments. When you need the table for dinner or a movie night, lift the whole tray away in one move.
+Corral everything on one [round marble tray](https://link.amazon/B0giQ6BLD): a candle, a small bowl of pinecones and cinnamon sticks, and a few ornaments. When you need the table for dinner or a movie night, lift the whole tray away in one move.
 
 ![A round marble tray on a coffee table with a candle, a bowl of pinecones and cinnamon sticks and a few ornaments](/images/small-apartment-christmas-decor-4.jpg)
 
@@ -106,7 +105,7 @@ Swap whatever hangs on your busiest hook for a garland swag tied with velvet rib
 
 ## After the holidays: how to store it all
 
-Small homes have small closets, so decide on storage before you buy. Pack garland and wreaths in a [24 inch storage bag two-pack](https://www.amazon.com/dp/B0CH4BWD1Y?tag=creativedi03c-20) and slide the bags under the bed. Coil fairy lights around a piece of cardboard. Keep ribbon wrapped around its roll and wrap ornaments in old tissue paper inside a shoe box, then label everything. One rule keeps the collection in check: if something new comes in, something old goes out.
+Small homes have small closets, so decide on storage before you buy. Pack garland and wreaths in a [24 inch storage bag two-pack](https://link.amazon/B09FcKPz8) and slide the bags under the bed. Coil fairy lights around a piece of cardboard. Keep ribbon wrapped around its roll and wrap ornaments in old tissue paper inside a shoe box, then label everything. One rule keeps the collection in check: if something new comes in, something old goes out.
 
 ## Your weekend checklist
 
@@ -119,18 +118,18 @@ Small homes have small closets, so decide on storage before you buy. Pack garlan
 
 ## Shop the edit
 
-- [OasisCraft 2 ft pre-lit tabletop tree with burlap base](https://www.amazon.com/dp/B0C7G53216?tag=creativedi03c-20)
-- [Decoway 6 ft slim Christmas tree with 200 warm white LEDs](https://www.amazon.com/dp/B09152DQJY?tag=creativedi03c-20)
-- [6 ft real touch cedar garland, two pack](https://www.amazon.com/dp/B0FFHDJZSC?tag=creativedi03c-20)
-- [Karlling warm white fairy lights with timer, 16 ft](https://www.amazon.com/dp/B0B9BLPTMB?tag=creativedi03c-20)
-- [Command medium clear wall hooks, 7 hooks and 12 strips](https://www.amazon.com/dp/B076ZZ9D2V?tag=creativedi03c-20)
-- [Ugiftcorner red velvet stockings with gold tassels, four pack](https://www.amazon.com/dp/B09J4LWZH6?tag=creativedi03c-20)
-- [Homemory ivory window candles with remote and timer, six pack](https://www.amazon.com/dp/B0C45GRDJ3?tag=creativedi03c-20)
-- [Black tension rod, 28 to 48 inch](https://www.amazon.com/dp/B0D9D1CL14?tag=creativedi03c-20)
-- [HEYHOUSE adjustable over-the-door wreath hanger](https://www.amazon.com/dp/B07F897P1G?tag=creativedi03c-20)
-- [Milimot burgundy wired velvet ribbon, 2.5 inch](https://www.amazon.com/dp/B0H9LN4CW8?tag=creativedi03c-20)
-- [Round marble decorative tray, 10 inch](https://www.amazon.com/dp/B0F59NJY15?tag=creativedi03c-20)
-- [Christmas wreath storage bag, 24 inch, two pack](https://www.amazon.com/dp/B0CH4BWD1Y?tag=creativedi03c-20)
+- [OasisCraft 2 ft pre-lit tabletop tree with burlap base](https://link.amazon/B05wPuGdY)
+- [Decoway 6 ft slim Christmas tree with 200 warm white LEDs](https://link.amazon/B06Xdcs0z)
+- [6 ft real touch cedar garland, two pack](https://link.amazon/B0e5xMKjL)
+- [Karlling warm white fairy lights with timer, 16 ft](https://link.amazon/B079zjmmk)
+- [Command medium clear wall hooks, 7 hooks and 12 strips](https://link.amazon/B0fKKbOjy)
+- [Ugiftcorner red velvet stockings with gold tassels, four pack](https://link.amazon/B0bv9eBMS)
+- [Homemory ivory window candles with remote and timer, six pack](https://link.amazon/B0hjUTqbm)
+- [Black tension rod, 28 to 48 inch](https://link.amazon/B0gpbuOtb)
+- [HEYHOUSE adjustable over-the-door wreath hanger](https://link.amazon/B0j0PfABp)
+- [Milimot burgundy wired velvet ribbon, 2.5 inch](https://link.amazon/B0gMgnsj0)
+- [Round marble decorative tray, 10 inch](https://link.amazon/B0giQ6BLD)
+- [Christmas wreath storage bag, 24 inch, two pack](https://link.amazon/B09FcKPz8)
 
 ## One last thing
 
