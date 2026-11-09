@@ -1,50 +1,16 @@
-# Editor notes for V
-
-**Section:** Hosting  
-**Keyword:** Christmas party ideas
-
-**Title options**
-1. Christmas Party Ideas: a complete plan for hosting at home (chosen)
-2. Christmas Party Ideas: theme, menu, drinks and a 3-week timeline
-3. How to Host a Christmas Party at Home: the complete plan
-
-**Subtitle:** A plaid and brass theme, a grazing table menu, a big-batch punch, one easy game and a 3-week timeline you can follow step by step.
-
-**Meta description:** Christmas party ideas for hosting at home: a plaid and brass theme, grazing table menu, punch station, gift swap game and a 3-week timeline.
-
-**SEO tags:** Christmas party ideas, holiday party at home, Christmas party planning, Christmas party menu, holiday punch, gift swap game, Christmas grazing table, holiday hosting timeline, Christmas open house
-
-**Pinterest pin title:** Christmas Party Ideas: the complete at-home hosting plan  
-**Pinterest pin description:** Christmas party ideas you can copy: a plaid and brass theme, a grazing table menu, a cranberry punch station, a dice gift swap and a 3-week planning checklist.
-
-**Products**
-
-| # | Product | ASIN | Category | Rate |
-|---|---|---|---|---|
-| 1 | Large acacia serving boards, two pack | B0H6S6VLFY | Kitchen | 4.5% |
-| 2 | 3 tier serving tray stand | B07JHCGT6Y | Kitchen | 4.5% |
-| 3 | 2 gallon glass beverage dispenser with stand | B0C3R4NGCP | Listed under Industrial & Scientific (check rate in your Associates report) | varies |
-| 4 | Lysenn vintage coupe glasses | B0BHDH6574 | Kitchen | 4.5% |
-| 5 | Chef Craft hammered ice bucket with tongs | B0BZGVDFH5 | Kitchen | 4.5% |
-| 6 | Red and gold Christmas cocktail napkins, 200 count | B0BGXN6C1F | Home & Kitchen | 3% to 4.5% |
-| 7 | OurWarm buffalo plaid table runner | B07GS7D1VV | Home | 3% |
-| 8 | Nuptio brass candlestick holders, set of 3 | B07W554ZNB | Home | 3% |
-| 9 | Olde English gold robin Christmas crackers, set of 12 | B0CH975Y48 | Home | 3% |
-| 10 | RoundFunny gift exchange dice, 6 pack | B0CMHXMK4H | Toys | 3% |
-
-**Medium:** import to Medium only after the post is live on the site, using Medium's import tool (Import a story) with https://houseandhabit.blog/posts/christmas-party-ideas/ so the canonical link points to House & Habit.
-
-**Trend articles read (for your reference only, not in the post)**
-- [The Party and Hosting Trends That Will Shape Your 2026 Celebrations (Martha Stewart via AOL)](https://www.aol.com/articles/party-hosting-trends-shape-2026-220000188.html)
-- [29 holiday and Christmas party theme ideas (Paperless Post)](https://paperlesspost.com/blog/holiday-party-ideas)
-- [The Entertaining Trends Taking Over in 2026 (Elle Decor via AOL)](https://www.aol.com/articles/entertaining-trends-taking-over-2026-150000990.html)
-
 ---
-
-# Christmas Party Ideas: a complete plan for hosting at home
-
-*A plaid and brass theme, a grazing table menu, a big-batch punch, one easy game and a 3-week timeline you can follow step by step.*
-
+title: "Christmas Party Ideas: a complete plan for hosting at home"
+subtitle: "A plaid and brass theme, a grazing table menu, a big-batch punch, one easy game and a 3-week timeline you can follow step by step."
+date: 2026-11-09
+draft: true
+category: Hosting
+description: "Christmas party ideas for hosting at home: a plaid and brass theme, grazing table menu, punch station, gift swap game and a 3-week timeline."
+tags: [Christmas party ideas, holiday party at home, Christmas party planning, Christmas party menu, holiday punch, gift swap game, Christmas grazing table, holiday hosting timeline, Christmas open house]
+pin_title: "Christmas Party Ideas: the complete at-home hosting plan"
+pin_description: "Christmas party ideas you can copy: a plaid and brass theme, a grazing table menu, a cranberry punch station, a dice gift swap and a 3-week planning checklist."
+cover: "/images/christmas-party-ideas.jpg"
+cover_alt: "A living room set for a Christmas open house with a cranberry punch dispenser, coupe glasses and an ice bucket on a sideboard, a garland-draped mantel with brass candlesticks and a buffalo plaid throw"
+---
 *This post contains affiliate links. As an Amazon Associate I earn from qualifying purchases, at no extra cost to you.*
 
 The best Christmas parties are not the most expensive ones. They are the ones where the host is actually in the room, glass in hand, laughing at the gift swap instead of hiding in the kitchen. That only happens with a plan.
@@ -75,6 +41,8 @@ Tell guests three things up front: the dress code ("festive plaid encouraged"), 
 Skip the plated food. A long grazing table lets guests serve themselves all night, and it looks generous even when half of it came from the store. Pairing store-bought shortcuts with one or two homemade dishes is exactly how good hosts are cooking now.
 
 ### The grazing board
+
+![Two long acacia boards laid end to end with a Christmas grazing spread of cheeses, salami, prosciutto, crackers, grapes, pomegranates, figs and rosemary](/images/christmas-party-ideas-2.jpg)
 
 Lay two long [acacia serving boards](https://www.amazon.com/dp/B0H6S6VLFY?tag=creativedi03c-20) end to end down the center of a table or kitchen island. Then fill them in this order:
 
@@ -132,6 +100,8 @@ Dim the overhead lights and switch on every lamp. Run garland along the mantel o
 
 ### The grazing table
 
+![A candlelit Christmas buffet table with a buffalo plaid runner, a grazing board, a three tier dessert stand, brass candlesticks and a basket of gold Christmas crackers](/images/christmas-party-ideas-3.jpg)
+
 Lay an [OurWarm buffalo plaid table runner](https://www.amazon.com/dp/B07GS7D1VV?tag=creativedi03c-20) down the center, put the boards on top, and line the back edge with [brass candlestick holders](https://www.amazon.com/dp/B07W554ZNB?tag=creativedi03c-20) in three heights holding ivory tapers. Scatter pinecones and a few gold ornaments between the dishes. At the end of the table, pile a basket of [gold robin Christmas crackers](https://www.amazon.com/dp/B0CH975Y48?tag=creativedi03c-20) so guests can pull one on the way out: a paper crown and a joke make a lovely last impression.
 
 ## The activity: a dice gift swap
@@ -148,6 +118,8 @@ One structured activity gives the party a peak, and a gift swap is the one peopl
 It takes about 15 minutes, needs no explaining, and the steals always get a laugh. Keep one or two spare wrapped gifts for guests who forget.
 
 ## Your 3-week Christmas party planning timeline
+
+![Christmas party prep on an oak table: gifts wrapped in kraft paper with plaid ribbon, gold Christmas crackers, cocktail napkins, gift swap dice and a blank notebook](/images/christmas-party-ideas-4.jpg)
 
 Copy this onto a card and stick it to the fridge. Each line is small enough to finish in an evening.
 
