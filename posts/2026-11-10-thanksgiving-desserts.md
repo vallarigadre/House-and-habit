@@ -2,7 +2,6 @@
 title: "Thanksgiving Desserts: how to set up a pie and dessert table"
 subtitle: "Four pies (one gluten-free), a pick-and-nibble dessert board, a coffee and whipped cream station and a setup checklist for a calm, sweet finish."
 date: 2026-11-10
-draft: true
 category: Hosting
 description: "Thanksgiving desserts made easy: four pies with a gluten-free option, a dessert board, a coffee and whipped cream station and a setup checklist."
 tags: [Thanksgiving desserts, Thanksgiving pie table, Thanksgiving dessert table, pie bar, gluten-free Thanksgiving pie, dessert board, coffee station, Thanksgiving hosting, make-ahead pies, holiday entertaining]
@@ -29,11 +28,11 @@ Four pies is the sweet spot for a table of 10 to 12. Each one plays a different 
 
 The one everyone expects. Whisk one 15-ounce can of pumpkin purée with 3/4 cup brown sugar, 2 eggs, 1 cup heavy cream, 2 teaspoons pumpkin pie spice and a pinch of salt. Pour into a par-baked crust and bake at 375°F for 50 to 55 minutes, until the center barely jiggles.
 
-The magazine touch: punch leaves from leftover dough with [plunger-style fall pie crust cutters](https://www.amazon.com/dp/B07X3LBB9P?tag=creativedi03c-20), brush with egg wash, bake them separately on a sheet pan and press them around the edge once the pie cools.
+The magazine touch: punch leaves from leftover dough with [plunger-style fall pie crust cutters](https://link.amazon/B0g2GDMKj), brush with egg wash, bake them separately on a sheet pan and press them around the edge once the pie cools.
 
 ### 2. Maple pecan pie, made gluten-free
 
-This is your gluten-free option, and nobody will guess. Make the crust with [King Arthur Gluten-Free Pie Crust Mix](https://www.amazon.com/dp/B01JJ9GPUG?tag=creativedi03c-20). For the filling, whisk 3 eggs, 3/4 cup maple syrup, 1/2 cup brown sugar, 4 tablespoons melted butter, 1 teaspoon vanilla and a pinch of salt. Stir in 2 cups pecan halves and bake at 350°F for 50 to 55 minutes. Pecan filling is naturally flour-free, so the crust is the only swap.
+This is your gluten-free option, and nobody will guess. Make the crust with [King Arthur Gluten-Free Pie Crust Mix](https://link.amazon/B01ZlgJD7). For the filling, whisk 3 eggs, 3/4 cup maple syrup, 1/2 cup brown sugar, 4 tablespoons melted butter, 1 teaspoon vanilla and a pinch of salt. Stir in 2 cups pecan halves and bake at 350°F for 50 to 55 minutes. Pecan filling is naturally flour-free, so the crust is the only swap.
 
 Bake it first, on clean pans, and give it its own server so it stays safe for gluten-free guests.
 
@@ -45,7 +44,7 @@ Toss 6 sliced apples (a mix of Honeycrisp and Granny Smith) with 1/2 cup sugar, 
 
 The non-traditional pick, and often the first one gone. Press a chocolate cookie crumb crust into a pie dish, fill with cooled homemade or boxed chocolate pudding (the cook-and-serve kind sets firmest), chill overnight and top with whipped cream and chocolate shavings just before serving.
 
-Bake in pretty dishes you can carry straight to the table. A deep, fluted [Emile Henry 9-inch pie dish](https://www.amazon.com/dp/B00WRIJ45A?tag=creativedi03c-20) is the heirloom splurge, and the [MORA ceramic fluted pie pan](https://www.amazon.com/dp/B094WYSWV5?tag=creativedi03c-20) gives you the same farmhouse look for a second or third pie.
+Bake in pretty dishes you can carry straight to the table. A deep, fluted [Emile Henry 9-inch pie dish](https://link.amazon/B00z1KhpO) is the heirloom splurge, and the [MORA ceramic fluted pie pan](https://link.amazon/B0g2CGVk5) gives you the same farmhouse look for a second or third pie.
 
 
 ## How much dessert to make
@@ -62,13 +61,13 @@ Variety beats volume. Leftover pie is lovely, but four half-eaten pumpkin pies i
 
 Give dessert its own zone, away from the dinner table. A sideboard, a kitchen island or a folding table dressed in a linen cloth all work. If guests can reach it from two sides, even better.
 
-**Build height.** A flat row of pies looks like a bake sale. Put one star dessert on a pedestal in the center, such as the chocolate cream pie under a [glass cake stand with a dome](https://www.amazon.com/dp/B09V2C1VY6?tag=creativedi03c-20), which also keeps it fresh until serving. Set the other pies at different levels: one on a wood board, one on a sturdy cookbook tucked under the tablecloth, one flat.
+**Build height.** A flat row of pies looks like a bake sale. Put one star dessert on a pedestal in the center, such as the chocolate cream pie under a [glass cake stand with a dome](https://link.amazon/B02DjuKHY), which also keeps it fresh until serving. Set the other pies at different levels: one on a wood board, one on a sturdy cookbook tucked under the tablecloth, one flat.
 
 **Work left to right.** Plates, forks and napkins at the start, pies in the middle, the dessert board after them and the coffee station at the far end, so the line flows one way.
 
-**Label everything.** Small tent cards help guests choose fast and protect anyone avoiding gluten or nuts. These [chalkboard-print food tent cards](https://www.amazon.com/dp/B015R8XZJM?tag=creativedi03c-20) come with gluten-free and vegetarian labels. Write the pie name, then a short note: "Gluten-free, contains nuts."
+**Label everything.** Small tent cards help guests choose fast and protect anyone avoiding gluten or nuts. These [chalkboard-print food tent cards](https://link.amazon/B03PpKB75) come with gluten-free and vegetarian labels. Write the pie name, then a short note: "Gluten-free, contains nuts."
 
-**One server per pie.** A [set of three stainless pie servers](https://www.amazon.com/dp/B089SVYCSH?tag=creativedi03c-20) means no crumbs of regular crust drift into the gluten-free pecan.
+**One server per pie.** A [set of three stainless pie servers](https://link.amazon/B08WNcU7t) means no crumbs of regular crust drift into the gluten-free pecan.
 
 **Keep the decor low.** A few small pumpkins, sprigs of eucalyptus and two taper candles at the back are plenty. Leave room for the food.
 
@@ -78,7 +77,7 @@ Give dessert its own zone, away from the dinner table. A sideboard, a kitchen is
 
 Some guests are too full for a slice but will happily pick at something small. A long board solves that, and it fills the gaps on the table beautifully.
 
-Use a long wood board like this [24-inch acacia board with handles](https://www.amazon.com/dp/B0CQRMBN8C?tag=creativedi03c-20) and build it in this order:
+Use a long wood board like this [24-inch acacia board with handles](https://link.amazon/B00Qzlvd0) and build it in this order:
 
 1. **Anchors first:** a small bowl of salted caramel sauce and a wedge of aged cheddar or a soft brie, placed at opposite ends.
 2. **Baked bites:** pumpkin bread cut into fingers, brownie squares and shortbread or gingersnaps, fanned in small rows.
@@ -95,9 +94,9 @@ For gluten-free guests, keep one corner of the board for naturally gluten-free p
 
 Coffee turns dessert into a lingering, sit-and-talk moment, so set it up at the end of the table and let guests help themselves.
 
-**Coffee.** Brew a full pot right before dinner ends and pour it into an insulated carafe, like this [woven rattan thermal carafe](https://www.amazon.com/dp/B0DKMYYX75?tag=creativedi03c-20), which keeps it hot for hours and looks good on the table. Add a second carafe of decaf with a label, a small pitcher of cream, a sugar bowl and a jar of cinnamon sticks.
+**Coffee.** Brew a full pot right before dinner ends and pour it into an insulated carafe, like this [woven rattan thermal carafe](https://link.amazon/B0c7THmKC), which keeps it hot for hours and looks good on the table. Add a second carafe of decaf with a label, a small pitcher of cream, a sugar bowl and a jar of cinnamon sticks.
 
-**Mugs.** Line them up handle out. Matching stoneware feels instantly special; this [reactive glaze mug set of four](https://www.amazon.com/dp/B0D9P6ZLFK?tag=creativedi03c-20) holds generous pours.
+**Mugs.** Line them up handle out. Matching stoneware feels instantly special; this [reactive glaze mug set of four](https://link.amazon/B05ohJLgG) holds generous pours.
 
 **Whipped cream.** This is the station's star. Make it fresh in an [iSi Gourmet Whip cream whipper](https://www.amazon.com/dp/B001U83TWW?tag=creativedi03c-20): pour in 1 pint cold heavy cream, 2 tablespoons powdered sugar and 1 teaspoon vanilla, charge it, shake and keep it in the fridge until dessert. Guests top their own pie, and it stays fresh for days.
 
@@ -148,17 +147,17 @@ Print this, tape it inside a cabinet door and check things off.
 
 ## Shop the edit
 
-- [Emile Henry 9-inch deep pie dish](https://www.amazon.com/dp/B00WRIJ45A?tag=creativedi03c-20): the heirloom dish for your star pie.
-- [MORA ceramic fluted pie pan](https://www.amazon.com/dp/B094WYSWV5?tag=creativedi03c-20): a pretty, oven-to-table dish for pie number two.
-- [Fall pie crust cutters](https://www.amazon.com/dp/B07X3LBB9P?tag=creativedi03c-20): plunger-style leaves for the pumpkin pie border.
-- [King Arthur Gluten-Free Pie Crust Mix](https://www.amazon.com/dp/B01JJ9GPUG?tag=creativedi03c-20): an easy crust for the gluten-free pecan pie.
-- [Glass cake stand with dome](https://www.amazon.com/dp/B09V2C1VY6?tag=creativedi03c-20): height and freshness for the centerpiece dessert.
-- [24-inch acacia serving board](https://www.amazon.com/dp/B0CQRMBN8C?tag=creativedi03c-20): the base for the dessert board.
-- [Stainless pie server set of 3](https://www.amazon.com/dp/B089SVYCSH?tag=creativedi03c-20): one server per pie, no crumb crossover.
-- [Chalkboard-print food tent cards](https://www.amazon.com/dp/B015R8XZJM?tag=creativedi03c-20): labels, including gluten-free and vegetarian.
+- [Emile Henry 9-inch deep pie dish](https://link.amazon/B00z1KhpO): the heirloom dish for your star pie.
+- [MORA ceramic fluted pie pan](https://link.amazon/B0g2CGVk5): a pretty, oven-to-table dish for pie number two.
+- [Fall pie crust cutters](https://link.amazon/B0g2GDMKj): plunger-style leaves for the pumpkin pie border.
+- [King Arthur Gluten-Free Pie Crust Mix](https://link.amazon/B01ZlgJD7): an easy crust for the gluten-free pecan pie.
+- [Glass cake stand with dome](https://link.amazon/B02DjuKHY): height and freshness for the centerpiece dessert.
+- [24-inch acacia serving board](https://link.amazon/B00Qzlvd0): the base for the dessert board.
+- [Stainless pie server set of 3](https://link.amazon/B08WNcU7t): one server per pie, no crumb crossover.
+- [Chalkboard-print food tent cards](https://link.amazon/B03PpKB75): labels, including gluten-free and vegetarian.
 - [iSi Gourmet Whip cream whipper](https://www.amazon.com/dp/B001U83TWW?tag=creativedi03c-20): fresh whipped cream on demand.
-- [Woven rattan thermal coffee carafe](https://www.amazon.com/dp/B0DKMYYX75?tag=creativedi03c-20): keeps coffee hot through dessert.
-- [Reactive glaze stoneware mug set](https://www.amazon.com/dp/B0D9P6ZLFK?tag=creativedi03c-20): generous mugs for coffee and pie.
+- [Woven rattan thermal coffee carafe](https://link.amazon/B0c7THmKC): keeps coffee hot through dessert.
+- [Reactive glaze stoneware mug set](https://link.amazon/B05ohJLgG): generous mugs for coffee and pie.
 
 ## The sweet finish
 
