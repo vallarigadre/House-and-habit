@@ -1,50 +1,16 @@
-# Editor notes for V
-
-**Section:** Hosting  |  **Keyword:** Thanksgiving desserts
-
-**Title options**
-1. Thanksgiving Desserts: how to set up a pie and dessert table (chosen)
-2. Thanksgiving Desserts: 4 make-ahead pies, a dessert board and a coffee station
-3. Thanksgiving Desserts Made Easy: the pie table plan with a gluten-free option
-
-**Subtitle:** Four pies (one gluten-free), a pick-and-nibble dessert board, a coffee and whipped cream station and a setup checklist for a calm, sweet finish.
-
-**Meta description (147 characters):** Thanksgiving desserts made easy: four pies with a gluten-free option, a dessert board, a coffee and whipped cream station and a setup checklist.
-
-**SEO tags:** Thanksgiving desserts, Thanksgiving pie table, Thanksgiving dessert table, pie bar, gluten-free Thanksgiving pie, dessert board, coffee station, Thanksgiving hosting, make-ahead pies, holiday entertaining
-
-**Pinterest pin title:** Thanksgiving Desserts: how to set up a pie and dessert table
-
-**Pinterest pin description:** Thanksgiving desserts, sorted: four make-ahead pies including a gluten-free pecan, a dessert board, a coffee and whipped cream station, labels and a setup checklist.
-
-**Products**
-
-| # | Product | ASIN | Category | Rate |
-|---|---|---|---|---|
-| 1 | Emile Henry Modern Classics 9" deep pie dish (splurge) | B00WRIJ45A | Kitchen | 4.5% |
-| 2 | MORA ceramic fluted pie pan, 9 inch | B094WYSWV5 | Kitchen | 4.5% |
-| 3 | Talisman Designs fall plunger pie crust cutters | B07X3LBB9P | Kitchen | 4.5% |
-| 4 | King Arthur Gluten-Free Pie Crust Mix | B01JJ9GPUG | Grocery & Gourmet Food | not in the listed rates, check Associates Central (lower) |
-| 5 | Glass cake stand with dome cover | B09V2C1VY6 | Kitchen | 4.5% |
-| 6 | TIDITA 24" acacia board with handles | B0CQRMBN8C | Kitchen | 4.5% |
-| 7 | GoGeiLi stainless pie server set of 3 | B089SVYCSH | Kitchen | 4.5% |
-| 8 | Andaz Press chalkboard-print food tent cards | B015R8XZJM | Home (party supplies) | 3% |
-| 9 | iSi Gourmet Whip 1 pint (splurge) | B001U83TWW | Kitchen | 4.5% |
-| 10 | Woven rattan thermal coffee carafe, 51 oz | B0DKMYYX75 | Kitchen | 4.5% |
-| 11 | Reactive glaze stoneware mugs, set of 4 | B0D9P6ZLFK | Kitchen | 4.5% |
-
-**Medium:** import to Medium only after the post is live on the site, using Medium's import tool (Import a story, paste https://houseandhabit.blog/posts/thanksgiving-desserts/) so the canonical link points to House & Habit. The text below is ready to paste if you prefer; when pasting, change the side dishes link to https://houseandhabit.blog/posts/thanksgiving-side-dishes/.
-
-**Trend articles read (for your reference only):**
-- [How to Style a Thanksgiving Dessert Table That Steals the Show, Lenox](https://www.lenox.com/blogs/buying-guide/thanksgiving-dessert-table-ideas)
-- [Best Thanksgiving Dessert Recipes, Food Network](https://www.foodnetwork.com/holidays-and-parties/articles/top-10-thanksgiving-dessert-tips)
-
 ---
-
-# Thanksgiving Desserts: how to set up a pie and dessert table
-
-*Four pies (one gluten-free), a pick-and-nibble dessert board, a coffee and whipped cream station and a setup checklist for a calm, sweet finish.*
-
+title: "Thanksgiving Desserts: how to set up a pie and dessert table"
+subtitle: "Four pies (one gluten-free), a pick-and-nibble dessert board, a coffee and whipped cream station and a setup checklist for a calm, sweet finish."
+date: 2026-11-10
+draft: true
+category: Hosting
+description: "Thanksgiving desserts made easy: four pies with a gluten-free option, a dessert board, a coffee and whipped cream station and a setup checklist."
+tags: [Thanksgiving desserts, Thanksgiving pie table, Thanksgiving dessert table, pie bar, gluten-free Thanksgiving pie, dessert board, coffee station, Thanksgiving hosting, make-ahead pies, holiday entertaining]
+pin_title: "Thanksgiving Desserts: how to set up a pie and dessert table"
+pin_description: "Thanksgiving desserts, sorted: four make-ahead pies including a gluten-free pecan, a dessert board, a coffee and whipped cream station, labels and a setup checklist."
+cover: "/images/thanksgiving-desserts.jpg"
+cover_alt: "A Thanksgiving pie and dessert table on a wooden sideboard with a chocolate cream pie under a glass dome, pumpkin, pecan and apple crumble pies, a dessert board and a coffee carafe with mugs"
+---
 *This post contains affiliate links. As an Amazon Associate I earn from qualifying purchases, at no extra cost to you.*
 
 Here is a small hosting truth: guests remember the turkey, but they talk about the pie. Dessert is the last thing everyone tastes, and by then the cook is tired, the counters are full and the oven has been running since dawn.
@@ -54,6 +20,8 @@ The fix is a dessert table you plan like a separate little party. The pies are b
 Below is the complete plan: four pies (one of them gluten-free), how much to make, how to style the table, a dessert board for grazers, a coffee and whipped cream station and a checklist that keeps it all on schedule.
 
 ## The pie lineup: four pies that cover every craving
+
+![A pumpkin pie with a baked pastry leaf border in a red fluted dish and a maple pecan pie in a white dish on a marble counter](/images/thanksgiving-desserts-2.jpg)
 
 Four pies is the sweet spot for a table of 10 to 12. Each one plays a different role, so nobody feels stuck with a flavor they do not love.
 
@@ -106,6 +74,8 @@ Give dessert its own zone, away from the dinner table. A sideboard, a kitchen is
 
 ## The dessert board: for the "just a bite" crowd
 
+![An acacia dessert board filled with brownies, gingersnaps, pumpkin bread, pears, figs, sugared cranberries, cheese and a bowl of salted caramel](/images/thanksgiving-desserts-3.jpg)
+
 Some guests are too full for a slice but will happily pick at something small. A long board solves that, and it fills the gaps on the table beautifully.
 
 Use a long wood board like this [24-inch acacia board with handles](https://www.amazon.com/dp/B0CQRMBN8C?tag=creativedi03c-20) and build it in this order:
@@ -134,6 +104,8 @@ Coffee turns dessert into a lingering, sit-and-talk moment, so set it up at the 
 **Toppings tray.** A small tray with three little bowls: cinnamon sugar, chocolate shavings and chopped candied pecans. Add a jar of maple syrup to drizzle into coffee.
 
 ## Pie table setup checklist
+
+![A sideboard set ahead for a Thanksgiving pie table with an empty cake stand, dessert plates, linen napkins, pie servers, blank tent cards and a coffee carafe with mugs](/images/thanksgiving-desserts-4.jpg)
 
 Print this, tape it inside a cabinet door and check things off.
 
