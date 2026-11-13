@@ -327,6 +327,7 @@ function homePage(posts) {
     <div class="hero__actions">
       ${lead ? `<a class="button button--light" href="${lead.url}">Read the newest story</a>` : ""}
       <a class="button button--outline-light" href="#letter-h">Join the Sunday table</a>
+      ${shop ? `<a class="button button--outline-light" href="/shop/">Shop House &amp; Habit Home</a>` : ""}
     </div>
   </div>
 </section>`;
@@ -343,6 +344,15 @@ function homePage(posts) {
     <p>New stories every Tuesday and Friday, each with a short edit of finds that are well reviewed, good looking and fairly priced.</p>
     <a href="/about/">Meet the editor</a>
   </div>
+</section>`;
+
+  // A strip of V's own shop pieces, shown before the About block. Featured handles live in shop.json ("home").
+  const homePicks = shop ? (shop.home || []).map(shopProduct).filter(Boolean).slice(0, 4) : [];
+  const shopStrip = !homePicks.length ? "" : `<section class="wrap home-shop" aria-labelledby="home-shop-h">
+  <h2 id="home-shop-h" class="rule-h">From our shop: House &amp; Habit Home</h2>
+  <p class="home-shop__dek">Our own Christmas linens, mugs, pillows and throws, made to match the tables and rooms on this blog. ${esc(shop.note)}</p>
+  <div class="ownshop__grid ownshop__grid--4">${homePicks.map((p) => shopCard(p, "home")).join("")}</div>
+  <p class="more__all"><a class="button button--ghost" href="/shop/">Shop all collections</a></p>
 </section>`;
 
   const featured = !lead ? "" : `<section class="featured wrap" aria-labelledby="featured-h">
@@ -378,7 +388,7 @@ function homePage(posts) {
 
   const body = !lead
     ? `${hero}<section class="wrap empty"><h2>First story coming soon</h2></section>${newsletter}`
-    : `${hero}\n${about}\n${featured}\n${moreHtml}\n${rooms}\n${newsletter}`;
+    : `${hero}\n${shopStrip}\n${about}\n${featured}\n${moreHtml}\n${rooms}\n${newsletter}`;
   write("index.html", layout({ path: "/", body, description: site.description }));
 }
 
