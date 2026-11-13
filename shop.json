@@ -1,0 +1,321 @@
+{
+ "url": "https://shop.houseandhabit.blog",
+ "name": "House & Habit Home",
+ "note": "Made to order in the USA with free US shipping.",
+ "collections": [
+  {
+   "handle": "fireside-plaid",
+   "name": "Fireside Plaid",
+   "blurb": "Red and hunter green tartan for the table, the kitchen and the sofa."
+  },
+  {
+   "handle": "holly-gingham",
+   "name": "Holly & Gingham",
+   "blurb": "Watercolor holly tied with a gingham bow. The classic Christmas kitchen."
+  },
+  {
+   "handle": "gingerbread-bakery",
+   "name": "Gingerbread Bakery",
+   "blurb": "Gingerbread, rolling pins and candy canes for a cheerful baking day."
+  },
+  {
+   "handle": "cocoa-season",
+   "name": "Cocoa Season",
+   "blurb": "Mugs, a candle and cozy layers for hot cocoa nights, December into January."
+  },
+  {
+   "handle": "feather-tree",
+   "name": "Little Feather Tree",
+   "blurb": "A vintage feather tree in a red enamel bucket. Merry little kitchen."
+  },
+  {
+   "handle": "winter-cabin",
+   "name": "Winter Cabin",
+   "blurb": "Snowy pines and vintage cabin botanicals for staying in."
+  }
+ ],
+ "types": [
+  {
+   "handle": "the-table",
+   "name": "The Table"
+  },
+  {
+   "handle": "cozy-living",
+   "name": "Pillows and Throws"
+  },
+  {
+   "handle": "tea-towels",
+   "name": "Tea Towels"
+  },
+  {
+   "handle": "mugs",
+   "name": "Christmas Mugs"
+  },
+  {
+   "handle": "baking",
+   "name": "Baking"
+  },
+  {
+   "handle": "gifts",
+   "name": "Hostess Gifts"
+  }
+ ],
+ "products": [
+  {
+   "handle": "red-tartan-plaid-table-runner",
+   "title": "Red Tartan Plaid Christmas Table Runner, 16x72",
+   "price": "38",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/red-tartan-plaid-table-runner-lifestyle.jpg?v=1794545215",
+   "collection": "fireside-plaid",
+   "type": "the-table"
+  },
+  {
+   "handle": "red-tartan-plaid-napkins",
+   "title": "Red Tartan Plaid Christmas Napkins, Set of 4",
+   "price": "38",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/red-tartan-plaid-napkins-lifestyle.jpg?v=1794544758",
+   "collection": "fireside-plaid",
+   "type": "the-table"
+  },
+  {
+   "handle": "red-tartan-plaid-tea-towel",
+   "title": "Red Tartan Plaid Christmas Tea Towel",
+   "price": "23",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/red-tartan-plaid-tea-towel-lifestyle.jpg?v=1794544758",
+   "collection": "fireside-plaid",
+   "type": "tea-towels"
+  },
+  {
+   "handle": "green-tartan-sherpa-throw",
+   "title": "Hunter Green Tartan Sherpa Throw, 50x60",
+   "price": "59",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/green-tartan-sherpa-throw-lifestyle.jpg?v=1794544757",
+   "collection": "fireside-plaid",
+   "type": "cozy-living"
+  },
+  {
+   "handle": "green-tartan-plaid-pillow",
+   "title": "Hunter Green Tartan Plaid Throw Pillow, 18x18",
+   "price": "42",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/green-tartan-plaid-pillow-lifestyle.jpg?v=1794544758",
+   "collection": "fireside-plaid",
+   "type": "cozy-living"
+  },
+  {
+   "handle": "red-tartan-plaid-pillow",
+   "title": "Red Tartan Plaid Christmas Throw Pillow, 18x18",
+   "price": "42",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/red-tartan-plaid-pillow-lifestyle.jpg?v=1794544757",
+   "collection": "fireside-plaid",
+   "type": "cozy-living"
+  },
+  {
+   "handle": "cocoa-season-christmas-pillow",
+   "title": "Cocoa Season Christmas Throw Pillow, 18x18",
+   "price": "42",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/cocoa-season-christmas-pillow-lifestyle.jpg?v=1794544757",
+   "collection": "cocoa-season",
+   "type": "cozy-living"
+  },
+  {
+   "handle": "feather-tree-christmas-pillow",
+   "title": "Little Feather Tree Christmas Throw Pillow, 18x18",
+   "price": "42",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/feather-tree-christmas-pillow-lifestyle.jpg?v=1794544757",
+   "collection": "feather-tree",
+   "type": "cozy-living"
+  },
+  {
+   "handle": "gingerbread-bakery-christmas-pillow",
+   "title": "Gingerbread Bakery Christmas Throw Pillow, 18x18",
+   "price": "42",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/gingerbread-bakery-christmas-pillow-lifestyle.jpg?v=1794544757",
+   "collection": "gingerbread-bakery",
+   "type": "cozy-living"
+  },
+  {
+   "handle": "holly-gingham-christmas-pillow",
+   "title": "Holly & Gingham Christmas Throw Pillow, 18x18",
+   "price": "42",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/holly-gingham-christmas-pillow-lifestyle.jpg?v=1794544491",
+   "collection": "holly-gingham",
+   "type": "cozy-living"
+  },
+  {
+   "handle": "feather-tree-sherpa-throw",
+   "title": "Little Feather Tree Sherpa Christmas Throw, 50x60",
+   "price": "59",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/feather-tree-sherpa-throw-lifestyle.jpg?v=1794544757",
+   "collection": "feather-tree",
+   "type": "cozy-living"
+  },
+  {
+   "handle": "cocoa-season-sherpa-throw",
+   "title": "Cocoa Season Sherpa Christmas Throw, 50x60",
+   "price": "59",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/cocoa-season-sherpa-throw-lifestyle.jpg?v=1794544757",
+   "collection": "cocoa-season",
+   "type": "cozy-living"
+  },
+  {
+   "handle": "gingerbread-bakery-sherpa-throw",
+   "title": "Gingerbread Bakery Sherpa Christmas Throw, 50x60",
+   "price": "59",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/gingerbread-bakery-sherpa-throw-lifestyle.jpg?v=1794544757",
+   "collection": "gingerbread-bakery",
+   "type": "cozy-living"
+  },
+  {
+   "handle": "holly-gingham-sherpa-throw",
+   "title": "Holly & Gingham Sherpa Christmas Throw, 50x60",
+   "price": "59",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/holly-gingham-sherpa-throw-lifestyle.jpg?v=1794544319",
+   "collection": "holly-gingham",
+   "type": "cozy-living"
+  },
+  {
+   "handle": "feather-tree-christmas-coasters",
+   "title": "Feather Tree Christmas Coasters, Set of 4",
+   "price": "28",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/feather-tree-christmas-coasters-lifestyle.jpg?v=1794511357",
+   "collection": "feather-tree",
+   "type": "the-table"
+  },
+  {
+   "handle": "gingerbread-bakery-oven-mitts",
+   "title": "Gingerbread Bakery Oven Mitts",
+   "price": "35",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/gingerbread-bakery-oven-mitts-lifestyle.jpg?v=1794511357",
+   "collection": "gingerbread-bakery",
+   "type": "baking"
+  },
+  {
+   "handle": "gingerbread-bakery-apron",
+   "title": "Gingerbread Bakery Christmas Apron",
+   "price": "37",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/gingerbread-bakery-apron-lifestyle.jpg?v=1794511357",
+   "collection": "gingerbread-bakery",
+   "type": "baking"
+  },
+  {
+   "handle": "cozy-christmas-mug",
+   "title": "Cozy Christmas Icons Mug, 11oz",
+   "price": "20",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/cozy-christmas-mug-lifestyle.jpg?v=1794511357",
+   "collection": "cocoa-season",
+   "type": "mugs"
+  },
+  {
+   "handle": "merry-little-kitchen-mug",
+   "title": "Merry Little Kitchen Christmas Mug, 11oz",
+   "price": "20",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/merry-little-kitchen-mug-lifestyle.jpg?v=1794511357",
+   "collection": "feather-tree",
+   "type": "mugs"
+  },
+  {
+   "handle": "official-cookie-taster-mug",
+   "title": "Official Cookie Taster Gingerbread Mug, 11oz",
+   "price": "20",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/official-cookie-taster-mug-lifestyle.jpg?v=1794511357",
+   "collection": "gingerbread-bakery",
+   "type": "mugs"
+  },
+  {
+   "handle": "holly-stripe-christmas-mug",
+   "title": "Holly Stripe Red Handle Christmas Mug, 11oz",
+   "price": "22",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/holly-stripe-christmas-mug-lifestyle.jpg?v=1794511357",
+   "collection": "holly-gingham",
+   "type": "mugs"
+  },
+  {
+   "handle": "holly-gingham-table-runner",
+   "title": "Holly & Gingham Christmas Table Runner, 16x72",
+   "price": "38",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/3891199366138186938_4096.jpg?v=1794507799",
+   "collection": "holly-gingham",
+   "type": "the-table"
+  },
+  {
+   "handle": "holly-gingham-christmas-napkins",
+   "title": "Holly & Gingham Christmas Napkins, Set of 4",
+   "price": "38",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/holly-gingham-christmas-napkins-lifestyle.jpg?v=1794511356",
+   "collection": "holly-gingham",
+   "type": "the-table"
+  },
+  {
+   "handle": "hot-cocoa-pattern-tea-towel",
+   "title": "Hot Cocoa Pattern Tea Towel",
+   "price": "23",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/hot-cocoa-pattern-tea-towel-lifestyle.jpg?v=1794511357",
+   "collection": "cocoa-season",
+   "type": "tea-towels"
+  },
+  {
+   "handle": "gingerbread-bakery-tea-towel",
+   "title": "Gingerbread Bakery Christmas Tea Towel",
+   "price": "23",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/gingerbread-bakery-tea-towel-lifestyle.jpg?v=1794511356",
+   "collection": "gingerbread-bakery",
+   "type": "tea-towels"
+  },
+  {
+   "handle": "red-gingham-holly-tea-towel",
+   "title": "Red Gingham Holly Tea Towel",
+   "price": "23",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/red-gingham-holly-tea-towel-lifestyle.jpg?v=1794511356",
+   "collection": "holly-gingham",
+   "type": "tea-towels"
+  },
+  {
+   "handle": "cocoa-season-tea-towel-new",
+   "title": "Cocoa Season Christmas Tea Towel",
+   "price": "23",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/cocoa-season-tea-towel-new-lifestyle.jpg?v=1794511356",
+   "collection": "cocoa-season",
+   "type": "tea-towels"
+  },
+  {
+   "handle": "merry-little-kitchen-tea-towel",
+   "title": "Merry Little Kitchen Feather Tree Tea Towel",
+   "price": "23",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/merry-little-kitchen-tea-towel-lifestyle.jpg?v=1794511356",
+   "collection": "feather-tree",
+   "type": "tea-towels"
+  },
+  {
+   "handle": "holly-gingham-tea-towel",
+   "title": "Holly & Gingham Christmas Tea Towel",
+   "price": "23",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/holly-gingham-tea-towel-lifestyle.jpg?v=1794509965",
+   "collection": "holly-gingham",
+   "type": "tea-towels"
+  },
+  {
+   "handle": "cocoa-season-candle",
+   "title": "Cocoa Season Soy Candle, 9oz",
+   "price": "30",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/cocoa-season-candle-lifestyle.jpg?v=1794511357",
+   "collection": "cocoa-season",
+   "type": "the-table"
+  },
+  {
+   "handle": "stay-in-mug",
+   "title": "Stay In Mug, 11oz",
+   "price": "20",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/stay-in-mug-lifestyle.jpg?v=1794511358",
+   "collection": "winter-cabin",
+   "type": "mugs"
+  },
+  {
+   "handle": "snowy-pine-botanical-mug",
+   "title": "Snowy Pine Botanical Mug, 11oz",
+   "price": "20",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/snowy-pine-botanical-mug-lifestyle.jpg?v=1794511358",
+   "collection": "winter-cabin",
+   "type": "mugs"
+  }
+ ]
+}

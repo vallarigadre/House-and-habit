@@ -13,6 +13,8 @@ const ROOT = __dirname;
 const OUT = path.join(ROOT, "dist");
 const site = JSON.parse(fs.readFileSync(path.join(ROOT, "site.config.json"), "utf8"));
 const SITE_URL = site.url.replace(/\/$/, "");
+// V's own shop (House & Habit Home on Shopify). Product data lives in shop.json.
+const shop = fs.existsSync(path.join(ROOT, "shop.json")) ? JSON.parse(fs.readFileSync(path.join(ROOT, "shop.json"), "utf8")) : null;
 
 marked.setOptions({ gfm: true });
 
@@ -87,6 +89,31 @@ function inlinePhotos(html) {
       : "");
 }
 
+
+// ---------- own shop (House & Habit Home) ----------
+const shopUrl = (p, place) => `${shop.url}/${p}?utm_source=houseandhabit.blog&utm_medium=blog&utm_campaign=${place}`;
+const shopProduct = (h) => shop && shop.products.find((p) => p.handle === h);
+function shopCard(p, place) {
+  return `<a class="ownshop__item" href="${esc(shopUrl("products/" + p.handle, place))}" target="_blank" rel="noopener">
+    <img src="${esc(p.image)}&width=600" alt="${esc(p.title)}" loading="lazy" width="600" height="600">
+    <span class="ownshop__title">${esc(p.title)}</span>
+    <span class="ownshop__price">$${esc(p.price)}</span>
+  </a>`;
+}
+// In a post, a paragraph with {{shop:handle}} or {{shop:handle-one,handle-two}} becomes a card row of V's own pieces.
+function shopBlocks(html, place) {
+  if (!shop) return html.replace(/<p>\s*\{\{shop:[^}]*\}\}\s*<\/p>/g, "");
+  return html.replace(/<p>\s*\{\{shop:([^}]*)\}\}\s*<\/p>/g, (m, list) => {
+    const items = list.split(",").map((h) => shopProduct(h.trim())).filter(Boolean).slice(0, 4);
+    if (!items.length) return "";
+    return `<aside class="ownshop" aria-label="From the House & Habit shop">
+  <p class="ownshop__kicker">From the House &amp; Habit shop</p>
+  <div class="ownshop__grid ownshop__grid--${items.length}">${items.map((p) => shopCard(p, place)).join("")}</div>
+  <p class="ownshop__note">Designed by us, ${esc(shop.note.charAt(0).toLowerCase() + shop.note.slice(1))} <a href="/shop/">See every collection</a>.</p>
+</aside>`;
+  });
+}
+
 // ---------- load posts ----------
 function loadPosts() {
   const dir = path.join(ROOT, "posts");
@@ -114,7 +141,7 @@ function loadPosts() {
       const section = sectionFor(data.category || guessSection(body));
 
       body = stripEmDashes(body);
-      const html = inlinePhotos(processLinks(marked.parse(body)))
+      const html = shopBlocks(inlinePhotos(processLinks(marked.parse(body))), fileSlug || "post")
         .replace(/^\s*<p><em>([^<]*Amazon Associate[^<]*)<\/em><\/p>/i, '<p class="disclosure">$1</p>');
       const text = html.replace(/<[^>]+>/g, " ");
       const words = text.split(/\s+/).filter(Boolean).length;
@@ -245,7 +272,7 @@ ${site.cloudflareAnalyticsToken ? `<script defer src="https://static.cloudflarei
   <div class="masthead__inner">
     <a class="wordmark" href="/">${esc(site.name)}</a>
     ${pagePath === "/" ? "" : `<p class="masthead__tag">${esc(site.tagline)}</p>`}
-    <nav class="nav" aria-label="Sections">${nav}<a href="/about/"${pagePath === "/about/" ? ' aria-current="page"' : ""}>About</a></nav>
+    <nav class="nav" aria-label="Sections">${nav}${shop ? `<a href="/shop/"${pagePath === "/shop/" ? ' aria-current="page"' : ""}>Shop</a>` : ""}<a href="/about/"${pagePath === "/about/" ? ' aria-current="page"' : ""}>About</a></nav>
   </div>
 </header>
 <main id="main">
@@ -259,6 +286,7 @@ ${body}
     </div>
     <nav aria-label="Site">
       ${site.sections.map((s) => `<a href="/${s.slug}/">${s.name}</a>`).join("")}
+      ${shop ? '<a href="/shop/">Shop</a>' : ""}
       <a href="/archive/">All stories</a>
       <a href="/about/">About</a>
       <a href="/disclosure/">Affiliate disclosure</a>
@@ -420,6 +448,25 @@ ${newsletter}`;
   });
 }
 
+
+function shopPage() {
+  if (!shop) return;
+  const section = (c, list) => `<section class="ownshop-col" id="${esc(c.handle)}" aria-labelledby="h-${esc(c.handle)}">
+    <div class="ownshop-col__head"><h2 id="h-${esc(c.handle)}">${esc(c.name)}</h2>${c.blurb ? `<p>${esc(c.blurb)}</p>` : ""}
+    <a class="ownshop-col__all" href="${esc(shopUrl("collections/" + c.handle, "shop-page"))}" target="_blank" rel="noopener">Shop the collection</a></div>
+    <div class="ownshop__grid ownshop__grid--4">${list.map((p) => shopCard(p, "shop-page")).join("")}</div>
+  </section>`;
+  const cols = shop.collections.map((c) => [c, shop.products.filter((p) => p.collection === c.handle)]).filter(([, l]) => l.length);
+  const body = `<section class="wrap shop-page">
+  <header class="post__head"><h1>The House &amp; Habit shop</h1>
+  <p class="post__dek">Our own Christmas linens, mugs, pillows and throws, drawn as little stories and made to match the tables and rooms on this blog. ${esc(shop.note)}</p>
+  <p class="shop-page__types">${shop.types.map((t) => `<a href="${esc(shopUrl("collections/" + t.handle, "shop-page"))}" target="_blank" rel="noopener">${esc(t.name)}</a>`).join("")}</p></header>
+  ${cols.map(([c, l]) => section(c, l)).join("")}
+  <p class="shop-page__foot"><a class="button" href="${esc(shopUrl("collections/all", "shop-page"))}" target="_blank" rel="noopener">Visit the full shop</a></p>
+</section>`;
+  write("shop/index.html", layout({ title: "Shop our collections", description: "House & Habit Home: Christmas table linens, tea towels, mugs, pillows and sherpa throws in our own hand-drawn designs. Free US shipping.", path: "/shop/", body }));
+}
+
 function staticPages(pages) {
   pages.forEach((pg) => {
     const body = `<article class="post"><header class="post__head wrap"><h1>${esc(pg.title)}</h1></header><div class="prose">${pg.html}</div></article>`;
@@ -437,6 +484,7 @@ function feeds(posts, pages) {
   const urls = [
     ...["/", "/archive/", ...site.sections.map((s) => `/${s.slug}/`)].map((u) => ({ u, lastmod: latest })),
     ...pages.map((p) => ({ u: `/${p.slug}/` })),
+    ...(shop ? [{ u: "/shop/" }] : []),
     ...posts.map((p) => ({ u: p.url, lastmod: day(p.date), img: p.cover && fs.existsSync(path.join(ROOT, "static", p.cover)) ? SITE_URL + p.cover : "" })),
   ];
   write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">${urls.map(({ u, lastmod, img }) => `<url><loc>${SITE_URL}${u}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ""}${img ? `<image:image><image:loc>${esc(img)}</image:loc></image:image>` : ""}</url>`).join("")}</urlset>`);
@@ -509,6 +557,7 @@ sectionPages(posts);
 archivePage(posts);
 postPages(posts, drafts);
 staticPages(pages);
+shopPage();
 feeds(posts, pages);
 
 buildPreview();

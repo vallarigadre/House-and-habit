@@ -98,6 +98,8 @@ A host gift should make the next party easier, not create one more thing to deal
 - **Charge, wash or fill it first.** Charge the wine opener, fill the salt crock, slip batteries into the candles. It reads as care.
 - **Add one line on the tag.** "For the next one at yours" or "thank you for always having us" says more than the bow.
 
+{{shop:holly-gingham-tea-towel,merry-little-kitchen-mug,cocoa-season-candle,feather-tree-christmas-coasters}}
+
 ## Shop the edit
 
 - [Silonn Nugget Ice Maker](https://link.amazon/B05NnL1G8)

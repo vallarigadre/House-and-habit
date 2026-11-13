@@ -96,6 +96,8 @@ The wrapping is half of the "looks expensive" effect, and it costs almost nothin
 4. **Group small things in a box or basket.** Three items nested together read as a set, not a stack of extras.
 5. **Write a real tag.** One line about why you chose it does more than any bow.
 
+{{shop:cocoa-season-candle,snowy-pine-botanical-mug,red-gingham-holly-tea-towel}}
+
 ## Shop the edit
 
 - [Innqoo Amber Candle Warmer Lamp with Timer](https://link.amazon/B0ddPIoK1)

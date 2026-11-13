@@ -137,6 +137,8 @@ Do this the weekend before your first guest arrives and you will be ready for th
 2. Add fresh flowers or greenery.
 3. Turn on the lamp before they walk in. That first glow says everything.
 
+{{shop:holly-gingham-sherpa-throw,cocoa-season-candle,stay-in-mug}}
+
 ## Shop the edit
 
 Everything you need for a guest room that feels like a boutique hotel:

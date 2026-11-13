@@ -116,6 +116,8 @@ Small homes have small closets, so decide on storage before you buy. Pack garlan
 - [ ] Set every timer for dusk
 - [ ] Clear a storage spot for January
 
+{{shop:feather-tree-christmas-pillow,holly-gingham-tea-towel,cocoa-season-candle}}
+
 ## Shop the edit
 
 - [OasisCraft 2 ft pre-lit tabletop tree with burlap base](https://link.amazon/B05wPuGdY)

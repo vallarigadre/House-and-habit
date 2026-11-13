@@ -105,6 +105,8 @@ Use this as a weekend plan for a cozy fall refresh.
 6. **Layer the bed.** Flannel sheets under white, a throw at the foot.
 7. **Stop and edit.** Remove one thing. Plaid looks best with room to breathe.
 
+{{shop:red-tartan-plaid-pillow,green-tartan-sherpa-throw,red-tartan-plaid-table-runner}}
+
 ## Shop the edit
 
 - [Pendleton Ashton Plaid Lambswool Throw](https://link.amazon/B006LWt3f): the heirloom splurge.

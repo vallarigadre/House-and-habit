@@ -157,6 +157,8 @@ Copy this onto a card and stick it to the fridge. Each line is small enough to f
 - [ ] 5:30 pm: bake the brie bites, light the candles, start the music
 - [ ] 6 pm: add the bubbles to the punch and open the door
 
+{{shop:red-tartan-plaid-table-runner,red-tartan-plaid-napkins,green-tartan-plaid-pillow}}
+
 ## Shop the edit
 
 - [Large acacia serving boards, 30 x 11 inch, two pack](https://link.amazon/B05cqFp72)
