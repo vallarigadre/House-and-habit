@@ -105,6 +105,10 @@ Use this as a quick guide before you shop or before your next closet edit:
 - At least one piece in chocolate brown or a jewel tone
 - A gentle wool wash, a fabric shaver and cedar for drawers
 
+For the nights your sweater stays home on the sofa, these are from the House & Habit shop.
+
+{{shop:green-tartan-sherpa-throw,stay-in-mug}}
+
 ## Shop the edit
 
 - [A+D oversized extra soft V-neck pullover](https://link.amazon/B02SSh8MI): the relaxed V-neck with a flattering hi-low hem.

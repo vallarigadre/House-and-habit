@@ -159,6 +159,10 @@ Keep hot dishes hot with an [electric warming tray](https://link.amazon/B06VYF9R
 
 Use a large [Sweese porcelain platter](https://link.amazon/B0deq10Zc) for the sprouts, a matching [gold serving utensil set](https://link.amazon/B04816PTo) so every dish has its own spoon and [FINGERCRAFT rust cloth napkins](https://link.amazon/B0bBekMjh) to tie it all into a warm, fall palette. Add height with a cake stand, and tuck small pumpkins and rosemary between dishes.
 
+Hosting Christmas dinner too? Our own tartan linens work from Thanksgiving straight through December.
+
+{{shop:red-tartan-plaid-table-runner,red-tartan-plaid-napkins,red-tartan-plaid-tea-towel}}
+
 ## Shop the edit
 
 - [HVH ceramic baking dish set of 3, white](https://link.amazon/B03lbgyro)

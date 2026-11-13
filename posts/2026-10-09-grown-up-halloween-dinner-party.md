@@ -147,6 +147,10 @@ For guests, keep the invitation simple: "Dress code: dark and dramatic." Everyon
 
 Moody, a little cinematic, never cheesy. Think sultry jazz standards, a few minor-key indie tracks, classic soul and the occasional wink, like a swing-era cover of a famous spooky song. Start soft and instrumental during cocktails, warm it up through dinner and save the dance-worthy tracks for after dessert.
 
+Already planning the next dinner party? Our own Christmas table pieces bring the same candlelit mood to December.
+
+{{shop:red-tartan-plaid-table-runner,red-tartan-plaid-napkins,cocoa-season-candle}}
+
 ## Shop the edit
 
 **For the table**

@@ -149,6 +149,10 @@ Once the food is ready, the setup is what makes it feel abundant. Pick a spot aw
 - **One hour before guests:** take the cheese out, build the board and bake the brie bites, dates and stuffing balls.
 - **As the doorbell rings:** add crackers, drizzle the honey and light the candles.
 
+Bringing the appetizers to someone else's house? A tea towel or a set of coasters from the House & Habit shop makes an easy host gift.
+
+{{shop:red-tartan-plaid-tea-towel,feather-tree-christmas-coasters,cocoa-season-candle}}
+
 ## Shop the edit
 
 - [Large Acacia Serving Board with Metal Handles, 36 x 12 Inch](https://link.amazon/B0cSFUSrM): the long board that carries the whole spread.

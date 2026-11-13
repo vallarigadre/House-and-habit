@@ -105,6 +105,10 @@ Soup night is casual, but a few small touches make it feel like an occasion.
 
 ![A styled vignette of a rustic wooden table with terracotta linen napkins, cream soup bowls, ivory taper candles in brass holders and a bowl of pears glowing in warm candlelight](/images/soup-night-party-4.jpg)
 
+Hosting soup night into December? These cozy pieces from the House & Habit shop carry the same warm glow through winter.
+
+{{shop:red-tartan-plaid-napkins,snowy-pine-botanical-mug,stay-in-mug,cocoa-season-candle}}
+
 ## Pour something warm
 
 Give guests a drink to hold the second they walk in. A punch bowl of warm spiced cider is the easiest centerpiece there is: apple cider, a few cinnamon sticks, star anise, orange slices and a splash of bourbon or dark rum on the side for anyone who wants it. Keep it warm on the stove and refill the bowl as needed. The [Libbey Selene Punch Bowl Set with 8 Punch Glasses and Ladle](https://link.amazon/B0cu3YcEG) is a classic that will come out for every holiday party through New Year's.
