@@ -333,3 +333,12 @@ a:hover { color: var(--aubergine); }
 .home-shop__dek { margin: -.4rem 0 1.4rem; max-width: 60ch; color: var(--moss); font-size: 1.05rem; }
 .home-shop .more__all { margin-top: 1.4rem; }
 @media (max-width: 820px) { .home-shop .ownshop__grid--4 { --cols: 2; } }
+.shopstrip { display: flex; align-items: center; gap: .9rem; margin: 0 0 1.6rem; padding: .7rem .9rem; background: var(--paper); border: 1px solid var(--line); border-radius: 12px; }
+.shopstrip__thumbs { display: flex; flex: none; }
+.shopstrip__thumbs a { display: block; margin-left: -10px; border: 2px solid var(--paper); border-radius: 50%; overflow: hidden; box-shadow: none; }
+.shopstrip__thumbs a:first-child { margin-left: 0; }
+.shopstrip__thumbs img { width: 46px; height: 46px; object-fit: cover; display: block; }
+.shopstrip__text { margin: 0; font: 400 .88rem/1.4 var(--sans); color: var(--moss); }
+.shopstrip__text span { display: block; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; font-size: .72rem; color: var(--aubergine); }
+.shopstrip__text a { font-weight: 600; color: var(--forest); }
+#our-shop { scroll-margin-top: 1.5rem; }
