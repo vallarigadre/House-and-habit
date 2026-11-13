@@ -2,7 +2,6 @@
 title: "Christmas Outfit Ideas: what to wear to every holiday party this year"
 subtitle: "Five occasion-ready outfits, each built around the right shoes and the right bag, from the cocktail party to Christmas morning."
 date: 2026-11-13
-draft: true
 category: Style
 description: "Christmas outfit ideas for every party: five looks built around the right shoes and bag, from cocktail night to family dinner and Christmas morning."
 tags: [Christmas outfit, Christmas outfit ideas, holiday party outfits, what to wear to a Christmas party, office holiday party outfit, Christmas dinner outfit, velvet heels, holiday style]
@@ -38,17 +37,17 @@ This is the night to sparkle a little, but the smartest way to do it is from the
 
 ### The shoes: velvet pumps
 
-Start with the [Sam Edelman Hazel pump in winter moss velvet](https://www.amazon.com/dp/B0CZNBSBHR?tag=creativedi03c-20). A pointed velvet pump in a deep green looks like Christmas without being literal, and it pairs with black, cream, wine or chocolate. With a simple black dress, it becomes the focal point of the whole look.
+Start with the [Sam Edelman Hazel pump in winter moss velvet](https://link.amazon/B00lZzcMp). A pointed velvet pump in a deep green looks like Christmas without being literal, and it pairs with black, cream, wine or chocolate. With a simple black dress, it becomes the focal point of the whole look.
 
 ### The bag: a pearl clutch
 
-Add the [UBORSE pearl and crystal beaded clutch](https://www.amazon.com/dp/B07KWXD9K7?tag=creativedi03c-20). Hand-held, it looks elegant in every photo near the bar or the tree. The listing includes a pearl chain, so you can wear it on your shoulder when you need both hands for a glass and a plate of appetizers.
+Add the [UBORSE pearl and crystal beaded clutch](https://link.amazon/B0gHjmYhH). Hand-held, it looks elegant in every photo near the bar or the tree. The listing includes a pearl chain, so you can wear it on your shoulder when you need both hands for a glass and a plate of appetizers.
 
 ### The rest of the outfit
 
 - A black slip dress or a black knit midi dress
 - Sheer black tights if it is cold
-- A [pearl bow brooch](https://www.amazon.com/dp/B0GSR7FF2V?tag=creativedi03c-20) pinned at the neckline or on your coat lapel
+- A [pearl bow brooch](https://link.amazon/B071HdZb0) pinned at the neckline or on your coat lapel
 - Gold earrings and a red lip
 
 **Why it works:** The dress is simple, so the velvet, pearls and bow do all the talking. Next year, the same shoes and clutch go to a wedding or New Year's Eve.
@@ -61,15 +60,15 @@ Family dinner means a long table, a warm kitchen, kids underfoot and at least on
 
 ### The shoes: knee-high boots
 
-The [Franco Sarto Balin knee-high boot](https://www.amazon.com/dp/B093VNWC9J?tag=creativedi03c-20) is the hero here. A tall boot under a midi skirt keeps you warm on the drive and the doorstep, and it looks polished without the ache of a heel. Choose a cognac or brown shade with cream and chocolate, or black with deep green.
+The [Franco Sarto Balin knee-high boot](https://link.amazon/B0bs59S8w) is the hero here. A tall boot under a midi skirt keeps you warm on the drive and the doorstep, and it looks polished without the ache of a heel. Choose a cognac or brown shade with cream and chocolate, or black with deep green.
 
 ### The bag: a quilted chain crossbody
 
-Bring a [quilted crossbody with a convertible chain strap and twist lock](https://www.amazon.com/dp/B0B6H4Q6KH?tag=creativedi03c-20). It holds your phone, lipstick and car keys, leaves your hands free for the casserole dish and looks just a little dressy on the chain.
+Bring a [quilted crossbody with a convertible chain strap and twist lock](https://link.amazon/B0in31bdl). It holds your phone, lipstick and car keys, leaves your hands free for the casserole dish and looks just a little dressy on the chain.
 
 ### The rest of the outfit
 
-- A [high-waisted satin A-line midi skirt in coffee brown](https://www.amazon.com/dp/B0GVDWXZK4?tag=creativedi03c-20)
+- A [high-waisted satin A-line midi skirt in coffee brown](https://link.amazon/B07cFm3mR)
 - A cream cable knit or a fine turtleneck tucked in at the front
 - Small gold hoops and a velvet hair bow if you like a romantic touch
 
@@ -81,15 +80,15 @@ Office parties are often straight after work, which means the outfit has to star
 
 ### The shoes: classic loafers
 
-The [Sam Edelman Loraine loafer](https://www.amazon.com/dp/B08N3D7TF7?tag=creativedi03c-20) is the shoe you can wear all day, through a commute and a standing party with canapés. Polished, comfortable and work-appropriate, it keeps the velvet from feeling too formal.
+The [Sam Edelman Loraine loafer](https://link.amazon/B0huoMBfG) is the shoe you can wear all day, through a commute and a standing party with canapés. Polished, comfortable and work-appropriate, it keeps the velvet from feeling too formal.
 
 ### The bag: a structured work tote
 
-A [structured leather-look work tote with compartments](https://www.amazon.com/dp/B0G1T5WX3C?tag=creativedi03c-20) holds your laptop by day and a small pouch with lipstick, perfume and earrings for the five-minute switch before the party. A structured shape always looks more put together than a slouchy bag.
+A [structured leather-look work tote with compartments](https://link.amazon/B0289iXiD) holds your laptop by day and a small pouch with lipstick, perfume and earrings for the five-minute switch before the party. A structured shape always looks more put together than a slouchy bag.
 
 ### The rest of the outfit
 
-- An [open-front velvet blazer](https://www.amazon.com/dp/B0HM2W639F?tag=creativedi03c-20) in black, wine or green
+- An [open-front velvet blazer](https://link.amazon/B0emtqtOf) in black, wine or green
 - Black or chocolate wide-leg trousers
 - A silky camisole or a fine knit underneath
 - Your festive swap: statement earrings, or move the bow brooch from Outfit 1 onto the lapel
@@ -104,7 +103,7 @@ Christmas morning outfits get photographed more than any other, usually in brigh
 
 ### The shoes: memory foam slippers
 
-Start with real slippers, not socks on a cold floor. The [RockDove Nomad slipper with memory foam](https://www.amazon.com/dp/B08CTFPBN5?tag=creativedi03c-20) has a cushioned footbed for a long morning of unwrapping, making pancakes and refilling coffee. Give each family member a pair on Christmas Eve and you have a new tradition.
+Start with real slippers, not socks on a cold floor. The [RockDove Nomad slipper with memory foam](https://link.amazon/B0ejQP2H4) has a cushioned footbed for a long morning of unwrapping, making pancakes and refilling coffee. Give each family member a pair on Christmas Eve and you have a new tradition.
 
 ### The bag: none needed
 
@@ -112,7 +111,7 @@ Christmas morning is the one time this month you can skip the bag. Put a little 
 
 ### The rest of the outfit
 
-- A [LILLUSORY two-piece knit sweater set](https://www.amazon.com/dp/B0D872D7YN?tag=creativedi03c-20) in oatmeal, cream or a soft heather
+- A [LILLUSORY two-piece knit sweater set](https://link.amazon/B0dPS2a8e) in oatmeal, cream or a soft heather
 - A chunky robe or long cardigan layered over the top
 - Hair in a claw clip, tiny gold studs
 
@@ -124,7 +123,7 @@ This is the plan with the most walking and the most weather: icy sidewalks, a cu
 
 ### The shoes: water-resistant Chelsea boots
 
-The [Cestfini lightweight water-resistant Chelsea boot](https://www.amazon.com/dp/B0F2RSFPSD?tag=creativedi03c-20) slips on in a second, handles slush and wet grass, and looks neat with jeans. A lug sole gives you grip on slick paths between light displays.
+The [Cestfini lightweight water-resistant Chelsea boot](https://link.amazon/B0jjwHFgS) slips on in a second, handles slush and wet grass, and looks neat with jeans. A lug sole gives you grip on slick paths between light displays.
 
 ### The bag: the quilted crossbody, again
 
@@ -152,18 +151,18 @@ Use this the week before each party so nothing catches you off guard.
 
 ## Shop the edit
 
-- [Sam Edelman Hazel pump in winter moss velvet](https://www.amazon.com/dp/B0CZNBSBHR?tag=creativedi03c-20): the Christmas cocktail party shoe.
-- [UBORSE pearl and crystal beaded clutch](https://www.amazon.com/dp/B07KWXD9K7?tag=creativedi03c-20): heirloom sparkle with a pearl chain.
-- [Pearl bow brooch](https://www.amazon.com/dp/B0GSR7FF2V?tag=creativedi03c-20): the small detail that dresses up anything.
-- [Franco Sarto Balin knee-high boot](https://www.amazon.com/dp/B093VNWC9J?tag=creativedi03c-20): warm, polished and comfortable for family dinner.
-- [Quilted crossbody with convertible chain strap](https://www.amazon.com/dp/B0B6H4Q6KH?tag=creativedi03c-20): hands-free and a little dressy.
-- [High-waisted satin A-line midi skirt](https://www.amazon.com/dp/B0GVDWXZK4?tag=creativedi03c-20): the easiest holiday skirt.
-- [Sam Edelman Loraine loafer](https://www.amazon.com/dp/B08N3D7TF7?tag=creativedi03c-20): desk to office party.
-- [Structured work tote with compartments](https://www.amazon.com/dp/B0G1T5WX3C?tag=creativedi03c-20): carries the laptop and the party kit.
-- [Open-front velvet blazer](https://www.amazon.com/dp/B0HM2W639F?tag=creativedi03c-20): instant festive layer.
-- [RockDove Nomad memory foam slipper](https://www.amazon.com/dp/B08CTFPBN5?tag=creativedi03c-20): the Christmas morning essential.
-- [LILLUSORY two-piece knit sweater set](https://www.amazon.com/dp/B0D872D7YN?tag=creativedi03c-20): matching and photo-ready.
-- [Cestfini water-resistant Chelsea boot](https://www.amazon.com/dp/B0F2RSFPSD?tag=creativedi03c-20): for icy sidewalks and holiday markets.
+- [Sam Edelman Hazel pump in winter moss velvet](https://link.amazon/B00lZzcMp): the Christmas cocktail party shoe.
+- [UBORSE pearl and crystal beaded clutch](https://link.amazon/B0gHjmYhH): heirloom sparkle with a pearl chain.
+- [Pearl bow brooch](https://link.amazon/B071HdZb0): the small detail that dresses up anything.
+- [Franco Sarto Balin knee-high boot](https://link.amazon/B0bs59S8w): warm, polished and comfortable for family dinner.
+- [Quilted crossbody with convertible chain strap](https://link.amazon/B0in31bdl): hands-free and a little dressy.
+- [High-waisted satin A-line midi skirt](https://link.amazon/B07cFm3mR): the easiest holiday skirt.
+- [Sam Edelman Loraine loafer](https://link.amazon/B0huoMBfG): desk to office party.
+- [Structured work tote with compartments](https://link.amazon/B0289iXiD): carries the laptop and the party kit.
+- [Open-front velvet blazer](https://link.amazon/B0emtqtOf): instant festive layer.
+- [RockDove Nomad memory foam slipper](https://link.amazon/B0ejQP2H4): the Christmas morning essential.
+- [LILLUSORY two-piece knit sweater set](https://link.amazon/B0dPS2a8e): matching and photo-ready.
+- [Cestfini water-resistant Chelsea boot](https://link.amazon/B0jjwHFgS): for icy sidewalks and holiday markets.
 
 ## The best Christmas outfit is the one you forget you're wearing
 
