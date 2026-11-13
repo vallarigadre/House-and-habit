@@ -101,16 +101,20 @@ function shopCard(p, place) {
   </a>`;
 }
 // In a post, a paragraph with {{shop:handle}} or {{shop:handle-one,handle-two}} becomes a card row of V's own pieces.
-function shopBlocks(html, place) {
-  if (!shop) return html.replace(/<p>\s*\{\{shop:[^}]*\}\}\s*<\/p>/g, "");
-  return html.replace(/<p>\s*\{\{shop:([^}]*)\}\}\s*<\/p>/g, (m, list) => {
-    const items = list.split(",").map((h) => shopProduct(h.trim())).filter(Boolean).slice(0, 4);
-    if (!items.length) return "";
-    return `<aside class="ownshop" id="our-shop" aria-label="From the House & Habit shop">
+function shopBlockHtml(items, place, id = "") {
+  return `<aside class="ownshop"${id ? ` id="${id}"` : ""} aria-label="From the House & Habit shop">
   <p class="ownshop__kicker">From the House &amp; Habit shop</p>
   <div class="ownshop__grid ownshop__grid--${items.length}">${items.map((p) => shopCard(p, place)).join("")}</div>
   <p class="ownshop__note">Designed by us, ${esc(shop.note.charAt(0).toLowerCase() + shop.note.slice(1))} <a href="/shop/">See every collection</a>.</p>
 </aside>`;
+}
+// In a post, a paragraph with {{shop:handle}} or {{shop:handle-one,handle-two}} becomes a card row of V's own pieces.
+// The same pieces are also shown after the post's first paragraph (see postPages).
+function shopBlocks(html, place) {
+  if (!shop) return html.replace(/<p>\s*\{\{shop:[^}]*\}\}\s*<\/p>/g, "");
+  return html.replace(/<p>\s*\{\{shop:([^}]*)\}\}\s*<\/p>/g, (m, list) => {
+    const items = list.split(",").map((h) => shopProduct(h.trim())).filter(Boolean).slice(0, 4);
+    return items.length ? shopBlockHtml(items, place, "our-shop") : "";
   });
 }
 
@@ -444,13 +448,9 @@ function postPages(posts, drafts = []) {
     <p class="meta">By ${esc(site.author)}. <time datetime="${post.date.toISOString().slice(0, 10)}">${formatDate(post.date)}</time>, ${post.readMinutes} min read</p>
   </header>
   <div class="post__cover wrap">${cover(post, "lg")}</div>
-  ${post.shopHandles.length ? `<div class="prose"><div class="shopstrip">
-    <div class="shopstrip__thumbs">${post.shopHandles.slice(0, 4).map(shopProduct).map((p) => `<a href="${esc(shopUrl("products/" + p.handle, post.slug + "-top"))}" target="_blank" rel="noopener" title="${esc(p.title)}"><img src="${esc(p.image)}&width=160" alt="${esc(p.title)}" width="56" height="56" loading="lazy"></a>`).join("")}</div>
-    <p class="shopstrip__text"><span>From our shop</span> Pieces from this story, made to order with free US shipping. <a href="#our-shop">See them</a></p>
-  </div></div>` : ""}
   <div class="prose">
     ${disclosure}
-    ${post.html}
+    ${post.shopHandles.length ? post.html.replace(/(<p(?! class="disclosure")[^>]*>[\s\S]*?<\/p>)/, (m) => m + shopBlockHtml(post.shopHandles.slice(0, 4).map(shopProduct), post.slug + "-top")) : post.html}
   </div>
   <footer class="post__foot prose">
     ${post.tags.length ? `<p class="tags">${post.tags.map((t) => `<span>${esc(t)}</span>`).join("")}</p>` : ""}
