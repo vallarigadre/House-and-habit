@@ -2,7 +2,6 @@
 title: "Cozy Winter Bedroom Ideas: the edit for a warm, layered room all season"
 subtitle: "How to build a winter bed in four layers, stop the drafts, warm the floor and light the dark mornings, with every piece named."
 date: 2026-11-14
-draft: true
 category: Decor
 description: "Cozy winter bedroom ideas: a four-layer winter bed, a heated blanket, thermal curtains, a soft rug, warm light and a simple checklist."
 tags: [cozy winter bedroom, winter bedroom decor, winter bedding, heated blanket, flannel sheets, cozy bedroom ideas, layered bed]
@@ -30,11 +29,11 @@ The bed is most of the room, and it is where the cold bothers you most. Instead 
 
 ### Layer 1: flannel sheets
 
-Flannel is brushed cotton, so it feels warm the second you get in, with none of that cold-sheet shock. The [LANE LINEN 100% cotton flannel sheet set in Silver](https://www.amazon.com/dp/B09F71VJND?tag=creativedi03c-20) is brushed for softness and has 15 inch deep pockets, which matters if your mattress has a topper. Silver reads as a calm neutral with cream and sage. Wash flannel on cool and tumble dry low to keep it from pilling.
+Flannel is brushed cotton, so it feels warm the second you get in, with none of that cold-sheet shock. The [LANE LINEN 100% cotton flannel sheet set in Silver](https://link.amazon/B01fw9m5E) is brushed for softness and has 15 inch deep pockets, which matters if your mattress has a topper. Silver reads as a calm neutral with cream and sage. Wash flannel on cool and tumble dry low to keep it from pilling.
 
 ### Layer 2: the heated blanket (the hero)
 
-This is the piece that changes winter. The [Bedsure dual control heated blanket in green](https://www.amazon.com/dp/B0C4GWLJ56?tag=creativedi03c-20) is a queen size flannel electric blanket with two controls, so each side of the bed sets its own warmth. If you share a bed with someone who runs hot, that alone ends the nightly blanket war.
+This is the piece that changes winter. The [Bedsure dual control heated blanket in green](https://link.amazon/B05kAMiN1) is a queen size flannel electric blanket with two controls, so each side of the bed sets its own warmth. If you share a bed with someone who runs hot, that alone ends the nightly blanket war.
 
 How to use it in a layered bed: lay it over the top sheet and under the comforter, so the comforter holds the heat in. Turn it on 15 to 20 minutes before bed to warm the sheets, then turn it down or off once you are settled. Always follow the use and care instructions on the label, and keep it flat rather than bunched up while it is on. The green also works as a quiet color layer at the foot of the bed.
 
@@ -46,7 +45,7 @@ Over the heated blanket, a fluffy duvet traps the warmth. The [Linenspa white do
 
 The last layer is the one you see. Fold the [SAMIAH LUXE chunky knit throw in Buttercream](https://www.amazon.com/dp/B09KTBXHQQ?tag=creativedi03c-20) in thirds across the foot of the bed. It is a 50 x 60 inch chenille cable knit, and it is machine washable, which is rare for a chunky knit. Pull it up on the coldest nights, or grab it for reading in bed.
 
-Finish with pillows: two sleeping pillows, two shams behind them, and two textured accent pillows in front. Cream corduroy covers like the [MIULEE corduroy throw pillow covers, set of 2](https://www.amazon.com/dp/B0BKSLWL5C?tag=creativedi03c-20) add a soft ribbed texture that looks warm next to the knit.
+Finish with pillows: two sleeping pillows, two shams behind them, and two textured accent pillows in front. Cream corduroy covers like the [MIULEE corduroy throw pillow covers, set of 2](https://link.amazon/B0fIvuyNU) add a soft ribbed texture that looks warm next to the knit.
 
 ![A winter bed made in four layers: silver flannel sheets folded back, a green heated blanket, a white comforter and a cream chunky knit throw across the foot](/images/cozy-winter-bedroom-2.jpg)
 
@@ -54,7 +53,7 @@ Finish with pillows: two sleeping pillows, two shams behind them, and two textur
 
 A surprising amount of cold comes through the glass. Thermal curtains are the easiest fix, and they double as a way to keep dark mornings dark when you want to sleep in.
 
-The [NICETOWN thermal insulated curtains in Biscotti Beige](https://www.amazon.com/dp/B01KWOY7UM?tag=creativedi03c-20) are a warm neutral that blends with cream bedding. Three tips that make any curtain work harder:
+The [NICETOWN thermal insulated curtains in Biscotti Beige](https://link.amazon/B0d3Z3Ntn) are a warm neutral that blends with cream bedding. Three tips that make any curtain work harder:
 
 - **Hang them high and wide.** Mount the rod a few inches above the window frame and past each side, so the panels cover the edges where the cold sneaks in.
 - **Let them touch the sill or the floor.** Gaps at the bottom let cold air pour into the room.
@@ -64,7 +63,7 @@ The [NICETOWN thermal insulated curtains in Biscotti Beige](https://www.amazon.c
 
 Rugs are the most overlooked part of a winter bedroom. The first thing you touch every morning is the floor, and a soft landing makes the whole room feel warmer.
 
-Lay a [SAFAVIEH faux sheepskin rug, 4 x 6 in ivory](https://www.amazon.com/dp/B00PNJGKH0?tag=creativedi03c-20) along the side of the bed you get out of, angled slightly so it peeks out past the nightstand. It is 2.35 inches thick, so it feels plush underfoot, and it reads as luxe in photos. On a hard floor, add a thin rug pad underneath so it stays put.
+Lay a [SAFAVIEH faux sheepskin rug, 4 x 6 in ivory](https://link.amazon/B05w8XO1b) along the side of the bed you get out of, angled slightly so it peeks out past the nightstand. It is 2.35 inches thick, so it feels plush underfoot, and it reads as luxe in photos. On a hard floor, add a thin rug pad underneath so it stays put.
 
 If you already have a large rug under the bed, layer the sheepskin on top of it at the corner. Layered rugs are one of the easiest ways to make a room look styled.
 
@@ -76,7 +75,7 @@ Winter light is the hardest part of the season. The fix is two kinds of light: s
 
 ### Wake up to a sunrise, even in the dark
 
-A sunrise alarm clock slowly brightens before your alarm time, so you wake to light instead of a buzz in the dark. The [Hatch Restore 2 sunrise alarm clock and sound machine in Putty](https://www.amazon.com/dp/B0C5S7K1JK?tag=creativedi03c-20) also plays sleep sounds and works as a dimmable reading light, and the putty color looks like a piece of decor rather than a gadget on the nightstand.
+A sunrise alarm clock slowly brightens before your alarm time, so you wake to light instead of a buzz in the dark. The [Hatch Restore 2 sunrise alarm clock and sound machine in Putty](https://link.amazon/B0bKVXBq5) also plays sleep sounds and works as a dimmable reading light, and the putty color looks like a piece of decor rather than a gadget on the nightstand.
 
 ### Turn off the overhead light after dark
 
@@ -84,11 +83,11 @@ In the evening, use only lamps: one on each nightstand, set lower than eye level
 
 ## Keep the air comfortable
 
-Heating dries out the air, and dry air makes a room feel less comfortable even when it is warm. A small humidifier on the dresser helps. The [Levoit top fill humidifier with a 2.5L tank](https://www.amazon.com/dp/B0C2C9NHZW?tag=creativedi03c-20) is made for bedrooms, fills from the top so refilling is easy, and is designed to run quietly. Clean it as the manual recommends so it stays fresh.
+Heating dries out the air, and dry air makes a room feel less comfortable even when it is warm. A small humidifier on the dresser helps. The [Levoit top fill humidifier with a 2.5L tank](https://link.amazon/B06fZ7B0c) is made for bedrooms, fills from the top so refilling is easy, and is designed to run quietly. Clean it as the manual recommends so it stays fresh.
 
 ## Make room for winter: swap and store
 
-A cozy room is a calm room, and that means putting summer away. Fold lightweight quilts, linen sheets and summer throws into [canvas storage bags for comforters and blankets](https://www.amazon.com/dp/B0C548Z31S?tag=creativedi03c-20). They are 100% cotton and breathable, with carrying straps, and they slide under the bed. Label each bag so spring is easy too.
+A cozy room is a calm room, and that means putting summer away. Fold lightweight quilts, linen sheets and summer throws into [canvas storage bags for comforters and blankets](https://link.amazon/B0730CVHp). They are 100% cotton and breathable, with carrying straps, and they slide under the bed. Label each bag so spring is easy too.
 
 Then keep one basket near the bed for the extra winter layer: a second throw or a spare pillow you can grab without getting up.
 
@@ -113,16 +112,16 @@ If you want this look in your own room, these are from the House & Habit shop.
 
 ## Shop the edit
 
-- [Bedsure dual control heated blanket, queen, in green](https://www.amazon.com/dp/B0C4GWLJ56?tag=creativedi03c-20)
-- [LANE LINEN 100% cotton flannel sheet set in Silver](https://www.amazon.com/dp/B09F71VJND?tag=creativedi03c-20)
+- [Bedsure dual control heated blanket, queen, in green](https://link.amazon/B05kAMiN1)
+- [LANE LINEN 100% cotton flannel sheet set in Silver](https://link.amazon/B01fw9m5E)
 - [Linenspa white down alternative comforter and duvet insert](https://www.amazon.com/dp/B00VGR4VW4?tag=creativedi03c-20)
 - [SAMIAH LUXE chunky knit throw in Buttercream](https://www.amazon.com/dp/B09KTBXHQQ?tag=creativedi03c-20)
-- [MIULEE corduroy throw pillow covers, set of 2](https://www.amazon.com/dp/B0BKSLWL5C?tag=creativedi03c-20)
-- [NICETOWN thermal insulated curtains in Biscotti Beige](https://www.amazon.com/dp/B01KWOY7UM?tag=creativedi03c-20)
-- [SAFAVIEH faux sheepskin rug, 4 x 6 in ivory](https://www.amazon.com/dp/B00PNJGKH0?tag=creativedi03c-20)
-- [Hatch Restore 2 sunrise alarm clock in Putty](https://www.amazon.com/dp/B0C5S7K1JK?tag=creativedi03c-20)
-- [Levoit top fill humidifier, 2.5L](https://www.amazon.com/dp/B0C2C9NHZW?tag=creativedi03c-20)
-- [Canvas storage bags for comforters and blankets](https://www.amazon.com/dp/B0C548Z31S?tag=creativedi03c-20)
+- [MIULEE corduroy throw pillow covers, set of 2](https://link.amazon/B0fIvuyNU)
+- [NICETOWN thermal insulated curtains in Biscotti Beige](https://link.amazon/B0d3Z3Ntn)
+- [SAFAVIEH faux sheepskin rug, 4 x 6 in ivory](https://link.amazon/B05w8XO1b)
+- [Hatch Restore 2 sunrise alarm clock in Putty](https://link.amazon/B0bKVXBq5)
+- [Levoit top fill humidifier, 2.5L](https://link.amazon/B06fZ7B0c)
+- [Canvas storage bags for comforters and blankets](https://link.amazon/B0730CVHp)
 
 ## The room you want to wake up in
 
