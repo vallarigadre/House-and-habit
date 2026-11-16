@@ -1,46 +1,16 @@
-# Editor notes for V
-
-**Title options**
-1. Gingerbread House Ideas: how to host a gingerbread decorating party (chosen)
-2. Gingerbread House Ideas: 6 designs and a decorating party plan
-3. Gingerbread House Ideas for a Holiday Party: the station, the candy and the cocoa
-
-**Meta description:** Gingerbread house ideas for a decorating party: the station setup, 6 candy house designs, snacks, cocoa and a simple setup checklist.
-
-**SEO tags:** gingerbread house ideas, gingerbread decorating party, gingerbread house decorating, gingerbread house candy, royal icing, Christmas party ideas, holiday hosting, Christmas activities for families, hot chocolate bar
-
-**Pinterest pin title:** Gingerbread House Ideas: how to host a decorating party
-
-**Pinterest pin description:** Gingerbread house ideas you can copy: a decorating station with candy jars and icing bags, 6 house designs with the candy for every detail, snacks, a cocoa pot and a setup checklist.
-
-**Products**
-
-| Product | ASIN | Category | Rate |
-|---|---|---|---|
-| Wilton mini village gingerbread house kit | B06Y5CHVDG | Grocery & Gourmet Food | check (grocery is low, about 1%) |
-| Create A Treat large gingerbread house kit | B00AG1X1J0 | Grocery & Gourmet Food | check (about 1%) |
-| Firstake piping bags and tips set | B09FF41FMF | Kitchen | 4.5% |
-| Wilton meringue powder, 8 oz | B000ZNOVCA | Grocery & Gourmet Food | check (about 1%) |
-| O'Creme gold square cake boards, pack of 5 | B07RRYRBZG | Industrial & Scientific | check |
-| Kootek cake decorating turntable | B082PZ5C8W | Kitchen | 4.5% |
-| MyGift glass apothecary candy jars, set of 4 | B07L51KXTY | Home & Kitchen | 3 to 4.5% |
-| Small ceramic 4 oz bowls, 8 pack | B0H4PSH6S9 | Kitchen | 4.5% |
-| Wilton holiday sprinkles six cell mix | B08NLTTH79 | Grocery & Gourmet Food | check (about 1%) |
-| Crock-Pot 6 quart programmable slow cooker (splurge) | B07V7GQBB5 | Kitchen | 4.5% |
-| Brown kraft paper roll, 100 ft | B0788YRV9V | Arts, Crafts & Sewing | check |
-
-**Medium:** import to Medium only after the post is live on the site, using Medium's import tool (Import a story, paste https://houseandhabit.blog/posts/gingerbread-house-ideas/) so the canonical link points to House & Habit.
-
-**Trend articles read**
-- [How to make a better gingerbread house, according to Front Range pastry chefs (5280)](https://5280.com/how-to-make-a-better-gingerbread-house-according-to-front-range-pastry-chefs)
-- [Gingerbread house decorating party (A Beautiful Mess)](https://abeautifulmess.com/gingerbread-house-decorating-party/)
-
 ---
-
-# Gingerbread House Ideas: how to host a gingerbread decorating party
-
-*A decorating station that runs itself, 6 house designs with the exact candy for every detail, easy snacks, cocoa for the crowd and a setup checklist.*
-
+title: "Gingerbread House Ideas: how to host a gingerbread decorating party"
+subtitle: "A decorating station that runs itself, 6 house designs with the exact candy for every detail, easy snacks, cocoa for the crowd and a setup checklist."
+date: 2026-11-16
+draft: true
+category: Hosting
+description: "Gingerbread house ideas for a decorating party: the station setup, 6 candy house designs, snacks, cocoa and a simple setup checklist."
+tags: [gingerbread house ideas, gingerbread decorating party, gingerbread house decorating, gingerbread house candy, royal icing, Christmas party ideas, holiday hosting, Christmas activities for families, hot chocolate bar]
+pin_title: "Gingerbread House Ideas: how to host a decorating party"
+pin_description: "Gingerbread house ideas you can copy: a decorating station with candy jars and icing bags, 6 house designs with the candy for every detail, snacks, a cocoa pot and a setup checklist."
+cover: "/images/gingerbread-house-ideas.jpg"
+cover_alt: "A long dining table set for a gingerbread decorating party with kraft paper, small gingerbread houses on gold boards, jars of candy and piping bags of white icing"
+---
 *This post contains affiliate links. As an Amazon Associate I earn from qualifying purchases, at no extra cost to you.*
 
 There is a moment at every gingerbread party when the room goes quiet. Grown-ups who were chatting a minute ago are hunched over a tiny roof, tongue between teeth, placing one gumdrop at a time. That is the magic of it: a gingerbread decorating party gives everyone something to do with their hands, and the conversation flows around it.
@@ -63,6 +33,8 @@ If you bake your own walls, add a little extra flour to your favorite gingerbrea
 
 ## The decorating station: set it up like a pro
 
+![A gingerbread decorating station with bowls of sprinkles and chocolate chips, glass jars of gumdrops, peppermints and mini candy canes, and piping bags of white icing in tall glasses](/images/gingerbread-house-ideas-2.jpg)
+
 A good station is what separates a calm party from a sticky scramble. Lay it out in this order along the table so guests can move down it without crossing paths.
 
 ### Cover the table
@@ -84,6 +56,8 @@ Royal icing is the glue and the snow. Make it with [meringue powder](https://www
 Fill [disposable piping bags](https://www.amazon.com/dp/B09FF41FMF?tag=creativedi03c-20) about halfway, twist the tops, and stand them in tall glasses so they do not tip over. Give each guest two bags: one with a small round tip for lines and dots, one with a star tip for snow drifts and garlands. Keep extra icing covered with a damp towel so it does not crust over.
 
 ## 6 gingerbread house ideas (and the candy for every detail)
+
+![Four decorated gingerbread houses in a row: a gumdrop roof cottage, a pretzel log cabin, a snowy chalet and an all-white house with a green wreath](/images/gingerbread-house-ideas-3.jpg)
 
 Put a little card with these designs on the table so guests who freeze in front of a blank roof have somewhere to start.
 
@@ -112,6 +86,8 @@ Best with homemade walls, since you need to cut window shapes before baking. Fil
 A favorite with grown-ups who want something chic. Use white icing only, a roof of white nonpareils or coconut, one wreath made of a green-tinted icing swirl and a single red candy, and a sprig of fresh rosemary as a tree by the door. Less candy, more restraint, and it looks beautiful on a mantel all season.
 
 ## Snacks and drinks for decorators
+
+![A party side table with a slow cooker of hot chocolate, mugs, a tray of marshmallows and crushed candy canes, a pear and pomegranate salad, slider rolls and popcorn](/images/gingerbread-house-ideas-4.jpg)
 
 Guests will snack on the candy no matter what, so balance it with something savory and filling. Keep food on a separate side table, away from the icing.
 
