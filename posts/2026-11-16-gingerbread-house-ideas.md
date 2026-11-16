@@ -2,7 +2,6 @@
 title: "Gingerbread House Ideas: how to host a gingerbread decorating party"
 subtitle: "A decorating station that runs itself, 6 house designs with the exact candy for every detail, easy snacks, cocoa for the crowd and a setup checklist."
 date: 2026-11-16
-draft: true
 category: Hosting
 description: "Gingerbread house ideas for a decorating party: the station setup, 6 candy house designs, snacks, cocoa and a simple setup checklist."
 tags: [gingerbread house ideas, gingerbread decorating party, gingerbread house decorating, gingerbread house candy, royal icing, Christmas party ideas, holiday hosting, Christmas activities for families, hot chocolate bar]
@@ -27,7 +26,7 @@ The single best decision you can make: **build the houses before anyone arrives*
 
 ### Kits or homemade walls?
 
-Both work. A kit saves you a whole day and comes with pre-cut walls that actually fit together. The [Wilton build-it-yourself mini village kit](https://www.amazon.com/dp/B06Y5CHVDG?tag=creativedi03c-20) gives you several small houses from one box, which is ideal for a one-house-per-guest party. For a single showpiece the group decorates together, the [Create A Treat large gingerbread house kit](https://www.amazon.com/dp/B00AG1X1J0?tag=creativedi03c-20) is a sturdy choice.
+Both work. A kit saves you a whole day and comes with pre-cut walls that actually fit together. The [Wilton build-it-yourself mini village kit](https://link.amazon/B0f7kbygt) gives you several small houses from one box, which is ideal for a one-house-per-guest party. For a single showpiece the group decorates together, the [Create A Treat large gingerbread house kit](https://link.amazon/B05IOIiAP) is a sturdy choice.
 
 If you bake your own walls, add a little extra flour to your favorite gingerbread dough so it holds sharp edges, roll it about a quarter inch thick, and cut the shapes before baking rather than after. Bake a day ahead so the pieces are fully cool and crisp.
 
@@ -39,21 +38,21 @@ A good station is what separates a calm party from a sticky scramble. Lay it out
 
 ### Cover the table
 
-Roll [brown kraft paper](https://www.amazon.com/dp/B0788YRV9V?tag=creativedi03c-20) down the full length of the table and tape it underneath. It catches every sprinkle, you can write each guest's name at their seat in marker, and cleanup is one roll and one trip to the recycling bin.
+Roll [brown kraft paper](https://link.amazon/B0iVuxmy8) down the full length of the table and tape it underneath. It catches every sprinkle, you can write each guest's name at their seat in marker, and cleanup is one roll and one trip to the recycling bin.
 
 ### Give every house a board
 
-Set each house on its own [gold square cake board](https://www.amazon.com/dp/B07RRYRBZG?tag=creativedi03c-20). It looks finished, it leaves room for a snowy yard and a candy path, and guests can carry their house home without it cracking. If you have one, a [cake decorating turntable](https://www.amazon.com/dp/B082PZ5C8W?tag=creativedi03c-20) at the head of the table is a treat for whoever takes on the big showpiece house, because they can spin it instead of leaning over it.
+Set each house on its own [gold square cake board](https://link.amazon/B06YBdJy8). It looks finished, it leaves room for a snowy yard and a candy path, and guests can carry their house home without it cracking. If you have one, a [cake decorating turntable](https://link.amazon/B07XfGIvT) at the head of the table is a treat for whoever takes on the big showpiece house, because they can spin it instead of leaning over it.
 
 ### Fill the candy jars
 
-Candy is the centerpiece, so display it like one. Clear [glass apothecary jars](https://www.amazon.com/dp/B07L51KXTY?tag=creativedi03c-20) down the middle of the table hold the big items (gumdrops, peppermints, candy canes), while [small ceramic bowls](https://www.amazon.com/dp/B0H4PSH6S9?tag=creativedi03c-20) at each place hold the small stuff within reach. Plan roughly one jar of each big candy per six guests and one bowl of mixed small candy per two.
+Candy is the centerpiece, so display it like one. Clear [glass apothecary jars](https://link.amazon/B09L63i0r) down the middle of the table hold the big items (gumdrops, peppermints, candy canes), while [small ceramic bowls](https://link.amazon/B08lHpGxL) at each place hold the small stuff within reach. Plan roughly one jar of each big candy per six guests and one bowl of mixed small candy per two.
 
 ### Prepare the icing
 
-Royal icing is the glue and the snow. Make it with [meringue powder](https://www.amazon.com/dp/B000ZNOVCA?tag=creativedi03c-20) instead of raw egg whites, so it is safe for everyone and sets hard. You want it thick, about the texture of peanut butter, for building, and slightly looser for piping details.
+Royal icing is the glue and the snow. Make it with [meringue powder](https://link.amazon/B08GIiRue) instead of raw egg whites, so it is safe for everyone and sets hard. You want it thick, about the texture of peanut butter, for building, and slightly looser for piping details.
 
-Fill [disposable piping bags](https://www.amazon.com/dp/B09FF41FMF?tag=creativedi03c-20) about halfway, twist the tops, and stand them in tall glasses so they do not tip over. Give each guest two bags: one with a small round tip for lines and dots, one with a star tip for snow drifts and garlands. Keep extra icing covered with a damp towel so it does not crust over.
+Fill [disposable piping bags](https://link.amazon/B0cyiDZ1d) about halfway, twist the tops, and stand them in tall glasses so they do not tip over. Give each guest two bags: one with a small round tip for lines and dots, one with a star tip for snow drifts and garlands. Keep extra icing covered with a damp towel so it does not crust over.
 
 ## 6 gingerbread house ideas (and the candy for every detail)
 
@@ -63,7 +62,7 @@ Put a little card with these designs on the table so guests who freeze in front 
 
 ### 1. The classic candy cottage
 
-The one everyone pictures. Overlapping rows of gumdrops for roof shingles, a peppermint swirl on each gable, candy cane posts at the door, and white piped icing icicles dripping from the eaves. Finish with a [Christmas sprinkles mix](https://www.amazon.com/dp/B08NLTTH79?tag=creativedi03c-20) pressed into the icing along the roofline.
+The one everyone pictures. Overlapping rows of gumdrops for roof shingles, a peppermint swirl on each gable, candy cane posts at the door, and white piped icing icicles dripping from the eaves. Finish with a [Christmas sprinkles mix](https://link.amazon/B0aV62Win) pressed into the icing along the roofline.
 
 ### 2. The log cabin
 
@@ -102,7 +101,7 @@ For gluten-free guests, offer the sliders on lettuce wraps or gluten-free rolls,
 
 ### Cocoa for the crowd
 
-Hot chocolate is the natural drink of a gingerbread party. Make a big batch in a [6 quart slow cooker](https://www.amazon.com/dp/B07V7GQBB5?tag=creativedi03c-20): 8 cups of whole milk, 2 cups of heavy cream, 1 1/2 cups of chopped semisweet chocolate, 1/2 cup of cocoa powder, 1/2 cup of sugar and a splash of vanilla. Cook on low for about 2 hours, whisking now and then, then switch to warm. Set out mini marshmallows, whipped cream and crushed candy canes beside it. For adults, a bottle of peppermint schnapps or Irish cream on the side is a nice touch.
+Hot chocolate is the natural drink of a gingerbread party. Make a big batch in a [6 quart slow cooker](https://link.amazon/B06xOrFju): 8 cups of whole milk, 2 cups of heavy cream, 1 1/2 cups of chopped semisweet chocolate, 1/2 cup of cocoa powder, 1/2 cup of sugar and a splash of vanilla. Cook on low for about 2 hours, whisking now and then, then switch to warm. Set out mini marshmallows, whipped cream and crushed candy canes beside it. For adults, a bottle of peppermint schnapps or Irish cream on the side is a nice touch.
 
 ## Your setup checklist
 
@@ -136,20 +135,20 @@ If you want to wear the theme while you host, these are from the House & Habit s
 
 ## Shop the edit
 
-- [Wilton build-it-yourself mini village gingerbread house kit](https://www.amazon.com/dp/B06Y5CHVDG?tag=creativedi03c-20)
-- [Create A Treat large gingerbread house kit](https://www.amazon.com/dp/B00AG1X1J0?tag=creativedi03c-20)
-- [Firstake piping bags and tips set, 100 bags with 14 tips](https://www.amazon.com/dp/B09FF41FMF?tag=creativedi03c-20)
-- [Wilton meringue powder, 8 oz](https://www.amazon.com/dp/B000ZNOVCA?tag=creativedi03c-20)
-- [O'Creme gold square cake boards, 12 inch, pack of 5](https://www.amazon.com/dp/B07RRYRBZG?tag=creativedi03c-20)
-- [Kootek cake decorating turntable](https://www.amazon.com/dp/B082PZ5C8W?tag=creativedi03c-20)
-- [MyGift glass apothecary candy jars, set of 4](https://www.amazon.com/dp/B07L51KXTY?tag=creativedi03c-20)
-- [Small ceramic 4 oz bowls, 8 pack](https://www.amazon.com/dp/B0H4PSH6S9?tag=creativedi03c-20)
-- [Wilton holiday sprinkles six cell mix](https://www.amazon.com/dp/B08NLTTH79?tag=creativedi03c-20)
-- [Crock-Pot 6 quart programmable slow cooker](https://www.amazon.com/dp/B07V7GQBB5?tag=creativedi03c-20)
-- [Brown kraft paper roll, 17.75 inch x 100 feet](https://www.amazon.com/dp/B0788YRV9V?tag=creativedi03c-20)
+- [Wilton build-it-yourself mini village gingerbread house kit](https://link.amazon/B0f7kbygt)
+- [Create A Treat large gingerbread house kit](https://link.amazon/B05IOIiAP)
+- [Firstake piping bags and tips set, 100 bags with 14 tips](https://link.amazon/B0cyiDZ1d)
+- [Wilton meringue powder, 8 oz](https://link.amazon/B08GIiRue)
+- [O'Creme gold square cake boards, 12 inch, pack of 5](https://link.amazon/B06YBdJy8)
+- [Kootek cake decorating turntable](https://link.amazon/B07XfGIvT)
+- [MyGift glass apothecary candy jars, set of 4](https://link.amazon/B09L63i0r)
+- [Small ceramic 4 oz bowls, 8 pack](https://link.amazon/B08lHpGxL)
+- [Wilton holiday sprinkles six cell mix](https://link.amazon/B0aV62Win)
+- [Crock-Pot 6 quart programmable slow cooker](https://link.amazon/B06xOrFju)
+- [Brown kraft paper roll, 17.75 inch x 100 feet](https://link.amazon/B0iVuxmy8)
 
 ## One last thing
 
-A gingerbread party is not about perfect houses. It is about the leaning chimney someone's dad insists is intentional, the roof that is more sprinkles than gingerbread, and a table full of people who stayed an hour longer than they planned. Set the station, start the cocoa, and let the mess be part of the fun. If you are planning a bigger holiday get-together too, our [Christmas party ideas](https://houseandhabit.blog/posts/christmas-party-ideas/) have a full plan and timeline.
+A gingerbread party is not about perfect houses. It is about the leaning chimney someone's dad insists is intentional, the roof that is more sprinkles than gingerbread, and a table full of people who stayed an hour longer than they planned. Set the station, start the cocoa, and let the mess be part of the fun. If you are planning a bigger holiday get-together too, our [Christmas party ideas](/posts/christmas-party-ideas/) have a full plan and timeline.
 
 Prices change often, so check the current price on Amazon before you buy.
