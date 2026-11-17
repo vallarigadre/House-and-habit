@@ -28,6 +28,8 @@ This is the warm, slightly retro cousin of the classic red tree, and it is every
 - **Skirt:** a chocolate brown faux fur or velvet skirt.
 - **Lights:** warm white only. Cool white makes red look pink.
 
+![A cherry cola Christmas tree with glossy cherry red balls, matte chocolate brown glass ornaments, burgundy velvet ribbon tails and a big burgundy bow topper over a chocolate brown faux fur skirt](/images/unique-christmas-tree-ideas-5.jpg)
+
 ## 2. The opera tree
 
 **Palette:** burgundy, black, antique gold and blush.
@@ -54,6 +56,8 @@ This one is almost too easy. Instead of ornaments, the tree is covered in oversi
 - **Skirt:** plain cream or white, so the bows stand out.
 - **Tip:** wire each bow to a sturdy inner branch, then fluff the loops and pull the tails so they point down and slightly out.
 
+![A slim Christmas tree covered only in oversized red velvet bows with warm white lights, beside a glowing lamp on a side table and taper candles on the mantel](/images/unique-christmas-tree-ideas-4.jpg)
+
 ## 4. The romantasy tree
 
 **Palette:** emerald, deep plum, midnight blue and antique gold.
@@ -78,6 +82,8 @@ Pinterest's 2026 report also called out Neo Deco, a modern take on 1920s Art Dec
 - **Topper:** a gold fan or a starburst with straight, sharp rays.
 - **Skirt:** a black velvet skirt, or a brass tree collar for a polished finish.
 
+![A slim neo deco Christmas tree with black, white and gold Art Deco ornaments, mirrored and brass balls, faux pearl garland, a gold fan topper and a black velvet skirt](/images/unique-christmas-tree-ideas-6.jpg)
+
 ## 6. The candy stripe tree
 
 **Palette:** red and white, with a touch of green.
@@ -90,6 +96,8 @@ Searches for "circus interior" are up 130% on Pinterest, part of a playful trend
 - **Skirt:** a red and white striped or ticking stripe skirt.
 - **Lights:** warm white minis, plus a few big globe bulbs for a carnival feel.
 
+![A candy stripe Christmas tree with red and white peppermint ornaments, white pom poms, striped ribbon bows and a red and white striped skirt in a bright kitchen](/images/unique-christmas-tree-ideas-7.jpg)
+
 ## 7. The baby blue and chocolate tree
 
 **Palette:** soft baby blue, chocolate brown and cream.
@@ -101,6 +109,8 @@ One of the most unexpected color pairings this year, and one of the prettiest. T
 - **Topper:** a cream bow or a simple brass star.
 - **Skirt:** a cream sherpa or chunky knit skirt.
 
+![A baby blue and chocolate Christmas tree with baby blue and brown ball ornaments, cream felt stars, cream velvet ribbon and a cream sherpa skirt in a calm bedroom](/images/unique-christmas-tree-ideas-8.jpg)
+
 ## Light it so the colors glow
 
 Color trees live or die by their lights. A few rules that work for all seven looks:
@@ -110,7 +120,6 @@ Color trees live or die by their lights. A few rules that work for all seven loo
 - **Weave, don't wrap.** Start at the bottom near the trunk and run each strand out along a branch and back, so the tree glows from inside.
 - **Light the room, too.** Turn off the overhead light and switch on one or two lamps with warm bulbs near the tree. Add candles on a side table or mantel for movement. For more on this, see our guide to [lighting for darker evenings](/posts/lighting-for-darker-evenings/).
 
-![A slim Christmas tree covered only in oversized red velvet bows with warm white lights, beside a glowing lamp on a side table and taper candles on the mantel](/images/unique-christmas-tree-ideas-4.jpg)
 
 ## The order to decorate any tree
 
