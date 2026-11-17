@@ -2,7 +2,6 @@
 title: "Christmas Tree Decorating Ideas: 6 looks and how to style each one"
 subtitle: "Six tree looks with the exact palette, ornaments, ribbon, topper and skirt for each, plus how to light it and the order that makes any tree look finished."
 date: 2026-11-17
-draft: true
 category: Decor
 description: "Christmas tree decorating ideas: 6 looks with palettes, ornaments, ribbon, toppers and skirts, plus how many lights you need and the order to decorate."
 tags: [Christmas tree decorating ideas, Christmas tree ideas, how to decorate a Christmas tree, Christmas tree lights, Christmas tree ribbon, Christmas decor, holiday decorating]
@@ -33,7 +32,7 @@ You can also do both: warm white mini lights deep inside the branches for glow, 
 
 A good rule of thumb is **about 100 lights for every foot of tree**. That means roughly 600 to 700 lights for a 6-to-7-foot tree and around 900 for a 9-foot tree. If you love a bright, magical look, go up to double that. A pre-lit tree often benefits from an extra strand or two tucked toward the trunk.
 
-Connectable strands make this easy. A [100-count warm white LED string on green wire](https://www.amazon.com/dp/B0B66QT1W2?tag=creativedi03c-20) disappears into the branches, and you can link several end to end so you only need one outlet.
+Connectable strands make this easy. A [100-count warm white LED string on green wire](https://link.amazon/B07yuZ2qf) disappears into the branches, and you can link several end to end so you only need one outlet.
 
 ### How to put them on
 
@@ -46,7 +45,7 @@ Plug the lights in before you start, so you can see gaps as you go. Start at the
 A glowing tree in a dark room can look stark. Layer in soft light around it so the whole corner feels warm.
 
 - **Lamps:** turn on one or two table lamps with warm bulbs near the tree, and switch off the overhead light. The tree becomes the brightest point, but not the only one.
-- **Candles:** a cluster of tapers on a side table or mantel nearby adds movement and warmth. [Real wax LED taper candles with a remote and timer](https://www.amazon.com/dp/B08SM1N4NB?tag=creativedi03c-20) flicker like the real thing and are safe near the branches and the gifts.
+- **Candles:** a cluster of tapers on a side table or mantel nearby adds movement and warmth. [Real wax LED taper candles with a remote and timer](https://link.amazon/B06Ik5sIJ) flicker like the real thing and are safe near the branches and the gifts.
 - **A timer:** put the tree and candles on a timer so the room is already glowing when you walk in at dusk.
 
 For more on layering lamps through the darker months, see our guide to [lighting for darker evenings](/posts/lighting-for-darker-evenings/).
@@ -59,9 +58,9 @@ For more on layering lamps through the darker months, see our guide to [lighting
 
 This is the tree from the old Christmas movies, and it never stops looking good. It works in almost any room and feels generous and traditional.
 
-- **Ornaments:** a mix of red and gold balls in two or three sizes, with matte, shiny and glitter finishes so the tree has depth. A [red and gold shatterproof ornament set](https://www.amazon.com/dp/B0BHHKZ9VW?tag=creativedi03c-20) gives you a coordinated base to build on, and it is safe if kids or pets bump the lower branches.
-- **Ribbon:** a [red wired velvet ribbon](https://www.amazon.com/dp/B0CD73Y4DF?tag=creativedi03c-20), cut into 18-inch tails and tucked in a loose cascade from top to bottom.
-- **Topper:** a gold star. A [lighted gold star topper](https://www.amazon.com/dp/B0CGLRPB4K?tag=creativedi03c-20) catches the light from every angle.
+- **Ornaments:** a mix of red and gold balls in two or three sizes, with matte, shiny and glitter finishes so the tree has depth. A [red and gold shatterproof ornament set](https://link.amazon/B04NPunZL) gives you a coordinated base to build on, and it is safe if kids or pets bump the lower branches.
+- **Ribbon:** a [red wired velvet ribbon](https://link.amazon/B084L0E4r), cut into 18-inch tails and tucked in a loose cascade from top to bottom.
+- **Topper:** a gold star. A [lighted gold star topper](https://link.amazon/B01BGjghT) catches the light from every angle.
 - **Skirt:** a red velvet or plain cream skirt, so the ornaments stay the star.
 
 ### 2. Champagne and snowy white
@@ -70,7 +69,7 @@ This is the tree from the old Christmas movies, and it never stops looking good.
 
 Light, quiet and glamorous, this look suits a white or neutral living room and pairs beautifully with a flocked tree.
 
-- **Ornaments:** a [champagne gold and white shatterproof ornament set](https://www.amazon.com/dp/B0DFPVFXK4?tag=creativedi03c-20), plus a few clear glass balls and white snowflakes.
+- **Ornaments:** a [champagne gold and white shatterproof ornament set](https://link.amazon/B024FX11A), plus a few clear glass balls and white snowflakes.
 - **Ribbon or garland:** ivory velvet or a sheer gold mesh ribbon, laid in soft swoops.
 - **Topper:** a simple gold star or an ivory bow with long tails.
 - **Skirt:** a faux fur or cream knit skirt that looks like fresh snow.
@@ -82,9 +81,9 @@ Light, quiet and glamorous, this look suits a white or neutral living room and p
 Inspired by the Victorian and heritage trends that design editors at Homes & Gardens are calling out this season, this tree feels collected, warm and a little old-fashioned in the best way. It smells good too.
 
 - **Ornaments:** dried orange slices, small wooden stars, gingerbread-colored balls and a few antique-style glass pieces.
-- **Garland:** a [dried orange slice garland with cinnamon sticks and red wood beads](https://www.amazon.com/dp/B0HF8CQJ7N?tag=creativedi03c-20), draped in loose swags. Tuck in sprigs of real eucalyptus, holly or berries for extra texture.
+- **Garland:** a [dried orange slice garland with cinnamon sticks and red wood beads](https://link.amazon/B01RArwrv), draped in loose swags. Tuck in sprigs of real eucalyptus, holly or berries for extra texture.
 - **Topper:** a natural straw or brass star.
-- **Skirt:** a [woven rattan tree collar](https://www.amazon.com/dp/B0DCMFJJ7D?tag=creativedi03c-20), which hides the stand neatly and looks like a basket of garden greenery. Measure your stand before you order so you choose the right width.
+- **Skirt:** a [woven rattan tree collar](https://link.amazon/B0gWSmpbm), which hides the stand neatly and looks like a basket of garden greenery. Measure your stand before you order so you choose the right width.
 
 ![A tree collar and lower branches styled with dried orange garland, cinnamon sticks, wooden stars and a woven rattan tree collar on a wood floor with wrapped gifts](/images/christmas-tree-decorating-ideas-3.jpg)
 
@@ -94,8 +93,8 @@ Inspired by the Victorian and heritage trends that design editors at Homes & Gar
 
 This is the joyful, a-little-kitschy tree that everyone secretly loves. It is ideal for a family room, a basement den or anyone who has a box of ornaments from childhood.
 
-- **Lights:** [vintage-style C9 multicolor lights with ceramic bulbs](https://www.amazon.com/dp/B0CHDM61K5?tag=creativedi03c-20), wrapped in loose spirals on the outside of the tree over a base of warm white minis.
-- **Ornaments:** [vintage-style glass ball ornaments](https://www.amazon.com/dp/B0H1RBS2TN?tag=creativedi03c-20), plus family keepsakes, handmade ornaments and a few quirky critters.
+- **Lights:** [vintage-style C9 multicolor lights with ceramic bulbs](https://link.amazon/B07yuZ2qf), wrapped in loose spirals on the outside of the tree over a base of warm white minis.
+- **Ornaments:** [vintage-style glass ball ornaments](https://link.amazon/B00ezLHg3), plus family keepsakes, handmade ornaments and a few quirky critters.
 - **Garland:** silver tinsel or a paper chain the kids make, used lightly.
 - **Topper:** a retro spire finial or an old-fashioned star.
 - **Skirt:** a red felt or patchwork skirt.
@@ -107,7 +106,7 @@ This is the joyful, a-little-kitschy tree that everyone secretly loves. It is id
 Cozy and cabin-like, this tree pairs perfectly with a plaid throw on the sofa and a fire in the fireplace.
 
 - **Ornaments:** red and green balls in matte finishes, wooden sleds, mini pinecones and small felt stockings.
-- **Ribbon:** a [red, green and white tartan wired ribbon](https://www.amazon.com/dp/B0H6GX2327?tag=creativedi03c-20), tied into a big bow for the top and cut into tails throughout.
+- **Ribbon:** a [red, green and white tartan wired ribbon](https://link.amazon/B05mJTCv9), tied into a big bow for the top and cut into tails throughout.
 - **Topper:** a tartan bow with long trailing tails, or a rustic metal star.
 - **Skirt:** a buffalo check or tartan skirt.
 
@@ -118,7 +117,7 @@ Cozy and cabin-like, this tree pairs perfectly with a plaid throw on the sofa an
 Less is more here. A slimmer tree with visible branches, a little air between the ornaments, and natural textures. It is perfect for small spaces and minimalist homes.
 
 - **Ornaments:** white paper stars, wooden beads and hearts, small felt mushrooms and a few red berries.
-- **Garland:** a [natural wood bead garland](https://www.amazon.com/dp/B093824LV1?tag=creativedi03c-20), draped in shallow, even swags.
+- **Garland:** a [natural wood bead garland](https://link.amazon/B0e041H9O), draped in shallow, even swags.
 - **Topper:** a white paper star or a simple wooden star.
 - **Skirt:** a plain linen or chunky knit skirt, or the rattan collar from look 3.
 
@@ -151,18 +150,18 @@ If you want the sofa and the room around the tree to match your look, these piec
 
 ## Shop the edit
 
-- [Warm white LED string lights, 100 count, green wire](https://www.amazon.com/dp/B0B66QT1W2?tag=creativedi03c-20)
-- [Vintage-style C9 multicolor lights](https://www.amazon.com/dp/B0CHDM61K5?tag=creativedi03c-20)
-- [Real wax LED taper candles with remote and timer](https://www.amazon.com/dp/B08SM1N4NB?tag=creativedi03c-20)
-- [Red and gold shatterproof ornament set](https://www.amazon.com/dp/B0BHHKZ9VW?tag=creativedi03c-20)
-- [Red wired velvet ribbon](https://www.amazon.com/dp/B0CD73Y4DF?tag=creativedi03c-20)
-- [Lighted gold star tree topper](https://www.amazon.com/dp/B0CGLRPB4K?tag=creativedi03c-20)
-- [Champagne gold and white ornament set](https://www.amazon.com/dp/B0DFPVFXK4?tag=creativedi03c-20)
-- [Dried orange slice garland with cinnamon sticks](https://www.amazon.com/dp/B0HF8CQJ7N?tag=creativedi03c-20)
-- [Woven rattan tree collar](https://www.amazon.com/dp/B0DCMFJJ7D?tag=creativedi03c-20)
-- [Vintage-style glass ball ornaments](https://www.amazon.com/dp/B0H1RBS2TN?tag=creativedi03c-20)
-- [Tartan plaid wired ribbon](https://www.amazon.com/dp/B0H6GX2327?tag=creativedi03c-20)
-- [Natural wood bead garland](https://www.amazon.com/dp/B093824LV1?tag=creativedi03c-20)
+- [Warm white LED string lights, 100 count, green wire](https://link.amazon/B07yuZ2qf)
+- [Vintage-style C9 multicolor lights](https://link.amazon/B07yuZ2qf)
+- [Real wax LED taper candles with remote and timer](https://link.amazon/B06Ik5sIJ)
+- [Red and gold shatterproof ornament set](https://link.amazon/B04NPunZL)
+- [Red wired velvet ribbon](https://link.amazon/B084L0E4r)
+- [Lighted gold star tree topper](https://link.amazon/B01BGjghT)
+- [Champagne gold and white ornament set](https://link.amazon/B024FX11A)
+- [Dried orange slice garland with cinnamon sticks](https://link.amazon/B01RArwrv)
+- [Woven rattan tree collar](https://link.amazon/B0gWSmpbm)
+- [Vintage-style glass ball ornaments](https://link.amazon/B00ezLHg3)
+- [Tartan plaid wired ribbon](https://link.amazon/B05mJTCv9)
+- [Natural wood bead garland](https://link.amazon/B0e041H9O)
 
 ## Make it yours
 
