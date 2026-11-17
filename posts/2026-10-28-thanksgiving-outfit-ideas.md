@@ -65,7 +65,7 @@ To try the season's favorite color, go tonal. Pick a purple sweater and pair it 
 
 ### 5. The suede layer for the after-dinner walk
 
-Many families have a tradition of a walk between dinner and dessert, or a backyard football game. That is where a good jacket earns its place. Suede was all over the fall runways, and the faux version gives you the look without the worry. The [Lmdudan faux suede notch lapel jacket](https://www.amazon.com/dp/B0H6MYCKY7?tag=creativedi03c-20) works over a sweater dress or with jeans and a knit.
+Many families have a tradition of a walk between dinner and dessert, or a backyard football game. That is where a good jacket earns its place. Suede was all over the fall runways, and the faux version gives you the look without the worry. The [Lmdudan faux suede notch lapel jacket](https://link.amazon/B0bHkAdXs) works over a sweater dress or with jeans and a knit.
 
 Carry a slouchy suede bag that matches the mood, like the [Herald small suede crescent hobo crossbody](https://link.amazon/B06H0f0ai). It is big enough for your phone, keys and a lipstick, and small enough to keep on your shoulder while you carry in the pie.
 
@@ -94,7 +94,7 @@ A great outfit is only half of being a wonderful guest. Run through this list th
 - [Trendy Queen oversized cable knit sweater](https://link.amazon/B0iGeHK0l): the cozy partner for satin.
 - [SANGTREE crewneck pullover sweater](https://link.amazon/B0cmtvTHi): an easy way into purple.
 - [NAADAM 100% cashmere chunky crewneck](https://link.amazon/B01aCCOWi): the splurge you will wear for years.
-- [Lmdudan faux suede notch lapel jacket](https://www.amazon.com/dp/B0H6MYCKY7?tag=creativedi03c-20): for the after-dinner walk.
+- [Lmdudan faux suede notch lapel jacket](https://link.amazon/B0bHkAdXs): for the after-dinner walk.
 - [Sam Edelman Loraine loafer](https://link.amazon/B03WqUo0h): the shoe that goes with everything here.
 - [PAVOI chunky gold hoops](https://link.amazon/B0cT7Vq5N): instant polish.
 - [Herald small suede crescent hobo crossbody](https://link.amazon/B06H0f0ai): just big enough.
