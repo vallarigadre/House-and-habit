@@ -93,7 +93,7 @@ Inspired by the Victorian and heritage trends that design editors at Homes & Gar
 
 This is the joyful, a-little-kitschy tree that everyone secretly loves. It is ideal for a family room, a basement den or anyone who has a box of ornaments from childhood.
 
-- **Lights:** [vintage-style C9 multicolor lights with ceramic bulbs](https://link.amazon/B07yuZ2qf), wrapped in loose spirals on the outside of the tree over a base of warm white minis.
+- **Lights:** [vintage-style C9 multicolor lights with ceramic bulbs](https://link.amazon/B01BOpN33), wrapped in loose spirals on the outside of the tree over a base of warm white minis.
 - **Ornaments:** [vintage-style glass ball ornaments](https://link.amazon/B00ezLHg3), plus family keepsakes, handmade ornaments and a few quirky critters.
 - **Garland:** silver tinsel or a paper chain the kids make, used lightly.
 - **Topper:** a retro spire finial or an old-fashioned star.
@@ -151,7 +151,7 @@ If you want the sofa and the room around the tree to match your look, these piec
 ## Shop the edit
 
 - [Warm white LED string lights, 100 count, green wire](https://link.amazon/B07yuZ2qf)
-- [Vintage-style C9 multicolor lights](https://link.amazon/B07yuZ2qf)
+- [Vintage-style C9 multicolor lights](https://link.amazon/B01BOpN33)
 - [Real wax LED taper candles with remote and timer](https://link.amazon/B06Ik5sIJ)
 - [Red and gold shatterproof ornament set](https://link.amazon/B04NPunZL)
 - [Red wired velvet ribbon](https://link.amazon/B084L0E4r)
