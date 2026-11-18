@@ -257,6 +257,7 @@ ${tags.map((t) => `<meta property="article:tag" content="${esc(t)}">`).join("\n"
 ${image ? `<meta name="twitter:image" content="${esc(image)}">` : ""}
 ${noindex ? "" : '<meta name="robots" content="index, follow, max-image-preview:large">'}
 ${site.googleSiteVerification ? `<meta name="google-site-verification" content="${esc(site.googleSiteVerification)}">` : ""}
+${site.adsenseId ? `<meta name="google-adsense-account" content="${esc(site.adsenseId)}">` : ""}
 ${site.pinterestVerification ? `<meta name="p:domain_verify" content="${esc(site.pinterestVerification)}">` : ""}
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="${esc(site.name)}" href="/rss.xml">
@@ -296,6 +297,7 @@ ${body}
       <a href="/about/">About</a>
       <a href="/disclosure/">Affiliate disclosure</a>
       <a href="/privacy/">Privacy</a>
+      <a href="/contact/">Contact</a>
       <a href="/rss.xml">RSS</a>
     </nav>
     <p class="foot__fine">As an Amazon Associate I earn from qualifying purchases. &copy; ${new Date().getFullYear()} ${esc(site.name)}</p>
@@ -487,6 +489,7 @@ function staticPages(pages) {
     const body = `<article class="post"><header class="post__head wrap"><h1>${esc(pg.title)}</h1></header><div class="prose">${pg.html}</div></article>`;
     write(`${pg.slug}/index.html`, layout({ title: pg.title, description: pg.description, path: `/${pg.slug}/`, body }));
   });
+  write("contact/sent/index.html", layout({ title: "Message sent", path: "/contact/sent/", noindex: true, body: `<section class="wrap narrow empty"><h1>Thank you, your message is on its way</h1><p>We usually reply within two working days. Until then, <a href="/">read the latest story</a>.</p></section>` }));
   write("thanks/index.html", layout({ title: "You're on the list", path: "/thanks/", body: `<section class="wrap narrow empty"><h1>You're on the list</h1><p>The next Sunday letter will land in your inbox. Until then, <a href="/">read the latest story</a>.</p></section>` }));
   write("404.html", layout({ title: "Page not found", path: "/404/", body: `<section class="wrap narrow empty"><h1>This page has moved or never existed</h1><p>Try the <a href="/archive/">full list of stories</a> or head back to the <a href="/">front page</a>.</p></section>` }));
 }

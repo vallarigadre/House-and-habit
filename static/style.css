@@ -334,3 +334,10 @@ a:hover { color: var(--aubergine); }
 .home-shop .more__all { margin-top: 1.4rem; }
 @media (max-width: 820px) { .home-shop .ownshop__grid--4 { --cols: 2; } }
 #our-shop { scroll-margin-top: 1.5rem; }
+
+/* Contact form */
+.contact-form { display: grid; gap: .4rem; max-width: 34rem; margin: 1.5rem 0; font-family: var(--sans); font-size: 1rem; }
+.contact-form label { font-weight: 600; margin-top: .6rem; }
+.contact-form input, .contact-form select, .contact-form textarea { font: inherit; color: var(--forest); background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: .65rem .8rem; width: 100%; }
+.contact-form button { justify-self: start; margin-top: 1rem; font: 600 1rem/1 var(--sans); background: var(--forest); color: var(--linen); border: 0; border-radius: 999px; padding: .85rem 1.5rem; cursor: pointer; }
+.contact-form__hp { position: absolute; left: -9999px; }

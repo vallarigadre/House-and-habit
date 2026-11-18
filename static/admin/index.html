@@ -144,6 +144,10 @@ td a { color: inherit; }
       <table id="ctyTable"><tbody></tbody></table>
     </div>
   </div>
+  <div class="card" style="margin-top:16px">
+    <h2>Messages from the contact page</h2>
+    <div id="msgs" class="empty">Loading…</div>
+  </div>
   <p class="note" style="margin-top:18px">Counts are anonymous. A view counts once per page per visit. "Read through" means the reader scrolled at least 60% of the way through a post. Platform comes from the link's utm_source tag, or the site the reader came from; Instagram and Threads apps often hide this, so tag your links there. Sales and earnings are in Amazon Associates under the creativedi03c-20 tracking ID.</p>
 </div>
 
@@ -178,12 +182,23 @@ td a { color: inherit; }
         $("login").hidden = true; $("app").hidden = false;
         var when = new Date().toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short" });
         $("status").textContent = "Updated " + when + "." + (d.partial ? " Very busy hour: some of the latest events will appear on the next refresh." : "");
-        fillPostFilter(); render();
+        fillPostFilter(); render(); loadMessages(key);
       })
       .catch(function (e) {
         if (e.message === "login") showLogin("That password didn't work.");
         else { $("app").hidden = false; $("status").textContent = "Couldn't load stats right now. Try Refresh in a minute."; }
       });
+  }
+
+  function loadMessages(key) {
+    fetch("/api/contact", { headers: { "x-key": key }, cache: "no-store" }).then(function (r) { return r.ok ? r.json() : { messages: [] }; }).then(function (d) {
+      var m = d.messages || [];
+      $("msgs").className = m.length ? "" : "empty";
+      $("msgs").innerHTML = m.length ? m.map(function (x) {
+        var when = new Date(x.created).toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short" });
+        return '<div style="border-bottom:1px solid var(--line);padding:10px 0"><b>' + esc(x.name || "No name") + '</b> <a href="mailto:' + esc(x.email) + '">' + esc(x.email) + '</a><span class="sub">' + esc(x.topic) + " · " + when + '</span><p style="margin:6px 0 0;white-space:pre-wrap">' + esc(x.message) + "</p></div>";
+      }).join("") : "No messages yet.";
+    }).catch(function () { $("msgs").textContent = "Couldn't load messages."; });
   }
 
   function dayList() {

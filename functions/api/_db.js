@@ -8,5 +8,7 @@ export async function ensureTables(db) {
     db.prepare(`CREATE INDEX IF NOT EXISTS events_day ON events(day)`),
     db.prepare(`CREATE TABLE IF NOT EXISTS subscribers (
       email TEXT PRIMARY KEY, created TEXT NOT NULL, page TEXT)`),
+    db.prepare(`CREATE TABLE IF NOT EXISTS messages (
+      id INTEGER PRIMARY KEY AUTOINCREMENT, created TEXT NOT NULL, name TEXT, email TEXT, topic TEXT, message TEXT)`),
   ]);
 }
