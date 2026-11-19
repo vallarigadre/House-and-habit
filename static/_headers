@@ -4,3 +4,7 @@
 /admin/*
   X-Robots-Tag: noindex, nofollow
   Cache-Control: no-store
+
+/pins/*
+  Access-Control-Allow-Origin: *
+  X-Robots-Tag: noindex
