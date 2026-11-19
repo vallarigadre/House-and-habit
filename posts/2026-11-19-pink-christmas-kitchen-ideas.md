@@ -11,7 +11,7 @@ cover: "/images/pink-christmas-kitchen-ideas.jpg"
 cover_alt: "A cream glass cutting board printed with pink and green watercolor Christmas trees and The Millers in green script, on a marble counter with sugar cookies and a pink ornament"
 ---
 
-Pink Christmas has quietly become one of the most saved holiday looks of the season, and it is easy to see why. Blush pink sits beautifully next to pine green, it glows under fairy lights, and it feels softer and more personal than the usual red and gold.
+If red and gold feel a little expected this year, pink and green is one of the prettiest ways to switch it up. Blush pink sits beautifully next to pine green, it glows under fairy lights, and it feels softer and more personal than the usual red and gold.
 
 The trick is keeping it cozy. Too much pink and a kitchen starts to feel like a candy shop. The kitchens that get it right mix blush pink with deep pine green, warm cream, a few red bows and a touch of gold. That is the exact palette behind our Pink Pine collection, and below are six easy ways to use it, from a two-minute oven door swap to a full pink and green Christmas table.
 
