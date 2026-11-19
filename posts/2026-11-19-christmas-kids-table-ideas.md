@@ -2,7 +2,6 @@
 title: "Christmas Kids' Table Ideas: how to keep little guests happy at holiday dinner"
 subtitle: "A kids Christmas table you can color on, easy drinks and a simple menu, a play corner a few steps away, FAO Schwarz gifts under the tree, and a setup checklist."
 date: 2026-11-19
-draft: true
 category: Hosting
 description: "Christmas kids' table ideas: a kraft paper runner to color on, place cards, kid-friendly drinks, a simple menu, a play corner and FAO Schwarz gifts."
 tags: [kids Christmas table, Christmas kids table ideas, kids table ideas, Christmas dinner with kids, holiday hosting, FAO Schwarz, Christmas gifts for kids, Christmas party ideas]
@@ -34,19 +33,19 @@ A few practical rules:
 
 ### A kraft paper runner they can color on
 
-Roll a [large brown kraft paper roll, 36 inch x 100 feet](https://www.amazon.com/dp/B07KKP6D3Z?tag=creativedi03c-20) over the whole table and tape it underneath. At 36 inches wide, it covers a standard card table in one sheet. Before guests arrive, draw a simple plate circle at each seat with a marker, then add a few prompts around the table: "Draw Santa's sleigh", "How many presents can you count?", "Design your own ornament". The paper is the tablecloth, the placemat and the activity, and cleanup is one roll into the recycling bin.
+Roll a [large brown kraft paper roll, 36 inch x 100 feet](https://link.amazon/B09TyE5ro) over the whole table and tape it underneath. At 36 inches wide, it covers a standard card table in one sheet. Before guests arrive, draw a simple plate circle at each seat with a marker, then add a few prompts around the table: "Draw Santa's sleigh", "How many presents can you count?", "Design your own ornament". The paper is the tablecloth, the placemat and the activity, and cleanup is one roll into the recycling bin.
 
 ### A crayon cup at every two seats
 
-Fill short jars or cups with [Crayola washable crayons, large size, 8 colors](https://www.amazon.com/dp/B00CGOIV0E?tag=creativedi03c-20). Large crayons are easier for little hands to hold and harder to snap, and washable matters when someone inevitably draws on a sleeve. One cup between two children is plenty and saves the "she has the red one" moment.
+Fill short jars or cups with [Crayola washable crayons, large size, 8 colors](https://link.amazon/B0e9bJoB7). Large crayons are easier for little hands to hold and harder to snap, and washable matters when someone inevitably draws on a sleeve. One cup between two children is plenty and saves the "she has the red one" moment.
 
 ### Place cards and a tiny teddy at each seat
 
-Name cards make kids feel like real guests. Write each name on [Fancy Land Christmas place cards, 36 pack](https://www.amazon.com/dp/B0C85D77LG?tag=creativedi03c-20) and stand one at every seat. Then add the detail they will remember: an [FAO Schwarz 7 inch Soldier Teddy Bear with gift bag](https://www.amazon.com/dp/B0GLPNSK9Q?tag=creativedi03c-20) sitting beside each card. It doubles as a party favor, a dinner companion and a nod to the toy store that started all of this. Check the age label on the listing before giving any plush to a baby or young toddler.
+Name cards make kids feel like real guests. Write each name on [Fancy Land Christmas place cards, 36 pack](https://link.amazon/B0cVywmji) and stand one at every seat. Then add the detail they will remember: an [FAO Schwarz 7 inch Soldier Teddy Bear with gift bag](https://link.amazon/B00zMS9D7) sitting beside each card. It doubles as a party favor, a dinner companion and a nod to the toy store that started all of this. Check the age label on the listing before giving any plush to a baby or young toddler.
 
 ### Cups with lids and straws
 
-Lids save the evening. Set out [Sliner Christmas cups with lids and straws, 24 pack](https://www.amazon.com/dp/B0CNT81RNR?tag=creativedi03c-20), and write each child's name on a strip of washi tape around the cup so drinks do not get mixed up. Kids love carrying them to the play corner, and a tipped cup stays a non-event.
+Lids save the evening. Set out [Sliner Christmas cups with lids and straws, 24 pack](https://link.amazon/B02KtMsUg), and write each child's name on a strip of washi tape around the cup so drinks do not get mixed up. Kids love carrying them to the play corner, and a tipped cup stays a non-event.
 
 ### Plates, napkins and a tiny centerpiece
 
@@ -83,8 +82,8 @@ Kids finish dinner long before the adults do. A play corner a few steps away let
 
 Choose a corner you can see from the dinner table and roll out a rug or a soft blanket. Then add:
 
-- **A cozy spot.** The [Comfy Cubs kids play tent](https://www.amazon.com/dp/B0D15PX45R?tag=creativedi03c-20) gives them a little room of their own. Fill it with pillows, a throw and a basket of Christmas books.
-- **Something to move to.** The [FAO Schwarz Giant Dance Mat Piano](https://www.amazon.com/dp/B0GNCK6THJ?tag=creativedi03c-20) is the at-home version of that famous floor piano. At 101 by 29 inches it fits along a hallway wall or in front of the tree, and after dinner it turns into a family dance-off.
+- **A cozy spot.** The [Comfy Cubs kids play tent](https://link.amazon/B053L5h2A) gives them a little room of their own. Fill it with pillows, a throw and a basket of Christmas books.
+- **Something to move to.** The [FAO Schwarz Giant Dance Mat Piano](https://link.amazon/B0iRc5ptx) is the at-home version of that famous floor piano. At 101 by 29 inches it fits along a hallway wall or in front of the tree, and after dinner it turns into a family dance-off.
 - **Something quiet to build.** A box of blocks keeps older kids busy at a low coffee table.
 - **A rule card.** "Shoes off in the tent, voices low after 7" works better than reminders shouted from the dinner table.
 
@@ -96,11 +95,11 @@ Leave the floor between the table and the corner clear, and set a grown-up "chec
 
 If the kids are opening gifts after dinner, keep them under the tree until the plates are cleared. It gives everyone something to look forward to and keeps wrapping paper out of the mashed potatoes. These picks all come from the official FAO Schwarz store on Amazon. Each listing shows a manufacturer age, so check it against the child before you buy, and remember that sets with small pieces are best kept away from babies and toddlers.
 
-- **For the pretend player:** the [FAO Schwarz Rescue Responders wooden fire station playset](https://www.amazon.com/dp/B0GNCZ7HRT?tag=creativedi03c-20) is a 21-piece, 2-in-1 wooden playset that turns the living room floor into a whole rescue scene.
-- **For the little chef:** the [FAO Schwarz Bake & Slice wooden pizza oven playset](https://www.amazon.com/dp/B0GNCZ7XKM?tag=creativedi03c-20) comes with 34 pieces for making and serving pretend pizza, which pairs beautifully with a real pizza night later in the holidays.
-- **For the builder:** the [FAO Schwarz Galaxy Glow Space Blocks, 37 pieces](https://www.amazon.com/dp/B0GNF3LJ5V?tag=creativedi03c-20) is a construction set with a space theme, a good fit for the coffee table building station.
-- **For the cuddler:** the [FAO Schwarz 16 inch Soldier Bear plush](https://www.amazon.com/dp/B0GNCW5F2B?tag=creativedi03c-20) is the big sibling of the little teddies at the place settings, and it looks wonderful propped against the tree skirt.
-- **For the whole family:** the [FAO Schwarz Giant Dance Mat Piano](https://www.amazon.com/dp/B0GNCK6THJ?tag=creativedi03c-20) from the play corner also makes a great shared gift for siblings.
+- **For the pretend player:** the [FAO Schwarz Rescue Responders wooden fire station playset](https://link.amazon/B0iYSRIwl) is a 21-piece, 2-in-1 wooden playset that turns the living room floor into a whole rescue scene.
+- **For the little chef:** the [FAO Schwarz Bake & Slice wooden pizza oven playset](https://link.amazon/B0eLgRlb6) comes with 34 pieces for making and serving pretend pizza, which pairs beautifully with a real pizza night later in the holidays.
+- **For the builder:** the [FAO Schwarz Galaxy Glow Space Blocks, 37 pieces](https://link.amazon/B0aGAxhuD) is a construction set with a space theme, a good fit for the coffee table building station.
+- **For the cuddler:** the [FAO Schwarz 16 inch Soldier Bear plush](https://link.amazon/B0jlWrfQh) is the big sibling of the little teddies at the place settings, and it looks wonderful propped against the tree skirt.
+- **For the whole family:** the [FAO Schwarz Giant Dance Mat Piano](https://link.amazon/B0iRc5ptx) from the play corner also makes a great shared gift for siblings.
 
 Wrap the big gifts in kraft paper left over from the table runner and tie them with red ribbon, so the whole evening feels pulled together.
 
@@ -131,17 +130,17 @@ If you want the grown-up table to match, these are from the House & Habit shop.
 
 ## Shop the edit
 
-- [Large brown kraft paper roll, 36 inch x 100 feet](https://www.amazon.com/dp/B07KKP6D3Z?tag=creativedi03c-20)
-- [Crayola washable crayons, large size, 8 colors](https://www.amazon.com/dp/B00CGOIV0E?tag=creativedi03c-20)
-- [Fancy Land Christmas place cards, 36 pack](https://www.amazon.com/dp/B0C85D77LG?tag=creativedi03c-20)
-- [FAO Schwarz 7 inch Soldier Teddy Bear with gift bag](https://www.amazon.com/dp/B0GLPNSK9Q?tag=creativedi03c-20)
-- [Sliner Christmas cups with lids and straws, 24 pack](https://www.amazon.com/dp/B0CNT81RNR?tag=creativedi03c-20)
-- [Comfy Cubs kids play tent](https://www.amazon.com/dp/B0D15PX45R?tag=creativedi03c-20)
-- [FAO Schwarz Giant Dance Mat Piano](https://www.amazon.com/dp/B0GNCK6THJ?tag=creativedi03c-20)
-- [FAO Schwarz Galaxy Glow Space Blocks, 37 pieces](https://www.amazon.com/dp/B0GNF3LJ5V?tag=creativedi03c-20)
-- [FAO Schwarz Rescue Responders wooden fire station playset](https://www.amazon.com/dp/B0GNCZ7HRT?tag=creativedi03c-20)
-- [FAO Schwarz Bake & Slice wooden pizza oven playset](https://www.amazon.com/dp/B0GNCZ7XKM?tag=creativedi03c-20)
-- [FAO Schwarz 16 inch Soldier Bear plush](https://www.amazon.com/dp/B0GNCW5F2B?tag=creativedi03c-20)
+- [Large brown kraft paper roll, 36 inch x 100 feet](https://link.amazon/B09TyE5ro)
+- [Crayola washable crayons, large size, 8 colors](https://link.amazon/B0e9bJoB7)
+- [Fancy Land Christmas place cards, 36 pack](https://link.amazon/B0cVywmji)
+- [FAO Schwarz 7 inch Soldier Teddy Bear with gift bag](https://link.amazon/B00zMS9D7)
+- [Sliner Christmas cups with lids and straws, 24 pack](https://link.amazon/B02KtMsUg)
+- [Comfy Cubs kids play tent](https://link.amazon/B053L5h2A)
+- [FAO Schwarz Giant Dance Mat Piano](https://link.amazon/B0iRc5ptx)
+- [FAO Schwarz Galaxy Glow Space Blocks, 37 pieces](https://link.amazon/B0aGAxhuD)
+- [FAO Schwarz Rescue Responders wooden fire station playset](https://link.amazon/B0iYSRIwl)
+- [FAO Schwarz Bake & Slice wooden pizza oven playset](https://link.amazon/B0eLgRlb6)
+- [FAO Schwarz 16 inch Soldier Bear plush](https://link.amazon/B0jlWrfQh)
 
 ## A table they will remember
 
