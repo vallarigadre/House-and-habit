@@ -37,7 +37,7 @@ Lay it out left to right, in the order people use it:
 
 Tuck greenery, a few pillar candles in hurricanes and a string of warm white lights along the back. Lighting matters here: a lamp nearby or candles behind the dispenser make the punch glow like stained glass.
 
-![A sideboard Christmas drink station with a tall glass dispenser of red punch on a cake stand, stacked coupe glasses, a stainless ice bucket and pitchers, with cedar garland and candles behind](/images/christmas-cocktails-drink-station-2.jpg)
+![A self-serve Christmas drink station on a gold bar cart with a tall glass dispenser of red punch on a cake stand, stacked coupe glasses, a stainless ice bucket, pitchers and a cedar garland on the handle](/images/christmas-cocktails-drink-station-2.jpg)
 
 ## The big-batch Christmas punch: sparkling pomegranate and orange
 
