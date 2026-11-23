@@ -1,53 +1,16 @@
-# Editor notes for V (delete this block before importing)
-
-**Section:** Decor  
-**Keyword:** Christmas table decor
-
-**Title options**
-1. Christmas Table Decor: 5 easy centerpieces and place settings to copy (chosen)
-2. Christmas Table Decor Ideas: from everyday centerpieces to a dressed-up dinner
-3. Christmas Table Decor: how to set a beautiful holiday table, step by step
-
-**Subtitle:** Five complete Christmas table looks, from a weeknight dough bowl to a gold and green dinner, plus a step-by-step for setting the table.
-
-**Meta description (151 chars):** Christmas table decor ideas you can copy: 5 easy centerpieces and place settings, from everyday to dressed up, plus how to set the table step by step.
-
-**SEO tags:** Christmas table decor, Christmas centerpiece ideas, Christmas place settings, Christmas tablescape, holiday table setting, tartan table, dried orange garland, Christmas dinner table, holiday hosting, Christmas decorating
-
-**Pinterest pin title:** Christmas Table Decor: 5 easy centerpieces and place settings  
-**Pinterest pin description:** Christmas table decor you can recreate: a dough bowl centerpiece, a heritage tartan table, dried orange garland, a natural Scandinavian setting and a gold and green dinner, plus a step-by-step for setting the table.
-
-**Products**
-
-| # | Product | ASIN | Category | Rate |
-|---|---|---|---|---|
-| 1 | Hand-carved paulownia wooden dough bowl | B0B9CLPCFN | Home | 3% |
-| 2 | Gold mercury glass votive holders, set of 12 | B079LV43CV | Home | 3% |
-| 3 | Brass taper candle holders, set of 3 | B07DR9ZTMR | Home | 3% |
-| 4 | Bolsius ivory unscented taper candles, 10 pack | B011ABWSDE | Home | 3% |
-| 5 | Round gold floral-rim charger plates, set of 6 | B08DTV47WB | Kitchen | 4.5% |
-| 6 | Pine and pinecone napkin rings, set of 6 | B0DD2XDWPY | Kitchen | 4.5% |
-| 7 | WildIvory faux eucalyptus garland | B07SHBVF66 | Home | 3% |
-| 8 | Dried orange slice garland with cinnamon sticks, 2 pack | B0HF8CQJ7N | Home | 3% |
-| 9 | Kouboo round rattan charger plates, set of 2 | B016WKOLQU | Kitchen | 4.5% |
-| 10 | Ivory hemstitch linen dinner napkins, set of 6 | B07FRNTBQ7 | Kitchen | 4.5% |
-| 11 | Gold hurricane glass candle holders, set of 2 | B0HCYYQL4J | Home | 3% |
-| 12 | Creative Co-Op metal bell place card holders | B09VK21M2X | Home | 3% |
-
-House & Habit shop pieces in the post: Red Tartan Plaid Table Runner, Red Tartan Plaid Napkins, Holly & Gingham Table Runner, Holly & Gingham Napkins.
-
-**Medium:** import to Medium only after the post is live on the site, using Medium's import tool (Import a story) with /posts/christmas-table-decor/ so the canonical link points to House & Habit. If you paste instead, set the canonical link to that address in story settings.
-
-**Trend articles read**
-- [22 Designer-Approved Christmas Table Decor Ideas for 2026 (Homes & Gardens)](https://www.homesandgardens.com/uk/living/christmas-table-decor-ideas)
-- [6 Christmas Decorating Trends Set to Define the 2026 Holiday Season (Homes & Gardens)](https://www.homesandgardens.com/decor/seasonal/christmas-trends-2026)
-
 ---
-
-# Christmas Table Decor: 5 easy centerpieces and place settings to copy
-
-*Five complete Christmas table looks, from a weeknight dough bowl to a gold and green dinner, plus a step-by-step for setting the table.*
-
+title: "Christmas Table Decor: 5 easy centerpieces and place settings to copy"
+subtitle: "Five complete Christmas table looks, from a weeknight dough bowl to a gold and green dinner, plus a step-by-step for setting the table."
+date: 2026-11-23
+draft: true
+category: Decor
+description: "Christmas table decor ideas you can copy: 5 easy centerpieces and place settings, from everyday to dressed up, plus how to set the table step by step."
+tags: [Christmas table decor, Christmas centerpiece ideas, Christmas place settings, Christmas tablescape, holiday table setting, tartan table, dried orange garland, Christmas dinner table, holiday hosting, Christmas decorating]
+pin_title: "Christmas Table Decor: 5 easy centerpieces and place settings"
+pin_description: "Christmas table decor you can recreate: a dough bowl centerpiece, a heritage tartan table, dried orange garland, a natural Scandinavian setting and a gold and green dinner, plus a step-by-step for setting the table."
+cover: "/images/christmas-table-decor.jpg"
+cover_alt: "A long wooden dining table set for Christmas dinner with a red tartan runner, a cedar garland with apples and pomegranates, lit ivory taper candles in brass holders and gold-rimmed place settings"
+---
 *This post contains affiliate links. As an Amazon Associate I earn from qualifying purchases, at no extra cost to you.*
 
 The Christmas table does more work than any other surface in the house this month. It holds the weeknight soup, the cookie decorating, the Saturday dinner with friends and, finally, the big meal itself. So it deserves a plan that is pretty, practical and easy to reset.
