@@ -2,7 +2,6 @@
 title: "White Elephant Gift Ideas Under $30: funny, useful and actually wanted"
 subtitle: "Cozy home picks, kitchen and bar finds, party games and a gift basket plan, all built to win the room."
 date: 2026-11-27
-draft: true
 category: Hosting
 description: "White elephant gift ideas under $30 that are funny, useful and actually wanted: cozy home, kitchen and bar picks, games and a gift basket plan."
 tags: [white elephant gift ideas, white elephant gifts under 30, gift basket ideas, Christmas gift exchange, host gifts, kitchen and bar gifts, cozy gifts, holiday party games]
@@ -39,19 +38,19 @@ Anything soft, warm or scented wins a white elephant party. These are the picks 
 
 ### The throw blanket
 
-A good flannel throw is the safest winning gift there is. The [HYSEAS Flannel Fleece Throw Blanket in Ivory](https://www.amazon.com/dp/B00ZR3WAIA?tag=creativedi03c-20) is a lightweight 50 by 60 inch blanket in a neutral color that suits nearly every sofa. Roll it, tie it with a ribbon and tuck a sprig of rosemary under the bow, and it looks far more expensive than it is.
+A good flannel throw is the safest winning gift there is. The [HYSEAS Flannel Fleece Throw Blanket in Ivory](https://link.amazon/B02YaEzC7) is a lightweight 50 by 60 inch blanket in a neutral color that suits nearly every sofa. Roll it, tie it with a ribbon and tuck a sprig of rosemary under the bow, and it looks far more expensive than it is.
 
 ### The mug warmer
 
-This one is a sleeper hit. A mug warmer keeps a cup of coffee, tea or cocoa warm on a desk or side table, and it works as a candle warmer too. The [Imperial Home Mug Warmer for Coffee and Tea](https://www.amazon.com/dp/B07JR9BB1H?tag=creativedi03c-20) is the kind of gift people say they would never buy themselves, and then use every day. Pair it with a pretty mug and you have a full gift.
+This one is a sleeper hit. A mug warmer keeps a cup of coffee, tea or cocoa warm on a desk or side table, and it works as a candle warmer too. The [Imperial Home Mug Warmer for Coffee and Tea](https://link.amazon/B00vcXvJF) is the kind of gift people say they would never buy themselves, and then use every day. Pair it with a pretty mug and you have a full gift.
 
 ### Fuzzy socks
 
-Nobody has too many pairs. The [SISOSOCK Fuzzy Cozy Fluffy Wool Socks for Women](https://www.amazon.com/dp/B0CHYTC6DW?tag=creativedi03c-20) are a soft, giftable pick that fits easily in a stocking or on top of a bigger present. Roll them into a tidy bundle and tie them with twine.
+Nobody has too many pairs. The [SISOSOCK Fuzzy Cozy Fluffy Wool Socks for Women](https://link.amazon/B0gZupooC) are a soft, giftable pick that fits easily in a stocking or on top of a bigger present. Roll them into a tidy bundle and tie them with twine.
 
 ### The funny coasters
 
-For the gift that gets a laugh, the [White Elephant Gag Gifts Coasters Set of 6 with Holder](https://www.amazon.com/dp/B0D66QBHY4?tag=creativedi03c-20) is made for exactly this game. It is funny in the moment and still useful on a coffee table afterward, which is the best kind of gag gift.
+For the gift that gets a laugh, the [White Elephant Gag Gifts Coasters Set of 6 with Holder](https://link.amazon/B02XMClaJ) is made for exactly this game. It is funny in the moment and still useful on a coffee table afterward, which is the best kind of gag gift.
 
 ![A cream fleece throw rolled and tied with ribbon beside a mug warmer with a steaming mug and a stack of coasters on a wood side table](/images/white-elephant-gift-ideas-2.jpg)
 
@@ -61,22 +60,22 @@ Hosting gifts are a quiet strength of this blog, and they are some of the most s
 
 ### The cheese knife set
 
-A charcuterie board is on nearly every holiday table, which makes a knife set a gift with a place to go. The [6-Piece Stainless Steel Cheese Knife Set with Wood Handles](https://www.amazon.com/dp/B07ZY711RR?tag=creativedi03c-20) includes a slicer, a cutter, a fork and a spreader, so it covers soft cheese, hard cheese and everything in between. Tuck it into a small wooden board or a linen napkin for a gift that looks styled.
+A charcuterie board is on nearly every holiday table, which makes a knife set a gift with a place to go. The [6-Piece Stainless Steel Cheese Knife Set with Wood Handles](https://link.amazon/B06sS6lRK) includes a slicer, a cutter, a fork and a spreader, so it covers soft cheese, hard cheese and everything in between. Tuck it into a small wooden board or a linen napkin for a gift that looks styled.
 
 ### Cocktail ice trays
 
-Big, slow-melting cubes make a drink look professional. The [Ticent Silicone Whiskey Ice Ball and Large Square Ice Cube Trays, Set of 2](https://www.amazon.com/dp/B01J1BLYUS?tag=creativedi03c-20) come with lids, so they stack in a freezer without a mess. Add a small bottle of cocktail bitters or a jar of cocktail cherries if you want to turn it into a bar gift.
+Big, slow-melting cubes make a drink look professional. The [Ticent Silicone Whiskey Ice Ball and Large Square Ice Cube Trays, Set of 2](https://link.amazon/B0gvHK498) come with lids, so they stack in a freezer without a mess. Add a small bottle of cocktail bitters or a jar of cocktail cherries if you want to turn it into a bar gift.
 
 ### The mini waffle maker
 
-A little festive appliance is a guaranteed conversation piece. The [Gingerbread Man Mini Waffle Maker, a 4 inch electric waffler](https://www.amazon.com/dp/B08M6FZKGV?tag=creativedi03c-20) makes waffle gingerbread men for Christmas morning, and it is small enough to store in any kitchen drawer. Wrap it with a pouch of pancake mix and a bottle of maple syrup, and you have a ready-made breakfast.
+A little festive appliance is a guaranteed conversation piece. The [Gingerbread Man Mini Waffle Maker, a 4 inch electric waffler](https://link.amazon/B0aEgcOzi) makes waffle gingerbread men for Christmas morning, and it is small enough to store in any kitchen drawer. Wrap it with a pouch of pancake mix and a bottle of maple syrup, and you have a ready-made breakfast.
 
 ## Games that make the party
 
 A funny game is a classic white elephant present, and it gets used the same night, so it feels generous.
 
-- **For a group that loves a laugh:** [The Voting Game](https://www.amazon.com/dp/B01M4S76RH?tag=creativedi03c-20) is an adult card game about finding out what your friends really think of each other. It works well for friends, coworkers who know each other well and any group that enjoys a little teasing.
-- **For the exchange itself:** the [White Elephant Gift Exchange Game](https://www.amazon.com/dp/B0CLCBTBTQ?tag=creativedi03c-20) is made for holiday parties with family, friends or coworkers, and it gives the host a ready-made way to run the swap.
+- **For a group that loves a laugh:** [The Voting Game](https://link.amazon/B0hbp8dhS) is an adult card game about finding out what your friends really think of each other. It works well for friends, coworkers who know each other well and any group that enjoys a little teasing.
+- **For the exchange itself:** the [White Elephant Gift Exchange Game](https://link.amazon/B03TGcREc) is made for holiday parties with family, friends or coworkers, and it gives the host a ready-made way to run the swap.
 
 Set the games out on a coffee table with a bowl of peppermints and a tray of drinks, and the party practically runs itself.
 
@@ -86,7 +85,7 @@ Set the games out on a coffee table with a bowl of peppermints and a tray of dri
 
 A gift basket is the secret weapon of a white elephant party, because it looks generous and still stays under the limit. The trick is to pick one theme and keep the pieces small.
 
-**Cocoa night basket:** the [Hot Chocolate Gift Set with Reindeer Mug](https://www.amazon.com/dp/B0BKTJ2XM1?tag=creativedi03c-20) comes with sachets, mini marshmallows, candy canes and socks. Add a plaid napkin and a cinnamon stick for a basket that looks like it came from a boutique.
+**Cocoa night basket:** the [Hot Chocolate Gift Set with Reindeer Mug](https://link.amazon/B05Fhy0kW) comes with sachets, mini marshmallows, candy canes and socks. Add a plaid napkin and a cinnamon stick for a basket that looks like it came from a boutique.
 
 **Movie night basket:** a flannel throw, a bowl of popcorn kernels, a bottle of seasoning and a box of candy, packed in a shallow basket and tied with a ribbon.
 
@@ -102,16 +101,16 @@ If you want to add something from our own collection, a candle, a mug or a tea t
 
 ## Shop the edit
 
-- [HYSEAS Flannel Fleece Throw Blanket, Ivory](https://www.amazon.com/dp/B00ZR3WAIA?tag=creativedi03c-20)
-- [Imperial Home Mug Warmer for Coffee and Tea](https://www.amazon.com/dp/B07JR9BB1H?tag=creativedi03c-20)
-- [SISOSOCK Fuzzy Cozy Fluffy Wool Socks for Women](https://www.amazon.com/dp/B0CHYTC6DW?tag=creativedi03c-20)
-- [White Elephant Gag Gifts Coasters Set of 6 with Holder](https://www.amazon.com/dp/B0D66QBHY4?tag=creativedi03c-20)
-- [6-Piece Stainless Steel Cheese Knife Set](https://www.amazon.com/dp/B07ZY711RR?tag=creativedi03c-20)
-- [Ticent Silicone Whiskey Ice Ball and Large Square Ice Cube Trays](https://www.amazon.com/dp/B01J1BLYUS?tag=creativedi03c-20)
-- [Gingerbread Man Mini Waffle Maker](https://www.amazon.com/dp/B08M6FZKGV?tag=creativedi03c-20)
-- [The Voting Game](https://www.amazon.com/dp/B01M4S76RH?tag=creativedi03c-20)
-- [White Elephant Gift Exchange Game](https://www.amazon.com/dp/B0CLCBTBTQ?tag=creativedi03c-20)
-- [Hot Chocolate Gift Set with Reindeer Mug](https://www.amazon.com/dp/B0BKTJ2XM1?tag=creativedi03c-20)
+- [HYSEAS Flannel Fleece Throw Blanket, Ivory](https://link.amazon/B02YaEzC7)
+- [Imperial Home Mug Warmer for Coffee and Tea](https://link.amazon/B00vcXvJF)
+- [SISOSOCK Fuzzy Cozy Fluffy Wool Socks for Women](https://link.amazon/B0gZupooC)
+- [White Elephant Gag Gifts Coasters Set of 6 with Holder](https://link.amazon/B02XMClaJ)
+- [6-Piece Stainless Steel Cheese Knife Set](https://link.amazon/B06sS6lRK)
+- [Ticent Silicone Whiskey Ice Ball and Large Square Ice Cube Trays](https://link.amazon/B0gvHK498)
+- [Gingerbread Man Mini Waffle Maker](https://link.amazon/B0aEgcOzi)
+- [The Voting Game](https://link.amazon/B0hbp8dhS)
+- [White Elephant Gift Exchange Game](https://link.amazon/B03TGcREc)
+- [Hot Chocolate Gift Set with Reindeer Mug](https://link.amazon/B05Fhy0kW)
 
 ## Wrap it up
 
