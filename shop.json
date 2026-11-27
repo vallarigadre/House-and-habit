@@ -67,6 +67,30 @@
  ],
  "products": [
   {
+   "handle": "ugly-christmas-sweater-candle-santa-socks-gift-set-funny-secret-santa-gift",
+   "title": "Ugly Christmas Sweater Candle & Santa Socks Gift Set",
+   "price": "42",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/20261127075646-1f1ea381-7fae-6092-b0b6-c225b20ec50a.jpg?v=1795766258",
+   "collection": "gifts",
+   "type": "gifts"
+  },
+  {
+   "handle": "partner-in-crime-christmas-gift-box-for-best-friend-candle-eye-mask-fuzzy-socks",
+   "title": "Partner in Crime Christmas Gift Box",
+   "price": "36",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/20261127071909-1f1ea32d-6916-6a54-b15c-8619aaeca2d1.jpg?v=1795764093",
+   "collection": "gifts",
+   "type": "gifts"
+  },
+  {
+   "handle": "youre-my-favorite-deer-christmas-gift-set-candle-fuzzy-reindeer-socks",
+   "title": "You're My Favorite Deer Christmas Gift Set",
+   "price": "38",
+   "image": "https://cdn.shopify.com/s/files/1/0798/2524/0201/files/20261127045923-1f1ea1f4-ff0f-6c48-8338-ee51bf0e8471.png?v=1795764153",
+   "collection": "gifts",
+   "type": "gifts"
+  },
+  {
    "handle": "red-tartan-plaid-table-runner",
    "title": "Red Tartan Plaid Christmas Table Runner, 16x72",
    "price": "38",
